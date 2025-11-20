@@ -155,6 +155,8 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?WebM3UCL
 http://200.60.124.25:8000/play/a0mi/index.m3u8
 #EXTINF:-1 group-title="Cine",SPACE
 http://45.230.199.108:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Cine",Paramount
+http://45.230.199.108:8000/play/a026/index.m3u8
 
 #EXTINF:-1 group-title="Deporte",ContactoTV
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
