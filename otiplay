@@ -26,9 +26,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png",Global
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png",Gol Peru
-http://181.66.249.246:8000/play/a03t/index.m3u8
+http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_480_270.jpg",L1 MAX
-http://181.66.249.246:8000/play/a03u/index.m3u8
+http://190.234.82.52:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="FlexTV",DOBLEC
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 group-title="FlexTV",Latina Clasicos
@@ -174,6 +174,8 @@ http://bantel-cdn4.iptvperu.tv:1935/7v5vVh/espn4.stream/playlist.m3u8
 http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Deporte",DirecTV Sports
+http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN LA
 http://45.230.199.108:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN2 LA
@@ -186,6 +188,12 @@ http://45.230.199.108:8000/play/a045/index.m3u8
 http://45.230.199.108:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN6 LA
 http://45.230.199.108:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Deporte",GOLPERU (P)
+http://181.66.249.246:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Deporte",Movistar Deportes
+http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:-1 group-title="Deporte",L1MAX (P)
+http://181.66.249.246:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
