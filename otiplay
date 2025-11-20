@@ -159,6 +159,8 @@ http://45.230.199.108:8000/play/a023/index.m3u8
 http://45.230.199.108:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinecanal
 http://45.186.105.188:8000/play/a0hq/index.m3u8
+#EXTINF:-1 group-title="Cine",DHE
+http://45.186.105.188:8000/play/a0gy/index.m3u8
 
 #EXTINF:-1 group-title="Deporte",ContactoTV
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
