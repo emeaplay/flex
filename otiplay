@@ -57,7 +57,7 @@ https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png",OD TV 2
 https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="FlexTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Canal_de_las_Estrellas_2010.png/revision/latest?cb=20200305231203&path-prefix=es",Las Estrellas
+#EXTINF:-1 group-title="FlexTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://i.pinimg.com/originals/e7/bd/ad/e7bdad0daad96021feda64d88000386d.gif",Univision
 http://45.186.105.188:8000/play/a0kr/index.m3u8
