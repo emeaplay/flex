@@ -17,6 +17,8 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png",ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+#EXTINF:-1 group-title="FlexTV",RPP TV
+https://dai.google.com/linear/hls/pa/event/T4-TqvB_S1e4oVP9QbO6VQ/stream/6a61bc2c-cf29-4cbb-a018-d43ba8e15d23:DLS/variant/a2607c6664646f749075611cdead23a0/bandwidth/3276591.m3u8
 #EXTINF:-1 group-title="FlexTV",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png",Willax
@@ -309,3 +311,16 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
 #EXTINF:-1 group-title="24H",RPP Stream
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
+
+#EXTINF:-1 group-title="Radio",La Noventera
+https://host.gometri.com/proxy/lanoventera/stream
+#EXTINF:-1 group-title="Radio",Radio PBO
+http://n05.radiojar.com/2fse67zuv8hvv?1669043472=&rj-tok=AAABmqMhuWoAyhvXAa3T-Ovmiw&rj-ttl=5
+#EXTINF:-1 group-title="Radio",La Noventera
+
+#EXTINF:-1 group-title="Radio",La Noventera
+#EXTINF:-1 group-title="Radio",La Noventera
+#EXTINF:-1 group-title="Radio",La Noventera
+#EXTINF:-1 group-title="Radio",La Noventera
+#EXTINF:-1 group-title="Radio",La Noventera
+
