@@ -66,7 +66,7 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://kanalddrama.com/fav.png",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="FlexTV",Pasiones
-http://181.65.207.62:8000/play/a00y
+http://45.186.105.188:8000/play/a0kq/index.m3u8
 #EXTINF:-1 group-title="FlexTV",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FlexTV",Hola TV
