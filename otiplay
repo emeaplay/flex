@@ -69,6 +69,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 http://181.65.207.62:8000/play/a00y
 #EXTINF:-1 group-title="FlexTV",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FlexTV",Hola TV
+http://181.66.249.246:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
 http://45.186.105.188:8000/play/a0hu/index.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
@@ -104,7 +106,7 @@ http://45.186.105.188:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="FlexTV",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 group-title="FlexTV",RT EspaÃ±ol
-http://160.20.165.246:8000/play/a00w/index.m3u8
+http://45.230.199.108:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg",Mi TV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist.m3u8
 #EXTINF:-1 group-title="FlexTV",TV Retro Palmares
@@ -131,10 +133,16 @@ http://200.60.124.25:8000/play/a0in/index.m3u8
 http://161.132.39.223:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="FlexTV",Universo NBC
 http://161.132.39.223:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="FlexTV",Azteca Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="Cine",Golden Edge
+http://181.66.249.246:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="Cine",Multicinema
 http://45.230.199.108:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
@@ -145,6 +153,9 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 group-title="Cine",Western
 http://200.60.124.25:8000/play/a0mi/index.m3u8
+#EXTINF:-1 group-title="Cine",SPACE
+http://45.230.199.108:8000/play/a023/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",ContactoTV
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 group-title="Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png",ESPN 2
@@ -157,6 +168,19 @@ http://bantel-cdn4.iptvperu.tv:1935/7v5vVh/espn4.stream/playlist.m3u8
 http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN LA
+http://45.230.199.108:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN2 LA
+http://45.230.199.108:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN3 LA
+http://45.230.199.108:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN4 LA
+http://45.230.199.108:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN5 LA
+http://45.230.199.108:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN6 LA
+http://45.230.199.108:8000/play/a047/index.m3u8
+
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
 #EXTINF:-1 group-title="Infantil",Canal Infantil
@@ -229,8 +253,22 @@ https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
 #EXTINF:-1 group-title="Religion",Presencia TV
 https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
-#EXTINF:-1 group-title="Azteca TV",Azteca Internacional
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+
+#EXTINF:-1 group-title="Mundo",Caracol Internacional
+http://45.230.199.108:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Mundo",Ecuador TV Internacional
+http://45.230.199.108:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Mundo",AZ Cinema
+http://45.230.199.108:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Mundo",AZ Clic
+http://45.230.199.108:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Mundo",AZ Corazon
+http://45.230.199.108:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Mundo",Food Network
+http://45.230.199.108:8000/play/a005/index.m3u8
+
+
 #EXTINF:-1 group-title="PlutoTV",Cine Accion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7f8dd34a-a907-11eb-9c6e-0242ac110002&sid=7f8dd34a-a907-11eb-9c6e-0242ac110002&userId=
 #EXTINF:-1 group-title="PlutoTV",Cine Drama
@@ -289,10 +327,17 @@ http://181.78.201.70:8000/play/a0ms/index.m3u8
 http://181.78.201.70:8000/play/a0mq/index.m3u8
 #EXTINF:-1 group-title="SAT",Willax SAT
 http://177.53.153.207:8000/play/a01a/index.m3u8
+
+
 #EXTINF:-1 group-title="Hot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png",X-Venus
 http://45.186.105.188:8000/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://logowik.com/content/uploads/images/381_playboy.jpg",X-Playboy Inter
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="Hot",SexTreme (P)
+http://45.230.199.108:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Hot",Venus (P)
+http://45.230.199.108:8000/play/a00q/index.m3u8
+
 #EXTINF:-1 group-title="24H",El Chavo del 8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
 #EXTINF:-1 group-title="24H",Dragon Ball Classic
