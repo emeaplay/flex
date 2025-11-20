@@ -297,6 +297,8 @@ http://190.234.82.52:8000/play/a0cp/index.m3u8
 http://190.234.82.52:8000/play/a0nx/index.m3u8
 #EXTINF:-1 group-title="WEB",Karibeña (M)
 http://190.234.82.52:8000/play/a0kw/index.m3u8
+#EXTINF:-1 group-title="WEB",RPP (M)
+http://190.234.82.52:8000/play/a0kp/index.m3u8
 
 
 #EXTINF:-1 group-title="PlutoTV",Cine Accion
