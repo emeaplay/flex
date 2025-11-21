@@ -18,7 +18,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png",ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:-1 group-title="FlexTV",RPP TV
-https://dai.google.com/linear/hls/pa/event/T4-TqvB_S1e4oVP9QbO6VQ/stream/6a61bc2c-cf29-4cbb-a018-d43ba8e15d23:DLS/variant/a2607c6664646f749075611cdead23a0/bandwidth/3276591.m3u8
+http://190.234.82.52:8000/play/a0kp/index.m3u8
 #EXTINF:-1 group-title="FlexTV",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 group-title="FlexTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png",Willax
@@ -406,7 +406,21 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
 https://host.gometri.com/proxy/lanoventera/stream
 #EXTINF:-1 group-title="Radio",Radio PBO
 http://n05.radiojar.com/2fse67zuv8hvv?1669043472=&rj-tok=AAABmqMhuWoAyhvXAa3T-Ovmiw&rj-ttl=5
-#EXTINF:-1 group-title="Radio",La Noventera
+#EXTINF:-1 group-title="Radio",Radio MEGAMix
+https://live-evg3.tv360.bitel.com.pe/audio/5fada56fe4e09508207a7951/live.m3u8?uid=112
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio MIX
+https://stream-152.zeno.fm/qnym6trqokstv
+#EXTINF:-1 group-title="Radio",Radio Oxigeno
+https://live-evg3.tv360.bitel.com.pe/audio/5fab0687bcd6c2389ee9480c/live.m3u8?uid=112
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio PBO
+https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4kg
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio RBC
+https://sonic.dattassd.com/8100/stream
+#EXTINF:-1 group-title="Radio",Radio RPP
+https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?uid=112
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio RTL
+https://stream-152.zeno.fm/ewrvx3k6u68uv
+
 
 #EXTINF:-1 group-title="Radio",La Noventera
 #EXTINF:-1 group-title="Radio",La Noventera
