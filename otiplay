@@ -161,6 +161,10 @@ http://45.230.199.108:8000/play/a026/index.m3u8
 http://45.186.105.188:8000/play/a0hq/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
 http://45.186.105.188:8000/play/a0gy/index.m3u8
+#EXTINF:-1 group-title="Cine",Golden HD
+http://200.37.241.109:8000/play/a0gq/index.m3u8
+#EXTINF:-1 group-title="Cine",Sony Movies
+http://200.4.195.66:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="Deporte",ContactoTV
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
@@ -299,7 +303,10 @@ http://190.234.82.52:8000/play/a0nx/index.m3u8
 http://190.234.82.52:8000/play/a0kw/index.m3u8
 #EXTINF:-1 group-title="WEB",RPP (M)
 http://190.234.82.52:8000/play/a0kp/index.m3u8
-
+#EXTINF:-1 group-title="WEB",Canal N (M)
+http://181.66.254.203:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="WEB",WILLAX (M)
+http://181.66.254.203:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 group-title="PlutoTV",Cine Accion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7f8dd34a-a907-11eb-9c6e-0242ac110002&sid=7f8dd34a-a907-11eb-9c6e-0242ac110002&userId=
