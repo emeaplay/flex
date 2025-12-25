@@ -50,7 +50,7 @@ http://190.238.172.153:8000/play/a0bt
 #EXTINF:-1 group-title="OTIPLAY",Doble C
 https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png" group-title="OTIPLAY",TeleLima
-https://live.telelima.net/TL_GRUPO-MVCE/tracks-v1a1/mono.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Onda Digital
 https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="OTIPLAY",OD TV
@@ -70,7 +70,7 @@ http://45.186.105.188:8000/play/a0kq/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Hola TV
-http://181.66.249.246:8000/play/a05u/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",RCN Novelas
 http://45.186.105.188:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TNT Novelas
@@ -158,7 +158,7 @@ http://45.186.105.188:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
-http://181.66.249.246:8000/play/a05s/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Golden HD
 http://200.37.241.109:8000/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
@@ -218,9 +218,9 @@ http://45.230.199.108:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN6 LA
 http://45.230.199.108:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="Deporte",GOLPERU (P)
-http://181.66.249.246:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",L1MAX (P)
-http://181.66.249.246:8000/play/a03u/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
 #EXTINF:-1 group-title="Deporte",TUDN
