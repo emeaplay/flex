@@ -126,7 +126,7 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TCM
 http://45.186.105.188:8000/play/a0jw/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Antena 3 Internacional
-http://45.230.199.108:8000/play/a003/index.m3u8nt
+
 #EXTINF:-1 group-title="OTIPLAY",AmericaTeVe
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 group-title="OTIPLAY",NetChannel
@@ -174,13 +174,13 @@ http://45.186.105.188:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Xtreme
 http://45.186.105.188:8000/play/a0l6/index.m3u8
 #EXTINF:-1 group-title="Cine",Multicinema
-http://45.230.199.108:8000/play/a009/index.m3u8
+
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie MX
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Paramount
-http://45.230.199.108:8000/play/a026/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Planeta Movies
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 group-title="Cine",Sony Movies
@@ -188,7 +188,7 @@ http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://45.186.105.188:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Cine",SPACE
-http://45.230.199.108:8000/play/a023/index.m3u8
+
 
 #EXTINF:-1 group-title="Universal+",Universal Comedy
 http://45.186.105.188:8000/play/a0i5/index.m3u8
@@ -310,19 +310,19 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 group-title="Peru+",Vision TV Musica
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Mundo",AZ Cinema
-http://45.230.199.108:8000/play/a02c/index.m3u8
+
 #EXTINF:-1 group-title="Mundo",AZ Clic
-http://45.230.199.108:8000/play/a02b/index.m3u8
+
 #EXTINF:-1 group-title="Mundo",AZ Corazon
-http://45.230.199.108:8000/play/a02d/index.m3u8
+
 #EXTINF:-1 group-title="Mundo",Caracol Internacional
-http://45.230.199.108:8000/play/a004/index.m3u8
+
 #EXTINF:-1 group-title="Mundo",Distrito Comedia
 http://45.186.105.188:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Mundo",Ecuador TV Internacional
 http://45.230.199.108:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="Mundo",Food Network
-http://45.230.199.108:8000/play/a005/index.m3u8
+
 #EXTINF:-1 group-title="Mundo",Star TVE
 http://45.186.105.188:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="Mundo",Tele13
@@ -535,9 +535,9 @@ http://45.186.105.188:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/381_playboy.jpg" group-title="Hot",X-Playboy Inter
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Hot",SexTreme (P)
-http://45.230.199.108:8000/play/a03x/index.m3u8
+
 #EXTINF:-1 group-title="Hot",Venus (P)
-http://45.230.199.108:8000/play/a00q/index.m3u8
+
 #EXTINF:-1 group-title="24H",Caballeros del Zodiaco
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
 #EXTINF:-1 group-title="24H",Canal del Congreso
