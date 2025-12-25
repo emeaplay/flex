@@ -329,20 +329,125 @@ http://45.186.105.188:8000/play/a060/index.m3u8
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
 #EXTINF:-1 group-title="Mundo",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
-#EXTINF:-1 group-title="SAT",Latina SAT
-http://181.78.201.70:8000/play/a0ri/index.m3u8
-#EXTINF:-1 group-title="SAT",AmericaTV HD SAT
-http://181.78.201.70:8000/play/a0rh/index.m3u8
-#EXTINF:-1 group-title="SAT",Panamericana SAT
-http://181.78.201.70:8000/play/a0mo/index.m3u8
-#EXTINF:-1 group-title="SAT",Global SAT
-http://181.78.201.70:8000/play/a0ms/index.m3u8
-#EXTINF:-1 group-title="SAT",ATV HD SAT
-http://181.78.201.70:8000/play/a0mq/index.m3u8
-#EXTINF:-1 group-title="SAT",Willax SAT
-http://177.53.153.207:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="SAT",AMERICA HD
+http://181.66.254.203:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="SAT",1002 LATINA HD
+http://181.66.254.203:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="SAT",1003 ATV HD
+http://181.66.254.203:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="SAT",1004 GLOBAL HD
+http://181.66.254.203:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="SAT",1005 WILLAX HD
+http://181.66.254.203:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="SAT",1006 RPP HD
+http://181.66.254.203:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="SAT",1007 CANAL N HD
+http://181.66.254.203:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="SAT",1008 KARIBENA HD
+http://181.66.254.203:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="SAT",1009 PANAMERICANA HD
+http://181.66.254.203:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="SAT",1010 TV PERU HD
+http://181.66.254.203:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="SAT",1011 ESPN HD
+http://181.66.254.203:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="SAT",1012 ESPN 2 HD
+http://181.66.254.203:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="SAT",1013 ESPN 3 HD
+http://181.66.254.203:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="SAT",1014 ESPN 4 HD
+http://181.66.254.203:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="SAT",1015 ESPN 5 HD
+http://181.66.254.203:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="SAT",1016 ESPN 6 HD
+http://181.66.254.203:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="SAT",1017 ESPN 7 HD
+http://181.66.254.203:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="SAT",1018 ESPN PREMIUM HD
+http://181.66.254.203:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="SAT",1019 HBO HD
+http://181.66.254.203:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="SAT",1020 HBO POP HD
+http://181.66.254.203:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="SAT",1021 HBO FAMILY HD
+http://181.66.254.203:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="SAT",1022 HBO XTREME HD
+http://181.66.254.203:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="SAT",1023 STAR CHANNEL HD
+http://181.66.254.203:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="SAT",1024 STUDIO UNIVERSAL HD
+http://181.66.254.203:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="SAT",1025 UNIVERSAL CHANNEL HD
+http://181.66.254.203:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="SAT",1026 STAR CHANNEL HD
+http://181.66.254.203:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="SAT",1027 FX HD
+http://181.66.254.203:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="SAT",1028 DHE HD
+http://181.66.254.203:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="SAT",1029 PARAMOUNT HD
+http://181.66.254.203:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="SAT",1030 A&E HD
+http://181.66.254.203:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="SAT",1031 AMC HD
+http://181.66.254.203:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="SAT",1032 TNT SERIES HD
+http://181.66.254.203:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="SAT",1033 WARNER HD
+http://181.66.254.203:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="SAT",1034 AXN HD
+http://181.66.254.203:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="SAT",1035 SPACE HD
+http://181.66.254.203:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="SAT",1036 SONY HD
+http://181.66.254.203:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="SAT",1037 COMEDY CENTRAL HD
+http://181.66.254.203:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="SAT",1038 TNT HD
+http://181.66.254.203:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="SAT",1039 CINE CANAL HD
+http://181.66.254.203:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="SAT",1040 TNT NOVELA HD
+http://181.66.254.203:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="SAT",1041 LAS ESTRELLAS HD
+http://181.66.254.203:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="SAT",1042 TELENOVELAS
+http://181.66.254.203:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="SAT",1043 TELEMUNDO
+http://181.66.254.203:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="SAT",1044 KANAL DE DRAMA HD
+http://181.66.254.203:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="SAT",1045 DISNEY CHANNEL HD
+http://181.66.254.203:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="SAT",1046 NIKELODEON HD
+http://181.66.254.203:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="SAT",1047 CARTOON NETWORK HD
+http://181.66.254.203:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="SAT",1048 DISCOVERY KIDS HD
+http://181.66.254.203:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="SAT",1049 NICK JR
+http://181.66.254.203:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="SAT",1050 CARTOONITO
+http://181.66.254.203:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="SAT",1051 HISTORY HD
+http://181.66.254.203:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="SAT",1052 ANIMAL PLANET HD
+http://181.66.254.203:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="SAT",1053 NATGEO HD
+http://181.66.254.203:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="SAT",1054 DISCOVERY CHANNEL HD
+http://181.66.254.203:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="SAT",1055 DISCOVERY THEATER HD
+http://181.66.254.203:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="SAT",1056 LIGA 1 MAX HD
+http://181.66.254.203:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="SAT",PLUS TV SAT
 http://201.230.121.85:8000/play/a0l2/index.m3u8
+#EXTINF:-1 group-title="SAT",Movistar Deportes SAT
+http://190.234.82.52:8000/play/a0kq/index.m3u8
+
+
 #EXTINF:-1 group-title="WEB",Latina (M)
 http://190.234.82.52:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="WEB",America (M)
