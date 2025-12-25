@@ -70,7 +70,7 @@ http://45.186.105.188:8000/play/a0kq/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Hola TV
-
+http://45.186.105.188:8000/play/a0hx/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",RCN Novelas
 http://45.186.105.188:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TNT Novelas
@@ -112,7 +112,7 @@ http://45.186.105.188:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",RT
-http://45.230.199.108:8000/play/a00u/index.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 group-title="OTIPLAY",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",France24
@@ -123,6 +123,8 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="OTIPLAY",Retroplus
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
+#EXTINF:-1 group-title="OTIPLAY",TCM
+http://45.186.105.188:8000/play/a0jw/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Antena 3 Internacional
 http://45.230.199.108:8000/play/a003/index.m3u8nt
 #EXTINF:-1 group-title="OTIPLAY",AmericaTeVe
@@ -158,7 +160,7 @@ http://45.186.105.188:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
-
+http://45.186.105.188:8000/play/a0i5/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden HD
 http://200.37.241.109:8000/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
@@ -187,6 +189,20 @@ http://200.4.195.66:8000/play/a005/index.m3u8
 http://45.186.105.188:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Cine",SPACE
 http://45.230.199.108:8000/play/a023/index.m3u8
+
+#EXTINF:-1 group-title="Universal+",Universal Comedy
+http://45.186.105.188:8000/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="Universal+",Universal Cinema
+http://45.186.105.188:8000/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="Universal+",Universal Crime
+http://45.186.105.188:8000/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="Universal+",Universal Premiere
+http://45.186.105.188:8000/play/a0i1/index.m3u8
+#EXTINF:-1 group-title="Universal+",Universal Premiere Oeste
+http://45.186.105.188:8000/play/a0i2/index.m3u8
+#EXTINF:-1 group-title="Universal+",Universal Reality
+http://45.186.105.188:8000/play/a0i3/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",Claro Sports 1
 http://45.186.105.188:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Deporte",Claro Sports 2
@@ -205,28 +221,20 @@ http://bantel-cdn4.iptvperu.tv:1935/7Hih8n/espn3.stream/playlist.m3u8
 http://bantel-cdn4.iptvperu.tv:1935/7v5vVh/espn4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="Deporte",ESPN 5
 http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN LA
-http://45.230.199.108:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN2 LA
-http://45.230.199.108:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN3 LA
-http://45.230.199.108:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN4 LA
-http://45.230.199.108:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN5 LA
-http://45.230.199.108:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN6 LA
-http://45.230.199.108:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="Deporte",GOLPERU (P)
-
+http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1MAX (P)
-
+http://190.234.82.52:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:-1 group-title="Deporte",Tigo Sports
+http://45.186.105.188:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Deporte",TUDN
 http://45.186.105.188:8000/play/a07v/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Infantil",Baby First
 http://45.186.105.188:8000/play/a0jl/index.m3u8
 #EXTINF:-1 group-title="Infantil",BitMe
@@ -247,6 +255,8 @@ http://45.186.105.188:8000/play/a03f/index.m3u8
 http://45.186.105.188:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Infantil",ZooMoo
 http://160.20.165.246:8000/play/a017/index.m3u8
+
+
 #EXTINF:-1 group-title="Musica",MiMusica Popular
 http://160.20.165.246:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Reggaeton
