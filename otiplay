@@ -189,6 +189,17 @@ http://200.4.195.66:8000/play/a005/index.m3u8
 http://45.186.105.188:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Cine",SPACE
 
+#EXTINF:-1 group-title="Cine",MX Prime
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Cine",MX Series
+http://190.108.83.142:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Cine",MX Family
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Cine",MX Classic
+http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Cine",MX OLD
+http://190.108.83.142:8000/play/a02w/index.m3u8
+
 
 #EXTINF:-1 group-title="Universal+",Universal Comedy
 http://45.186.105.188:8000/play/a0i5/index.m3u8
@@ -279,6 +290,8 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="Peru+",Canal Catacaos
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",FuegoTV
+http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Peru+",Impacto TV
 https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Peru+",JNETV
@@ -574,3 +587,14 @@ https://sonic.dattassd.com/8100/stream
 https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?uid=112
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio RTL
 https://stream-152.zeno.fm/ewrvx3k6u68uv
+#EXTINF:-1 group-title="Radio",Radio RPP audio
+http://190.108.83.142:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Radio",Radio Felicidad
+http://190.108.83.142:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Radio",Radio La Zona
+http://190.108.83.142:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Radio",Radio Studio92
+http://190.108.83.142:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Radio",Radio Oxigeno
+http://190.108.83.142:8000/play/a01a/index.m3u8
+
