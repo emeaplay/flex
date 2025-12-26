@@ -246,6 +246,8 @@ http://45.186.105.188:8000/play/a02v/index.m3u8
 http://45.186.105.188:8000/play/a07v/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Deporte",Win Sports CO (P)
+http://179.1.192.227:8000/play/a01h/index.m3u8
 
 
 #EXTINF:-1 group-title="Infantil",Baby First
@@ -324,20 +326,11 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 group-title="Peru+",Vision TV Musica
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
-#EXTINF:-1 group-title="Mundo",AZ Cinema
-
-#EXTINF:-1 group-title="Mundo",AZ Clic
-
-#EXTINF:-1 group-title="Mundo",AZ Corazon
-
-#EXTINF:-1 group-title="Mundo",Caracol Internacional
 
 #EXTINF:-1 group-title="Mundo",Distrito Comedia
 http://45.186.105.188:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Mundo",Ecuador TV Internacional
 http://45.230.199.108:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Mundo",Food Network
-
 #EXTINF:-1 group-title="Mundo",Star TVE
 http://45.186.105.188:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="Mundo",Tele13
