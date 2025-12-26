@@ -91,6 +91,8 @@ http://45.186.105.188:8000/play/a0iy/index.m3u8
 http://45.186.105.188:8000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="OTIPLAY",Studio Universal
 http://45.186.105.188:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",A&E
+http://168.90.14.251:8000/play/a0m3/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",FX
 http://45.186.105.188:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="OTIPLAY",Discovery
@@ -141,6 +143,9 @@ http://161.132.39.223:8000/play/a005/index.m3u8
 http://161.132.39.223:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+#EXTINF:-1 group-title="Cine",A&E Mundo
+http://45.5.116.228:8000/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Familiar
@@ -163,6 +168,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://45.186.105.188:8000/play/a0i5/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden HD
 http://200.37.241.109:8000/play/a0gq/index.m3u8
+#EXTINF:-1 group-title="Cine",Golden Premier
+http://45.230.199.108:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
 http://45.186.105.188:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO 2
@@ -174,13 +181,17 @@ http://45.186.105.188:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Xtreme
 http://45.186.105.188:8000/play/a0l6/index.m3u8
 #EXTINF:-1 group-title="Cine",Multicinema
-
+http://160.20.165.246:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Cine",MultiPremier
+http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie MX
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cine",Paramount(P)
+http://190.234.82.52:8000/play/a0ih/index.m3u8
 #EXTINF:-1 group-title="Cine",Paramount
-
+http://45.5.116.228:8000/play/a0kl/index.m3u8
 #EXTINF:-1 group-title="Cine",Planeta Movies
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 group-title="Cine",Sony Movies
@@ -222,6 +233,8 @@ http://45.186.105.188:8000/play/a07p/index.m3u8
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 group-title="Deporte",DirecTV Sports
 http://190.234.82.52:8000/play/ac5p/index.m3u8
+#EXTINF:-1 group-title="Deporte",DSports
+http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 1
 http://45.186.105.188:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="Deporte",ESPN 2
@@ -234,12 +247,18 @@ http://bantel-cdn4.iptvperu.tv:1935/7v5vVh/espn4.stream/playlist.m3u8
 http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Deporte",GOLPERU (P)
 http://190.234.82.52:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="Deporte",GOLPERU senal 2
+http://190.108.89.228:8000/play/a0ck/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1MAX (P)
 http://190.234.82.52:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1MAX senal 2
 http://190.108.83.142:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Deporte",L1MAX senal 3
+http://190.108.89.228:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:-1 group-title="Deporte",Real Madrid
+http://190.108.89.228:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Deporte",Tigo Sports
 http://45.186.105.188:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Deporte",TUDN
