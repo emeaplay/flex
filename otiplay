@@ -188,7 +188,7 @@ http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://45.186.105.188:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="Cine",SPACE
-
+http://190.108.83.142:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Cine",MX Prime
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",MX Series
@@ -236,6 +236,8 @@ http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8
 http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1MAX (P)
 http://190.234.82.52:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="Deporte",L1MAX senal 2
+http://190.108.83.142:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
 #EXTINF:-1 group-title="Deporte",Tigo Sports
