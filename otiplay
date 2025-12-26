@@ -268,6 +268,22 @@ https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deporte",Win Sports CO (P)
 http://179.1.192.227:8000/play/a01h/index.m3u8
 
+#EXTINF:-1 group-title="Deporte",ESPN HD
+http://45.5.116.228:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 2 HD
+http://45.5.116.228:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 3 HD
+http://45.5.116.228:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN  4 HD
+http://45.5.116.228:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 5  HD
+http://45.5.116.228:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 6 HD
+http://45.5.116.228:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Deporte",GOLF Channel
+http://45.5.116.228:8000/play/a0h1/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Infantil",Baby First
 http://45.186.105.188:8000/play/a0jl/index.m3u8
@@ -301,6 +317,8 @@ http://160.20.165.246:8000/play/a019/index.m3u8
 http://160.20.165.246:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="Musica",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="Peru+",ATV Sur
@@ -356,6 +374,8 @@ http://45.186.105.188:8000/play/a060/index.m3u8
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
 #EXTINF:-1 group-title="Mundo",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
+#EXTINF:-1 group-title="Mundo",Sun Channel
+http://45.5.116.228:8000/play/a052/index.m3u8
 
 #EXTINF:-1 group-title="SAT",AMERICA HD
 http://181.66.254.203:8000/play/a01t/index.m3u8
