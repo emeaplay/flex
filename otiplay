@@ -91,8 +91,8 @@ http://45.186.105.188:8000/play/a0iy/index.m3u8
 http://45.186.105.188:8000/play/a0ih/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="OTIPLAY",Studio Universal
 http://45.186.105.188:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",A&E
-http://168.90.14.251:8000/play/a0m3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="OTIPLAY",A&E
+http://170.244.209.30:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",FX
 http://45.186.105.188:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="OTIPLAY",Discovery
@@ -101,8 +101,6 @@ http://45.186.105.188:8000/play/a0kn/index.m3u8
 http://160.20.165.246:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="OTIPLAY",H2
 http://45.186.105.188:8000/play/a0jp/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="OTIPLAY",A&E
-http://170.244.209.30:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
 http://170.244.209.30:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="OTIPLAY",TLC - Travel and Living
@@ -128,7 +126,7 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TCM
 http://45.186.105.188:8000/play/a0jw/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Antena 3 Internacional
-
+http://160.20.165.246:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",AmericaTeVe
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 group-title="OTIPLAY",NetChannel
@@ -144,8 +142,8 @@ http://161.132.39.223:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 group-title="Cine",A&E Mundo
-http://45.5.116.228:8000/play/a0gt/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",A&E Mundo
+http://168.90.14.251:8000/play/a0m3/index.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Familiar
@@ -282,8 +280,6 @@ http://45.5.116.228:8000/play/a05m/index.m3u8
 http://45.5.116.228:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Deporte",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Infantil",Baby First
 http://45.186.105.188:8000/play/a0jl/index.m3u8
