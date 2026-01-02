@@ -91,6 +91,8 @@ http://45.186.105.188:8000/play/a0hh/index.m3u8
 http://45.186.105.188:8000/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png" group-title="OTIPLAY",CNN en espanol
 http://45.186.105.188:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",CNN ESP HD
+http://190.60.42.86:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",RT
