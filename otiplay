@@ -121,6 +121,8 @@ http://190.60.42.86:8000/play/a03x/index.m3u8
 http://190.60.42.86:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Memorias Series
 http://190.60.42.86:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Cine Mexicano
+http://181.119.98.237:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Antena 3 Internacional
 http://160.20.165.246:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",AmericaTeVe
@@ -197,6 +199,8 @@ http://190.108.83.142:8000/play/a002/index.m3u8
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Cine",MX OLD
 http://190.108.83.142:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Cine",Panico
+http://181.119.98.237:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="Cine",USA networks
 http://190.60.42.86:8000/play/a00y/index.m3u8
 
@@ -289,6 +293,8 @@ http://45.186.105.188:8000/play/a0kr/index.m3u8
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 #EXTINF:-1 group-title="Variados",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="Variados",E! Entertainment
+http://181.119.98.237:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="Variados",Pasiones
 http://45.186.105.188:8000/play/a0kq/index.m3u8
 #EXTINF:-1 group-title="Variados",Estrella TV
@@ -327,15 +333,20 @@ http://45.186.105.188:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Infantil",ZooMoo
 http://160.20.165.246:8000/play/a017/index.m3u8
 
-
+#EXTINF:-1 group-title="Musica",HTV
+http://181.119.98.237:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Popular
 http://160.20.165.246:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Reggaeton
 http://160.20.165.246:8000/play/a018/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Regional
 http://160.20.165.246:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Musica",MiMusica Romantica
+http://181.119.98.237:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Salsa
 http://160.20.165.246:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV
+http://181.119.98.237:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Musica",Telehit MUSICA
 http://190.60.42.86:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Musica",VM Latino
