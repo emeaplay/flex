@@ -29,8 +29,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_480_270.jpg" group-title="OTIPLAY",L1 MAX
 http://190.234.82.52:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",DOBLEC
-https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
 #EXTINF:-1 group-title="OTIPLAY",Latina Noticias
@@ -57,26 +55,6 @@ https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
 https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="OTIPLAY",OD TV 2
 https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="OTIPLAY",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/bd/ad/e7bdad0daad96021feda64d88000386d.gif" group-title="OTIPLAY",Univision
-http://45.186.105.188:8000/play/a0kr/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Corazon
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
-#EXTINF:-1 tvg-logo="https://kanalddrama.com/fav.png" group-title="OTIPLAY",Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Pasiones
-http://45.186.105.188:8000/play/a0kq/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Estrella TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Hola TV
-http://45.186.105.188:8000/play/a0hx/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",RCN Novelas
-http://45.186.105.188:8000/play/a0jn/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",TNT Novelas
-http://45.186.105.188:8000/play/a0g9/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Comedy Central
-http://45.186.105.188:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="OTIPLAY",TNT
 http://45.186.105.188:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="OTIPLAY",Sony Channel
@@ -103,6 +81,10 @@ http://160.20.165.246:8000/play/a00m/index.m3u8
 http://45.186.105.188:8000/play/a0jp/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
 http://170.244.209.30:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Animal Planet
+http://190.60.42.86:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Horizons Wild
+http://190.60.42.86:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="OTIPLAY",TLC - Travel and Living
 http://45.186.105.188:8000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="OTIPLAY",Home & Health
@@ -125,24 +107,27 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TCM
 http://45.186.105.188:8000/play/a0jw/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",AVI movies
+http://190.60.42.86:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",DE Pelicula
+http://190.60.42.86:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",AZ Cinema
+http://190.60.42.86:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Memorias Films
+http://190.60.42.86:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",AVI Rewind
+http://190.60.42.86:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Memorias Series
+http://190.60.42.86:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Antena 3 Internacional
 http://160.20.165.246:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",AmericaTeVe
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 group-title="OTIPLAY",NetChannel
 https://media.streambrothers.com:19360/8158/8158.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Univision 24/7
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Telemundo
-http://200.60.124.25:8000/play/a0in/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Unicable
-http://161.132.39.223:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Universo NBC
-http://161.132.39.223:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Azteca Internacional
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-#EXTINF:-1 group-title="OTIPLAY",A&E Mundo
+
+#EXTINF:-1 group-title="Cine",A&E Mundo
 http://168.90.14.251:8000/play/a0m3/index.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
@@ -196,6 +181,8 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?WebM3UCL
 http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://45.186.105.188:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Cine",Sony Cine
+http://190.60.42.86:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Cine",SPACE
 http://190.108.83.142:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Cine",MX Prime
@@ -208,7 +195,8 @@ http://190.108.83.142:8000/play/a002/index.m3u8
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Cine",MX OLD
 http://190.108.83.142:8000/play/a02w/index.m3u8
-
+#EXTINF:-1 group-title="Cine",USA networks
+http://190.60.42.86:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 group-title="Universal+",Universal Comedy
 http://45.186.105.188:8000/play/a0i5/index.m3u8
@@ -281,6 +269,39 @@ http://45.5.116.228:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Deporte",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
 
+#EXTINF:-1 group-title="Variados",El Gourmet
+http://190.60.37.118:4000/play/a09z
+#EXTINF:-1 group-title="Variados",Univision 24/7
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Variados",Telemundo
+http://200.60.124.25:8000/play/a0in/index.m3u8
+#EXTINF:-1 group-title="Variados",Unicable
+http://161.132.39.223:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Variados",HGTV
+http://190.60.42.86:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Variados",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Variados",Univision
+http://45.186.105.188:8000/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="Variados",Corazon
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
+#EXTINF:-1 group-title="Variados",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="Variados",Pasiones
+http://45.186.105.188:8000/play/a0kq/index.m3u8
+#EXTINF:-1 group-title="Variados",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Variados",Hola TV
+http://45.186.105.188:8000/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="Variados",RCN Novelas
+http://45.186.105.188:8000/play/a0jn/index.m3u8
+#EXTINF:-1 group-title="Variados",TNT Novelas
+http://45.186.105.188:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="Variados",Comedy Central
+http://45.186.105.188:8000/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="Variados",Azteca Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
 #EXTINF:-1 group-title="Infantil",Baby First
 http://45.186.105.188:8000/play/a0jl/index.m3u8
 #EXTINF:-1 group-title="Infantil",BitMe
@@ -289,6 +310,8 @@ http://181.65.207.62:8000/play/a00g
 http://160.20.165.246:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Infantil",Cartoonito
 http://45.186.105.188:8000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoon Network
+http://190.60.42.86:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Infantil",Funbox
 http://200.4.244.29:8000/play/a01k
 #EXTINF:-1 group-title="Infantil",Nick JR
@@ -311,6 +334,8 @@ http://160.20.165.246:8000/play/a018/index.m3u8
 http://160.20.165.246:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Salsa
 http://160.20.165.246:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Musica",Telehit MUSICA
+http://190.60.42.86:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Musica",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
@@ -327,6 +352,8 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="Peru+",Canal Catacaos
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",DOBLEC
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",FuegoTV
 http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Peru+",Impacto TV
