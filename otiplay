@@ -100,7 +100,7 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 group-title="OTIPLAY",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",France24
-http://170.244.209.30:8000/play/a028/index.m3u8
+http://190.60.42.86:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="OTIPLAY",Mi TV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TV Retro Palmares
