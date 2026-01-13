@@ -323,11 +323,11 @@ http://190.60.42.86:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Infantil",Funbox
 http://200.4.244.29:8000/play/a01k
 #EXTINF:-1 group-title="Infantil",Nick JR
-http://45.186.105.188:8000/play/a0fz/index.m3u8
+http://190.234.82.52:8000/play/a0mj/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nickelodeon
-http://45.186.105.188:8000/play/a0hs/index.m3u8
+http://190.234.82.52:8000/play/a0m7/index.m3u8
 #EXTINF:-1 group-title="Infantil",Teen Nick
-http://45.186.105.188:8000/play/a03f/index.m3u8
+http://45.186.105.188:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="Infantil",Tooncast
 http://45.186.105.188:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Infantil",ZooMoo
@@ -459,6 +459,10 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Mundo",Sun Channel
 http://45.5.116.228:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Mundo",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Mundo",Telemundo USA
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 group-title="Religion",ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
@@ -467,7 +471,7 @@ https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 group-title="Religion",PAX TV
 https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
 #EXTINF:-1 group-title="Religion",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Religion",BETHEL
 https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
 #EXTINF:-1 group-title="Religion",UNIFE
