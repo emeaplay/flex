@@ -352,6 +352,53 @@ http://190.60.42.86:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Musica",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
+#EXTINF:-1 group-title="PlutoTV",Cine Accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7f8dd34a-a907-11eb-9c6e-0242ac110002&sid=7f8dd34a-a907-11eb-9c6e-0242ac110002&userId=
+#EXTINF:-1 group-title="PlutoTV",Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0af9c627-a909-11eb-8ea0-0242ac110002&sid=0af9c627-a909-11eb-8ea0-0242ac110002&userId=
+#EXTINF:-1 group-title="PlutoTV",Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0f8e&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="PlutoTV",Cine Pluto
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eac76929-a906-11eb-b429-0242ac110002&sid=eac76929-a906-11eb-b429-0242ac110002&userId=
+#EXTINF:-1 group-title="PlutoTV",Cine Real
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f573f5b-a906-11eb-881a-0242ac110002&sid=1f573f5b-a906-11eb-881a-0242ac110002&userId=
+#EXTINF:-1 group-title="PlutoTV",MasterChef
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ec3c015e-a907-11eb-9273-0242ac110002&sid=ec3c015e-a907-11eb-9273-0242ac110002&userId=
+#EXTINF:-1 group-title="PlutoTV",Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f3696cfb-1333-11eb-aa17-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="PlutoTV",Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7503&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="PlutoTV",Series Latinas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=723b19b8-a90b-11eb-b4a3-0242ac110002&sid=723b19b8-a90b-11eb-b4a3-0242ac110002&userId=
+#EXTINF:-1 group-title="PlutoTV",Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=737828ef-a90c-11eb-91cc-0242ac110002&sid=737828ef-a90c-11eb-91cc-0242ac110002&userId=
+
+#EXTINF:-1 group-title="FreeTV",FreeTV ACCION
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",FreeTV DRAMA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",FreeTV ESTELAR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",FreeTV FAMILIA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",FreeTV HITS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",FreeTV LIVE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",FreeTV SABER MAS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+#EXTINF:-1 group-title="FreeTV",FreeTV SUREÃ‘O
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",FreeTV TERROR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FreeTV",BOX Cinema
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/7RB6TWA/47ACBB024F87/m.m3u8
+#EXTINF:-1 group-title="FreeTV",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 group-title="FreeTV",Rockola Television
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/4X3LO4Q/6BF095EB3851/m.m3u8
+#EXTINF:-1 group-title="FreeTV",Viajar
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/K3YNAQY/8AEDE38B77B3/m.m3u8
 
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
@@ -381,7 +428,7 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?WebM3UCL
 https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Peru+",Radio San Borja TV
 https://stream.mediacorp.pe/srt/3/chunks.m3u8
-#EXTINF:-1 group-title="Peru+",RibereÃ±a
+#EXTINF:-1 group-title="Peru+",Riberena
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 #EXTINF:-1 group-title="Peru+",SelvaTV
 https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8?uid=112
@@ -413,123 +460,44 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Mundo",Sun Channel
 http://45.5.116.228:8000/play/a052/index.m3u8
 
-#EXTINF:-1 group-title="SAT",AMERICA HD
-http://181.66.254.203:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="SAT",1002 LATINA HD
-http://181.66.254.203:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="SAT",1003 ATV HD
-http://181.66.254.203:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="SAT",1004 GLOBAL HD
-http://181.66.254.203:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="SAT",1005 WILLAX HD
-http://181.66.254.203:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="SAT",1006 RPP HD
-http://181.66.254.203:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="SAT",1007 CANAL N HD
-http://181.66.254.203:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="SAT",1008 KARIBENA HD
-http://181.66.254.203:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="SAT",1009 PANAMERICANA HD
-http://181.66.254.203:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="SAT",1010 TV PERU HD
-http://181.66.254.203:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="SAT",1011 ESPN HD
-http://181.66.254.203:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="SAT",1012 ESPN 2 HD
-http://181.66.254.203:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="SAT",1013 ESPN 3 HD
-http://181.66.254.203:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="SAT",1014 ESPN 4 HD
-http://181.66.254.203:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="SAT",1015 ESPN 5 HD
-http://181.66.254.203:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="SAT",1016 ESPN 6 HD
-http://181.66.254.203:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="SAT",1017 ESPN 7 HD
-http://181.66.254.203:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="SAT",1018 ESPN PREMIUM HD
-http://181.66.254.203:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="SAT",1019 HBO HD
-http://181.66.254.203:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="SAT",1020 HBO POP HD
-http://181.66.254.203:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="SAT",1021 HBO FAMILY HD
-http://181.66.254.203:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="SAT",1022 HBO XTREME HD
-http://181.66.254.203:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="SAT",1023 STAR CHANNEL HD
-http://181.66.254.203:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="SAT",1024 STUDIO UNIVERSAL HD
-http://181.66.254.203:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="SAT",1025 UNIVERSAL CHANNEL HD
-http://181.66.254.203:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="SAT",1026 STAR CHANNEL HD
-http://181.66.254.203:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="SAT",1027 FX HD
-http://181.66.254.203:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="SAT",1028 DHE HD
-http://181.66.254.203:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="SAT",1029 PARAMOUNT HD
-http://181.66.254.203:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="SAT",1030 A&E HD
-http://181.66.254.203:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="SAT",1031 AMC HD
-http://181.66.254.203:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="SAT",1032 TNT SERIES HD
-http://181.66.254.203:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="SAT",1033 WARNER HD
-http://181.66.254.203:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="SAT",1034 AXN HD
-http://181.66.254.203:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="SAT",1035 SPACE HD
-http://181.66.254.203:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="SAT",1036 SONY HD
-http://181.66.254.203:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="SAT",1037 COMEDY CENTRAL HD
-http://181.66.254.203:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="SAT",1038 TNT HD
-http://181.66.254.203:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="SAT",1039 CINE CANAL HD
-http://181.66.254.203:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="SAT",1040 TNT NOVELA HD
-http://181.66.254.203:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="SAT",1041 LAS ESTRELLAS HD
-http://181.66.254.203:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="SAT",1042 TELENOVELAS
-http://181.66.254.203:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="SAT",1043 TELEMUNDO
-http://181.66.254.203:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="SAT",1044 KANAL DE DRAMA HD
-http://181.66.254.203:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="SAT",1045 DISNEY CHANNEL HD
-http://181.66.254.203:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="SAT",1046 NIKELODEON HD
-http://181.66.254.203:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="SAT",1047 CARTOON NETWORK HD
-http://181.66.254.203:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="SAT",1048 DISCOVERY KIDS HD
-http://181.66.254.203:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="SAT",1049 NICK JR
-http://181.66.254.203:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="SAT",1050 CARTOONITO
-http://181.66.254.203:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="SAT",1051 HISTORY HD
-http://181.66.254.203:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="SAT",1052 ANIMAL PLANET HD
-http://181.66.254.203:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="SAT",1053 NATGEO HD
-http://181.66.254.203:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="SAT",1054 DISCOVERY CHANNEL HD
-http://181.66.254.203:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="SAT",1055 DISCOVERY THEATER HD
-http://181.66.254.203:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="SAT",1056 LIGA 1 MAX HD
-http://181.66.254.203:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="SAT",PLUS TV SAT
-http://201.230.121.85:8000/play/a0l2/index.m3u8
-#EXTINF:-1 group-title="SAT",Movistar Deportes SAT
-http://190.234.82.52:8000/play/a0kq/index.m3u8
+#EXTINF:-1 group-title="Religion",ENLACE
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+#EXTINF:-1 group-title="Religion",JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 group-title="Religion",PAX TV
+https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
+#EXTINF:-1 group-title="Religion",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",BETHEL
+https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
+#EXTINF:-1 group-title="Religion",UNIFE
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
+#EXTINF:-1 group-title="Religion",Presencia TV
+https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Hot",X-Venus
+http://45.186.105.188:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/381_playboy.jpg" group-title="Hot",X-Playboy Inter
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="24H",Caballeros del Zodiaco
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
+#EXTINF:-1 group-title="24H",Canal del Congreso
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
+#EXTINF:-1 group-title="24H",Dragon Ball Classic
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse1/chunks.m3u8
+#EXTINF:-1 group-title="24H",Dragon Ball GT
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse5/chunks.m3u8
+#EXTINF:-1 group-title="24H",Dragon Ball Plus
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse4/chunks.m3u8
+#EXTINF:-1 group-title="24H",Dragon Ball Z
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse3/chunks.m3u8
+#EXTINF:-1 group-title="24H",El Chavo del 8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
+#EXTINF:-1 group-title="24H",RPP Stream
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
+#EXTINF:-1 group-title="24H",Telelima 2
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="WEB",Latina (M)
 http://190.234.82.52:8000/play/a0np/index.m3u8
@@ -553,92 +521,7 @@ http://190.234.82.52:8000/play/a0kp/index.m3u8
 http://181.66.254.203:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="WEB",WILLAX (M)
 http://181.66.254.203:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="PlutoTV",Cine Accion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7f8dd34a-a907-11eb-9c6e-0242ac110002&sid=7f8dd34a-a907-11eb-9c6e-0242ac110002&userId=
-#EXTINF:-1 group-title="PlutoTV",Cine Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0af9c627-a909-11eb-8ea0-0242ac110002&sid=0af9c627-a909-11eb-8ea0-0242ac110002&userId=
-#EXTINF:-1 group-title="PlutoTV",Cine Estelar
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0f8e&deviceDNT=0&deviceModel=0
-#EXTINF:-1 group-title="PlutoTV",Cine Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eac76929-a906-11eb-b429-0242ac110002&sid=eac76929-a906-11eb-b429-0242ac110002&userId=
-#EXTINF:-1 group-title="PlutoTV",Cine Real
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f573f5b-a906-11eb-881a-0242ac110002&sid=1f573f5b-a906-11eb-881a-0242ac110002&userId=
-#EXTINF:-1 group-title="PlutoTV",MasterChef
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ec3c015e-a907-11eb-9273-0242ac110002&sid=ec3c015e-a907-11eb-9273-0242ac110002&userId=
-#EXTINF:-1 group-title="PlutoTV",Naturaleza
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f3696cfb-1333-11eb-aa17-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV",Novelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7503&deviceDNT=0&deviceModel=0
-#EXTINF:-1 group-title="PlutoTV",Series Latinas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=723b19b8-a90b-11eb-b4a3-0242ac110002&sid=723b19b8-a90b-11eb-b4a3-0242ac110002&userId=
-#EXTINF:-1 group-title="PlutoTV",Series Retro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=737828ef-a90c-11eb-91cc-0242ac110002&sid=737828ef-a90c-11eb-91cc-0242ac110002&userId=
-#EXTINF:-1 group-title="FreeTV",FreeTV ACCION
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",FreeTV DRAMA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",FreeTV ESTELAR
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",FreeTV FAMILIA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",FreeTV HITS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",FreeTV LIVE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",FreeTV SABER MAS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
-#EXTINF:-1 group-title="FreeTV",FreeTV SUREÃ‘O
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",FreeTV TERROR
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",BOX Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/7RB6TWA/47ACBB024F87/m.m3u8
-#EXTINF:-1 group-title="FreeTV",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 group-title="FreeTV",Rockola Television
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/4X3LO4Q/6BF095EB3851/m.m3u8
-#EXTINF:-1 group-title="FreeTV",Viajar
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/K3YNAQY/8AEDE38B77B3/m.m3u8
-#EXTINF:-1 group-title="Religion",ENLACE
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:-1 group-title="Religion",JN19
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 group-title="Religion",PAX TV
-https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
-#EXTINF:-1 group-title="Religion",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8
-#EXTINF:-1 group-title="Religion",BETHEL
-https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
-#EXTINF:-1 group-title="Religion",UNIFE
-https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
-#EXTINF:-1 group-title="Religion",Presencia TV
-https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Hot",X-Venus
-http://45.186.105.188:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/381_playboy.jpg" group-title="Hot",X-Playboy Inter
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="Hot",SexTreme (P)
 
-#EXTINF:-1 group-title="Hot",Venus (P)
-
-#EXTINF:-1 group-title="24H",Caballeros del Zodiaco
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
-#EXTINF:-1 group-title="24H",Canal del Congreso
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball Classic
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse1/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball GT
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse5/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball Plus
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse4/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball Z
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse3/chunks.m3u8
-#EXTINF:-1 group-title="24H",El Chavo del 8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
-#EXTINF:-1 group-title="24H",RPP Stream
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
-#EXTINF:-1 group-title="24H",Telelima 2
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
 #EXTINF:-1 group-title="Radio",La Noventera
 https://host.gometri.com/proxy/lanoventera/stream
 #EXTINF:-1 group-title="Radio",Radio MEGAMix
