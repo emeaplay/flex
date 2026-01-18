@@ -25,8 +25,8 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="OTIPLAY",Global
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
-#EXTINF:-1 ,PX Sports
-http://190.234.82.52:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Movistar Deportes (temporal)
+http://190.234.82.52:8000/play/ac1q/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_480_270.jpg" group-title="OTIPLAY",L1 MAX
 http://190.234.82.52:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
@@ -264,6 +264,8 @@ http://190.108.83.142:8000/play/a02l/index.m3u8
 http://190.108.89.228:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:-1 group-title="Deporte",PX Sports
+http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Deporte",Real Madrid
 http://190.108.89.228:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Deporte",Tigo Sports
