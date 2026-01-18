@@ -428,6 +428,8 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?WebM3UCL
 https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Peru+",Radio San Borja TV
 https://stream.mediacorp.pe/srt/3/chunks.m3u8
+#EXTINF:-1 group-title="Peru+",QOSMO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/cosmotelevisionSRT/chunks.m3u8
 #EXTINF:-1 group-title="Peru+",Riberena
 https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 #EXTINF:-1 group-title="Peru+",SelvaTV
