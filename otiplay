@@ -101,34 +101,43 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",France24
 http://190.60.42.86:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="OTIPLAY",Mi TV
-https://mitv.getstreamhosting.com:1936/live/live/chunklist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",TV Retro Palmares
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="OTIPLAY",Retroplus
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
-#EXTINF:-1 group-title="OTIPLAY",TCM
-http://45.186.105.188:8000/play/a0jw/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",AVI movies
-http://190.60.42.86:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",DE Pelicula
-http://190.60.42.86:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",AZ Cinema
-http://190.60.42.86:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Memorias Films
-http://190.60.42.86:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",AVI Rewind
-http://190.60.42.86:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Memorias Series
-http://190.60.42.86:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Cine Mexicano
-http://181.119.98.237:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Antena 3 Internacional
-http://160.20.165.246:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",AmericaTeVe
+http://160.20.165.246:8000/play/a00e/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="CLASICOS",Mi TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist.m3u8
+#EXTINF:-1 group-title="CLASICOS",TV Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+#EXTINF:-1 group-title="CLASICOS",Retroplus
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
+#EXTINF:-1 group-title="CLASICOS",TCM
+http://45.186.105.188:8000/play/a0jw/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",AVI movies
+http://190.60.42.86:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",DE Pelicula
+http://190.60.42.86:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",AZ Cinema
+http://190.60.42.86:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Memorias Films
+http://190.60.42.86:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",AVI Rewind
+http://190.60.42.86:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Memorias Series
+http://190.60.42.86:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Cine Mexicano
+http://160.20.165.246:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",AmericaTeVe
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 group-title="OTIPLAY",NetChannel
+#EXTINF:-1 group-title="CLASICOS",NetChannel
 https://media.streambrothers.com:19360/8158/8158.m3u8
+#EXTINF:-1 group-title="CLASICOS",Teleclasika
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1 group-title="CLASICOS",PeliMEX
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="CLASICOS",Series Retro Pluto
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=737828ef-a90c-11eb-91cc-0242ac110002&sid=737828ef-a90c-11eb-91cc-0242ac110002&userId=
+
 
 
 #EXTINF:-1 group-title="Cine",A&E Mundo
@@ -203,6 +212,9 @@ http://190.108.83.142:8000/play/a02w/index.m3u8
 http://181.119.98.237:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="Cine",USA networks
 http://190.60.42.86:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Cine",Canela Cinema
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Universal+",Universal Comedy
 http://45.186.105.188:8000/play/a0i5/index.m3u8
@@ -465,6 +477,8 @@ http://45.5.116.228:8000/play/a052/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Mundo",Telemundo USA
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 group-title="Mundo",Vision TV Cine
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 group-title="Religion",ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
