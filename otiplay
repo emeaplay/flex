@@ -254,8 +254,8 @@ http://bantel-cdn4.iptvperu.tv:1935/7v5vVh/espn4.stream/playlist.m3u8
 http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Deporte",GOLPERU (P)
 http://190.234.82.52:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title="Deporte",GOLPERU senal 2
-http://190.108.89.228:8000/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="Deporte",L1max
+http://181.64.27.65:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1MAX (P)
 http://190.234.82.52:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1MAX senal 2
