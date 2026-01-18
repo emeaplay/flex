@@ -321,6 +321,8 @@ http://45.186.105.188:8000/play/a0g9/index.m3u8
 http://45.186.105.188:8000/play/a0hy/index.m3u8
 #EXTINF:-1 group-title="Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+#EXTINF:-1 group-title="Variados",Hogar TV
+http://138.94.3.106:8000/play/a04t/index.m3u8
 
 #EXTINF:-1 group-title="Infantil",Baby First
 http://45.186.105.188:8000/play/a0jl/index.m3u8
@@ -462,7 +464,7 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 
 #EXTINF:-1 group-title="Mundo",Distrito Comedia
-http://45.186.105.188:8000/play/a07r/index.m3u8
+http://45.167.2.138:8000/play/a0st/index.m3u8
 #EXTINF:-1 group-title="Mundo",Ecuador TV Internacional
 http://45.230.199.108:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="Mundo",Star TVE
