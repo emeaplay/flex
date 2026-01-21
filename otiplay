@@ -357,6 +357,8 @@ http://200.48.64.108:8000/play/miperu
 http://181.119.98.237:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="Musica",Telehit MUSICA
 http://190.60.42.86:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Musica",Tropi CUmbia
+https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
 #EXTINF:-1 group-title="Musica",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
