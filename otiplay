@@ -19,7 +19,6 @@ https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:-1 group-title="OTIPLAY",RPP TV
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream3/chunks.m3u8
-http://190.234.82.52:8000/play/a0kp/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="OTIPLAY",Willax
@@ -27,7 +26,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="OTIPLAY",Global
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_480_270.jpg" group-title="OTIPLAY",L1 MAX
-http://190.234.82.52:8000/play/a0aq/index.m3u8
+http://190.108.83.142:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
 #EXTINF:-1 group-title="OTIPLAY",Latina Noticias
@@ -59,11 +58,11 @@ http://45.186.105.188:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="OTIPLAY",A&E
 http://170.244.209.30:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",FX
-http://45.186.105.188:8000/play/a0gw/index.m3u8
+http://170.244.209.30:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="OTIPLAY",Discovery
-http://45.186.105.188:8000/play/a0kn/index.m3u8
+http://45.230.199.108:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="OTIPLAY",History
-http://160.20.165.246:8000/play/a00m/index.m3u8
+http://170.244.209.30:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="OTIPLAY",H2
 http://45.186.105.188:8000/play/a0jp/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
@@ -76,10 +75,16 @@ http://190.60.42.86:8000/play/a04d/index.m3u8
 http://45.186.105.188:8000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="OTIPLAY",Home & Health
 http://45.186.105.188:8000/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
+http://170.244.209.30:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png" group-title="OTIPLAY",CNN en espanol
 http://45.186.105.188:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CNN ESP HD
 http://190.60.42.86:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",CNN International
+http://170.244.209.30:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",BBC international
+http://170.244.209.30:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",RT
@@ -90,54 +95,70 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 http://190.60.42.86:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Antena 3 Internacional
 http://160.20.165.246:8000/play/a00e/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="CLASICOS",Mi TV
-https://mitv.getstreamhosting.com:1936/live/live/chunklist.m3u8
-#EXTINF:-1 group-title="CLASICOS",TV Retro Palmares
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
-#EXTINF:-1 group-title="CLASICOS",Retroplus
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
-#EXTINF:-1 group-title="CLASICOS",TCM
-http://45.186.105.188:8000/play/a0jw/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",AVI movies
-http://190.60.42.86:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",DE Pelicula
-http://190.60.42.86:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",AZ Cinema
-http://190.60.42.86:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",Memorias Films
-http://190.60.42.86:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",AVI Rewind
-http://190.60.42.86:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",Memorias Series
-http://190.60.42.86:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",Cine Mexicano
-http://160.20.165.246:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Adult Swim
+http://45.230.199.108:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",AmericaTeVe
 https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 group-title="CLASICOS",AVI movies
+http://190.60.42.86:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",AVI Rewind
+http://190.60.42.86:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",AZ Cinema
+http://190.60.42.86:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Cine Mexicano
+http://160.20.165.246:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Claro Cinema
+http://170.244.209.30:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",DE Pelicula
+http://190.60.42.86:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 group-title="CLASICOS",Memorias Films
+http://190.60.42.86:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Memorias Series
+http://190.60.42.86:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg" group-title="CLASICOS",Mi TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist.m3u8
 #EXTINF:-1 group-title="CLASICOS",NetChannel
 https://media.streambrothers.com:19360/8158/8158.m3u8
-#EXTINF:-1 group-title="CLASICOS",Teleclasika
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 group-title="CLASICOS",PeliMEX
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="CLASICOS",Retroplus
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
+#EXTINF:-1 group-title="CLASICOS",RetroX
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 #EXTINF:-1 group-title="CLASICOS",Series Retro Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=737828ef-a90c-11eb-91cc-0242ac110002&sid=737828ef-a90c-11eb-91cc-0242ac110002&userId=
+#EXTINF:-1 group-title="CLASICOS",STAR tve
+http://170.244.209.30:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",TCM
+http://45.230.199.108:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",Teleclasika
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 group-title="CLASICOS",TeleRED
 https://k20.usastreams.com:8081/teleredcablera/video.m3u8
 #EXTINF:-1 group-title="CLASICOS",TeleSISTEMA
 https://k20.usastreams.com:8081/telesistemacablera/video.m3u8
-
-
+#EXTINF:-1 group-title="CLASICOS",TV Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+#EXTINF:-1 group-title="CLASICOS",WEST
+http://45.230.199.108:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Cine",A&E Mundo
-http://168.90.14.251:8000/play/a0m3/index.m3u8
+http://170.244.209.30:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Cine",AMC Series
+http://200.37.241.109:8000/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="Cine",ATRES Series
+http://170.244.209.30:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Cine",Canela Cinema
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Familiar
 http://160.20.165.246:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Cine",Cine Hispano
 http://160.20.165.246:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Cine",Cine Latino
+http://170.244.209.30:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="Cine",Cine Premium
 http://160.20.165.246:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinecanal
@@ -148,6 +169,10 @@ http://45.186.105.188:8000/play/a0il/index.m3u8
 http://200.60.124.25:8000/play/a0mi/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
 http://45.186.105.188:8000/play/a0gy/index.m3u8
+#EXTINF:-1 group-title="Cine",EuroChannel
+http://45.5.118.152:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Cine",Film and Arts
+http://170.244.209.30:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
@@ -156,6 +181,8 @@ http://45.186.105.188:8000/play/a0i5/index.m3u8
 http://200.37.241.109:8000/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden Premier
 http://45.230.199.108:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Cine",Golden Premier 2
+http://170.244.209.30:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
 http://45.186.105.188:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO 2
@@ -170,46 +197,44 @@ http://45.186.105.188:8000/play/a0l6/index.m3u8
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Cine",MultiPremier
 http://160.20.165.246:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Cine",MyTime Movie ES
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cine",MyTime Movie MX
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cine",Paramount(P)
-http://190.234.82.52:8000/play/a0ih/index.m3u8
-#EXTINF:-1 group-title="Cine",Paramount
-http://45.5.116.228:8000/play/a0kl/index.m3u8
-#EXTINF:-1 group-title="Cine",Planeta Movies
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Cine",Sony Movies
-http://200.4.195.66:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Cine",Sony Movies
-http://45.186.105.188:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Cine",Sony Cine
-http://190.60.42.86:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Cine",SPACE
-http://190.108.83.142:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Cine",MX Classic
+http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Cine",MX Family
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Cine",MX OLD
+http://190.108.83.142:8000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Cine",MX Prime
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",MX Series
 http://190.108.83.142:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Cine",MX Family
-http://190.108.83.142:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Cine",MX Classic
-http://190.108.83.142:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Cine",MX OLD
-http://190.108.83.142:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Cine",MyTime Movie ES
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cine",MyTime Movie MX
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Panico
 http://181.119.98.237:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Cine",Paramount
+http://45.5.116.228:8000/play/a0kl/index.m3u8
+#EXTINF:-1 group-title="Cine",Paramount(P)
+http://190.234.82.52:8000/play/a0ih/index.m3u8
+#EXTINF:-1 group-title="Cine",Planeta Movies
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8?WebM3UCL
+#EXTINF:-1 group-title="Cine",Sony Cine
+http://190.60.42.86:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Cine",Sony Movies
+http://200.4.195.66:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Cine",Sony Movies
+http://45.186.105.188:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Cine",SPACE
+http://190.108.83.142:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Cine",TNT Series
+http://45.230.199.108:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Cine",USA networks
 http://190.60.42.86:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Cine",Canela Cinema
-https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Universal+",Universal Comedy
-http://45.186.105.188:8000/play/a0i5/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Cinema
 http://45.186.105.188:8000/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="Universal+",Universal Comedy
+http://45.186.105.188:8000/play/a0i5/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Crime
 http://45.186.105.188:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Premiere
@@ -218,7 +243,6 @@ http://45.186.105.188:8000/play/a0i1/index.m3u8
 http://45.186.105.188:8000/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Reality
 http://45.186.105.188:8000/play/a0i3/index.m3u8
-
 #EXTINF:-1 group-title="Deporte",Claro Sports 1
 http://45.186.105.188:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Deporte",Claro Sports 2
@@ -229,16 +253,30 @@ https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqV
 http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="Deporte",DSports
 http://190.108.89.228:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN  4 HD
+http://45.5.116.228:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 1
 http://45.186.105.188:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="Deporte",ESPN 2
 http://38.41.8.1:8000/play/a0rp
+#EXTINF:-1 group-title="Deporte",ESPN 2 HD
+http://45.5.116.228:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deporte",ESPN 3
 http://bantel-cdn4.iptvperu.tv:1935/7Hih8n/espn3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 3 HD
+http://45.5.116.228:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="Deporte",ESPN 4
 http://bantel-cdn4.iptvperu.tv:1935/7v5vVh/espn4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="Deporte",ESPN 5
 http://bantel-cdn4.iptvperu.tv:1935/sM5Iw9/espn5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 5  HD
+http://45.5.116.228:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 6 HD
+http://45.5.116.228:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN HD
+http://45.5.116.228:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Deporte",GOLF Channel
+http://45.5.116.228:8000/play/a0h1/index.m3u8
 #EXTINF:-1 group-title="Deporte",GOLPERU (P)
 http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1max
@@ -259,73 +297,160 @@ http://190.108.89.228:8000/play/a0gy/index.m3u8
 http://45.186.105.188:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Deporte",TUDN
 http://45.186.105.188:8000/play/a07v/index.m3u8
-#EXTINF:-1 group-title="Deporte",YuriTV
-https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deporte",Win Sports CO (P)
 http://179.1.192.227:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 group-title="Deporte",ESPN HD
-http://45.5.116.228:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 2 HD
-http://45.5.116.228:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 3 HD
-http://45.5.116.228:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN  4 HD
-http://45.5.116.228:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 5  HD
-http://45.5.116.228:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 6 HD
-http://45.5.116.228:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Deporte",GOLF Channel
-http://45.5.116.228:8000/play/a0h1/index.m3u8
-
-#EXTINF:-1 group-title="Variados",El Gourmet
-http://190.60.37.118:4000/play/a09z
-#EXTINF:-1 group-title="Variados",Univision 24/7
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Variados",Telemundo
-http://200.60.124.25:8000/play/a0in/index.m3u8
-#EXTINF:-1 group-title="Variados",Unicable
-http://45.230.199.108:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Variados",HGTV
-http://190.60.42.86:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Variados",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="Variados",Univision
-http://45.186.105.188:8000/play/a0kr/index.m3u8
-#EXTINF:-1 group-title="Variados",Corazon
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
-#EXTINF:-1 group-title="Variados",Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="Variados",E! Entertainment
-http://181.119.98.237:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="Variados",Pasiones
-http://45.186.105.188:8000/play/a0kq/index.m3u8
-#EXTINF:-1 group-title="Variados",Estrella TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Variados",Hola TV
-http://45.186.105.188:8000/play/a0hx/index.m3u8
-#EXTINF:-1 group-title="Variados",RCN Novelas
-http://45.186.105.188:8000/play/a0jn/index.m3u8
-#EXTINF:-1 group-title="Variados",TNT Novelas
-http://45.186.105.188:8000/play/a0g9/index.m3u8
-#EXTINF:-1 group-title="Variados",Comedy Central
-http://45.186.105.188:8000/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="Deporte",YuriTV
+https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+#EXTINF:-1 group-title="Variados",Canal Claro
+http://170.244.209.30:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Variados",Clic
+http://45.5.116.228:8000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="Variados",Comedy Central
+http://45.186.105.188:8000/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="Variados",Corazon
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
+#EXTINF:-1 group-title="Variados",Discovery SCIENCE
+http://45.230.199.108:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Variados",Discovery TURBO
+http://45.230.199.108:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Variados",Distrito Comedia
+http://45.167.2.138:8000/play/a0st/index.m3u8
+#EXTINF:-1 group-title="Variados",E! Entertainment
+http://181.119.98.237:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Variados",Ecuador TV Internacional
+http://45.230.199.108:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Variados",El Gourmet
+http://190.60.37.118:4000/play/a09z
+#EXTINF:-1 group-title="Variados",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Variados",HGTV
+http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Variados",Hogar TV
 http://138.94.3.106:8000/play/a04t/index.m3u8
-
+#EXTINF:-1 group-title="Variados",Hola TV
+http://45.186.105.188:8000/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="Variados",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="Variados",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Variados",Lifetime
+http://170.244.209.30:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Variados",NET TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="Variados",Pasiones
+http://45.186.105.188:8000/play/a0kq/index.m3u8
+#EXTINF:-1 group-title="Variados",RCN Novelas
+http://45.186.105.188:8000/play/a0jn/index.m3u8
+#EXTINF:-1 group-title="Variados",Star TVE
+http://45.186.105.188:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="Variados",Sun Channel
+http://45.5.116.228:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Variados",Tele13
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
+#EXTINF:-1 group-title="Variados",Telemundo
+http://200.60.124.25:8000/play/a0in/index.m3u8
+#EXTINF:-1 group-title="Variados",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Variados",Telemundo USA
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 group-title="Variados",TNT Novelas
+http://45.186.105.188:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="Variados",UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
+#EXTINF:-1 group-title="Variados",Unicable
+http://45.230.199.108:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Variados",Univision
+http://45.186.105.188:8000/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="Variados",Univision 24/7
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Variados",Vision TV Cine
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 group-title="Peru+",Asiri TV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 group-title="Peru+",ATV Sur
+https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_4276517416086298479_hls.m3u8
+#EXTINF:-1 group-title="Peru+",BHTV
+https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8?WebM3UCL
+#EXTINF:-1 group-title="Peru+",CablePeru
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 group-title="Peru+",CableVision TV
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 group-title="Peru+",Canal Catacaos
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",Conecta TV Digital
+https://live.obslivestream.com/conecta2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",DOBLEC
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+#EXTINF:-1 group-title="Peru+",FuegoTV
+http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/bd/ad/e7bdad0daad96021feda64d88000386d.gif" group-title="Peru+",Identidad.tv
+https://stream.mediacorp.pe/srt/2/playlist.m3u8
+#EXTINF:-1 group-title="Peru+",Impacto TV
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",JNETV
+https://live20.bozztv.com/akamaissh101/ssh101/jnetv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="Peru+",Justicia TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
+#EXTINF:-1 group-title="Peru+",JusticiaTV
+http://190.238.172.153:8000/play/a07w
+#EXTINF:-1 group-title="Peru+",Latina (W)
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2139264184066cfcc646e972&ndvc=0&sid=ba5t1l1xb2178480501966cfcc6658b39
+#EXTINF:-1 group-title="Peru+",Latina Noticias(W)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+#EXTINF:-1 group-title="Peru+",MEGA TV
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="Peru+",OD TV
+https://servilive.com:3510/live/odtv1live.m3u8
+#EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="Peru+",OD TV 2
+https://servilive.com:3461/live/odtv2live.m3u8
+#EXTINF:-1 group-title="Peru+",Onda Digital
+https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",OtiPlay Media
+https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",QOSMO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/cosmotelevisionSRT/chunks.m3u8
+#EXTINF:-1 group-title="Peru+",Radio San Borja TV
+https://stream.mediacorp.pe/srt/3/chunks.m3u8
+#EXTINF:-1 group-title="Peru+",Riberena
+https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
+#EXTINF:-1 group-title="Peru+",RPP TV (W)
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream3/chunks.m3u8
+#EXTINF:-1 group-title="Peru+",RPP TV Satelite
+http://200.37.241.109:8000/play/a0jh/index.m3u8
+#EXTINF:-1 group-title="Peru+",SelvaTV
+https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8?uid=112
+#EXTINF:-1 group-title="Peru+",Senal Peru
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Peru+",Telecolor
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8?WebM3UCL
+#EXTINF:-1 group-title="Peru+",Tropical
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 group-title="Peru+",TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1832937501.m3u8?WebM3UCL
+#EXTINF:-1 group-title="Peru+",TV Peru Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+#EXTINF:-1 group-title="Peru+",TV Peru Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+#EXTINF:-1 group-title="Peru+",Vision TV Musica
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+#EXTINF:-1 group-title="Peru+",VITAL TV
+https://stream.mediacorp.pe/srt/1/chunks.m3u8
 #EXTINF:-1 group-title="Infantil",Baby First
 http://45.186.105.188:8000/play/a0jl/index.m3u8
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
 #EXTINF:-1 group-title="Infantil",Canal Infantil
 http://160.20.165.246:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Infantil",Cartoonito
-http://45.186.105.188:8000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="Infantil",Canela Kids
+http://45.5.118.152:8000/play/a0c7/index.m3u8
 #EXTINF:-1 group-title="Infantil",Cartoon Network
 http://190.60.42.86:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoonito
+http://45.186.105.188:8000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="Infantil",Discovery Kids
+http://45.5.118.152:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Infantil",Funbox
 http://200.4.244.29:8000/play/a01k
 #EXTINF:-1 group-title="Infantil",Nick JR
@@ -338,9 +463,12 @@ http://45.186.105.188:8000/play/a03i/index.m3u8
 http://45.186.105.188:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Infantil",ZooMoo
 http://160.20.165.246:8000/play/a017/index.m3u8
-
+#EXTINF:-1 group-title="Musica",Concert Channel
+http://170.244.209.30:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Musica",HTV
 http://181.119.98.237:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Musica",MiMusica Peru
+http://200.48.64.108:8000/play/miperu
 #EXTINF:-1 group-title="Musica",MiMusica Popular
 http://160.20.165.246:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Reggaeton
@@ -351,17 +479,18 @@ http://160.20.165.246:8000/play/a019/index.m3u8
 http://181.119.98.237:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="Musica",MiMusica Salsa
 http://160.20.165.246:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="Musica",MiMusica Peru
-http://200.48.64.108:8000/play/miperu
 #EXTINF:-1 group-title="Musica",MTV
 http://181.119.98.237:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Musica",Rumba TV
+http://200.37.241.109:8000/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="Musica",Telehit MUSICA
 http://190.60.42.86:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Musica",Trace Latina
+http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Musica",Tropi CUmbia
 https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
 #EXTINF:-1 group-title="Musica",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-
 #EXTINF:-1 group-title="PlutoTV",Cine Accion
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7f8dd34a-a907-11eb-9c6e-0242ac110002&sid=7f8dd34a-a907-11eb-9c6e-0242ac110002&userId=
 #EXTINF:-1 group-title="PlutoTV",Cine Drama
@@ -382,7 +511,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=723b19b8-a90b-11eb-b4a3-0242ac110002&sid=723b19b8-a90b-11eb-b4a3-0242ac110002&userId=
 #EXTINF:-1 group-title="PlutoTV",Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=737828ef-a90c-11eb-91cc-0242ac110002&sid=737828ef-a90c-11eb-91cc-0242ac110002&userId=
-
+#EXTINF:-1 group-title="FreeTV",BOX Cinema
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/7RB6TWA/47ACBB024F87/m.m3u8
 #EXTINF:-1 group-title="FreeTV",FreeTV ACCION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="FreeTV",FreeTV DRAMA
@@ -401,142 +531,34 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="FreeTV",FreeTV TERROR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FreeTV",BOX Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/7RB6TWA/47ACBB024F87/m.m3u8
 #EXTINF:-1 group-title="FreeTV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 group-title="FreeTV",Rockola Television
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/4X3LO4Q/6BF095EB3851/m.m3u8
 #EXTINF:-1 group-title="FreeTV",Viajar
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/K3YNAQY/8AEDE38B77B3/m.m3u8
-
-#EXTINF:-1 group-title="Peru+",Asiri TV
-https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 group-title="Peru+",ATV Sur
-https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_4276517416086298479_hls.m3u8
-#EXTINF:-1 group-title="Peru+",BHTV
-https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Peru+",CablePeru
-https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 group-title="Peru+",CableVision TV
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 group-title="Peru+",Canal Catacaos
-https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Peru+",DOBLEC
-https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
-#EXTINF:-1 group-title="Peru+",FuegoTV
-http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Peru+",Impacto TV
-https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Peru+",JNETV
-https://live20.bozztv.com/akamaissh101/ssh101/jnetv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="Peru+",Justicia TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
-#EXTINF:-1 group-title="Peru+",Latina (W)
-https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2139264184066cfcc646e972&ndvc=0&sid=ba5t1l1xb2178480501966cfcc6658b39
-#EXTINF:-1 group-title="Peru+",Latina Noticias(W)
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
-#EXTINF:-1 group-title="Peru+",MEGA TV
-https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Peru+",OtiPlay Media
-https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Peru+",Radio San Borja TV
-https://stream.mediacorp.pe/srt/3/chunks.m3u8
-#EXTINF:-1 group-title="Peru+",QOSMO TV
-https://live-evg11.tv360.bitel.com.pe/bitel/cosmotelevisionSRT/chunks.m3u8
-#EXTINF:-1 group-title="Peru+",Riberena
-https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
-#EXTINF:-1 group-title="Peru+",RPP TV (W)
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream3/chunks.m3u8
-#EXTINF:-1 group-title="Peru+",SelvaTV
-https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8?uid=112
-#EXTINF:-1 group-title="Peru+",Senal Peru
-https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 group-title="Peru+",Telecolor
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Peru+",Tropical
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 group-title="Peru+",TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1832937501.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Peru+",TV Peru Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-#EXTINF:-1 group-title="Peru+",TV Peru Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:-1 group-title="Peru+",Vision TV Musica
-https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
-#EXTINF:-1 group-title="Peru+",Onda Digital
-https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="Peru+",OD TV
-https://servilive.com:3510/live/odtv1live.m3u8
-#EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="Peru+",OD TV 2
-https://servilive.com:3461/live/odtv2live.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/bd/ad/e7bdad0daad96021feda64d88000386d.gif" group-title="Peru+",Identidad.tv
-https://stream.mediacorp.pe/srt/2/playlist.m3u8
-#EXTINF:-1 group-title="Peru+",VITAL TV
-https://stream.mediacorp.pe/srt/1/chunks.m3u8
-#EXTINF:-1 group-title="Peru+",JusticiaTV
-http://190.238.172.153:8000/play/a07w
-
-#EXTINF:-1 group-title="Mundo",Distrito Comedia
-http://45.167.2.138:8000/play/a0st/index.m3u8
-#EXTINF:-1 group-title="Mundo",Ecuador TV Internacional
-http://45.230.199.108:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Mundo",Star TVE
-http://45.186.105.188:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="Mundo",Tele13
-https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
-#EXTINF:-1 group-title="Mundo",UCL
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
-#EXTINF:-1 group-title="Mundo",Sun Channel
-http://45.5.116.228:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Mundo",Telemundo PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Mundo",Telemundo USA
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 group-title="Mundo",Vision TV Cine
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
+#EXTINF:-1 group-title="Religion",3ABN Latino
+http://45.5.118.152:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Religion",BETHEL
+https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
 #EXTINF:-1 group-title="Religion",ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+#EXTINF:-1 group-title="Religion",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Religion",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 group-title="Religion",PAX TV
 https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
-#EXTINF:-1 group-title="Religion",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Religion",BETHEL
-https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
-#EXTINF:-1 group-title="Religion",UNIFE
-https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
 #EXTINF:-1 group-title="Religion",Presencia TV
 https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
-
+#EXTINF:-1 group-title="Religion",UNIFE
+https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Hot",X-Venus
 http://45.186.105.188:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/381_playboy.jpg" group-title="Hot",X-Playboy Inter
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Hot",Sextreme (P)
 http://200.48.192.118:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 group-title="24H",Caballeros del Zodiaco
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
-#EXTINF:-1 group-title="24H",Canal del Congreso
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball Classic
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse1/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball GT
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse5/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball Plus
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse4/chunks.m3u8
-#EXTINF:-1 group-title="24H",Dragon Ball Z
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse3/chunks.m3u8
-#EXTINF:-1 group-title="24H",El Chavo del 8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
-#EXTINF:-1 group-title="24H",RPP Stream
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
-#EXTINF:-1 group-title="24H",Telelima 2
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="WEB",Latina (M)
 http://190.234.82.52:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="WEB",America (M)
@@ -559,33 +581,55 @@ http://190.234.82.52:8000/play/a0kp/index.m3u8
 http://181.66.254.203:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="WEB",WILLAX (M)
 http://181.66.254.203:8000/play/a01x/index.m3u8
-
+#EXTINF:-1 group-title="WEB",Caballeros del Zodiaco
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Canal del Congreso
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Dragon Ball Classic
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse1/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Dragon Ball GT
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse5/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Dragon Ball Plus
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse4/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Dragon Ball Z
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse3/chunks.m3u8
+#EXTINF:-1 group-title="WEB",El Chavo del 8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
+#EXTINF:-1 group-title="WEB",RPP Stream
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Telelima 2
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Globovision
+http://38.41.8.1:8000/play/a0xw
+#EXTINF:-1 group-title="WEB",Telesur
+http://38.41.8.1:8000/play/a03l
+#EXTINF:-1 group-title="WEB",Venevision
+http://38.41.8.1:8000/play/a0xx
+#EXTINF:-1 group-title="WEB",Venezolana de TV
+http://38.41.8.1:8000/play/a0xq
 #EXTINF:-1 group-title="Radio",La Noventera
 https://host.gometri.com/proxy/lanoventera/stream
+#EXTINF:-1 group-title="Radio",Radio Felicidad
+http://190.108.83.142:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Radio",Radio La Zona
+http://190.108.83.142:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Radio",Radio MEGAMix
 https://live-evg3.tv360.bitel.com.pe/audio/5fada56fe4e09508207a7951/live.m3u8?uid=112
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio MIX
 https://stream-152.zeno.fm/qnym6trqokstv
 #EXTINF:-1 group-title="Radio",Radio Oxigeno
 https://live-evg3.tv360.bitel.com.pe/audio/5fab0687bcd6c2389ee9480c/live.m3u8?uid=112
-#EXTINF:-1 group-title="Radio",Radio PBO
-http://n05.radiojar.com/2fse67zuv8hvv?1669043472=&rj-tok=AAABmqMhuWoAyhvXAa3T-Ovmiw&rj-ttl=5
+#EXTINF:-1 group-title="Radio",Radio Oxigeno tv
+http://190.108.83.142:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio PBO
 https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4kg
 #EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio RBC
 https://sonic.dattassd.com/8100/stream
 #EXTINF:-1 group-title="Radio",Radio RPP
 https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?uid=112
-#EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio RTL
-https://stream-152.zeno.fm/ewrvx3k6u68uv
 #EXTINF:-1 group-title="Radio",Radio RPP audio
 http://190.108.83.142:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Felicidad
-http://190.108.83.142:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio La Zona
-http://190.108.83.142:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif" group-title="Radio",Radio RTL
+https://stream-152.zeno.fm/ewrvx3k6u68uv
 #EXTINF:-1 group-title="Radio",Radio Studio92
 http://190.108.83.142:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Oxigeno
-http://190.108.83.142:8000/play/a01a/index.m3u8
-
