@@ -32,12 +32,6 @@ http://190.234.82.52:8000/play/a0aq/index.m3u8
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
 #EXTINF:-1 group-title="OTIPLAY",Latina Noticias
 https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/bd/ad/e7bdad0daad96021feda64d88000386d.gif" group-title="OTIPLAY",Identidad.tv
-https://stream.mediacorp.pe/srt/2/playlist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",VITAL TV
-https://stream.mediacorp.pe/srt/1/chunks.m3u8
-#EXTINF:-1 group-title="OTIPLAY",JusticiaTV
-http://190.238.172.153:8000/play/a07w
 #EXTINF:-1 tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg" group-title="OTIPLAY",Trivu TV
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg" group-title="OTIPLAY",Karibena TV
@@ -474,6 +468,12 @@ https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
 https://servilive.com:3510/live/odtv1live.m3u8
 #EXTINF:-1 tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2024/11/cropped-LOGO-ODTV-150x150.png" group-title="Peru+",OD TV 2
 https://servilive.com:3461/live/odtv2live.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/bd/ad/e7bdad0daad96021feda64d88000386d.gif" group-title="Peru+",Identidad.tv
+https://stream.mediacorp.pe/srt/2/playlist.m3u8
+#EXTINF:-1 group-title="Peru+",VITAL TV
+https://stream.mediacorp.pe/srt/1/chunks.m3u8
+#EXTINF:-1 group-title="Peru+",JusticiaTV
+http://190.238.172.153:8000/play/a07w
 
 #EXTINF:-1 group-title="Mundo",Distrito Comedia
 http://45.167.2.138:8000/play/a0st/index.m3u8
