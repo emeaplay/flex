@@ -66,7 +66,7 @@ http://170.244.209.30:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="OTIPLAY",H2
 http://45.186.105.188:8000/play/a0jp/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
-http://170.244.209.30:8000/play/a044/index.m3u8
+http://38.52.208.106:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Animal Planet
 http://190.60.42.86:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Horizons Wild
