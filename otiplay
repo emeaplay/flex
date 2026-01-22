@@ -132,9 +132,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 #EXTINF:-1 group-title="CLASICOS",STAR tve
 http://170.244.209.30:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",TCM
-http://45.230.199.108:8000/play/a024/index.m3u8
+http://38.52.208.106:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",Teleclasika
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+http://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 group-title="CLASICOS",TeleRED
 https://k20.usastreams.com:8081/teleredcablera/video.m3u8
 #EXTINF:-1 group-title="CLASICOS",TeleSISTEMA
