@@ -578,7 +578,7 @@ http://190.234.82.52:8000/play/a0kw/index.m3u8
 #EXTINF:-1 group-title="WEB",RPP (M)
 http://190.234.82.52:8000/play/a0kp/index.m3u8
 #EXTINF:-1 group-title="WEB",Canal N (M)
-http://181.66.254.203:8000/play/a01z/index.m3u8
+http://181.64.27.65:8000/play/a0kt/index.m3u8
 #EXTINF:-1 group-title="WEB",WILLAX (M)
 http://181.66.254.203:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="WEB",Caballeros del Zodiaco
