@@ -72,13 +72,13 @@ http://190.60.42.86:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Horizons Wild
 http://190.60.42.86:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="OTIPLAY",TLC - Travel and Living
-
+http://170.244.209.30:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="OTIPLAY",Home & Health
-
+http://170.244.209.30:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
 http://170.244.209.30:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png" group-title="OTIPLAY",CNN en espanol
-
+http://170.244.209.30:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CNN ESP HD
 http://190.60.42.86:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CNN International
@@ -162,13 +162,13 @@ http://170.244.209.30:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="Cine",Cine Premium
 http://160.20.165.246:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinecanal
-
+http://170.244.209.30:8000/play/a057/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinemax
-
+http://170.244.209.30:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="Cine",Classic Western
 http://200.60.124.25:8000/play/a0mi/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
-
+http://170.244.209.30:8000/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Cine",EuroChannel
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cine",Film and Arts
@@ -176,7 +176,7 @@ http://170.244.209.30:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
-
+http://170.244.209.30:8000/play/a0jm/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden HD
 http://200.37.241.109:8000/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden Premier
@@ -184,9 +184,9 @@ http://45.230.199.108:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden Premier 2
 http://170.244.209.30:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
-
+http://170.244.209.30:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO 2
-
+http://170.244.209.30:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Family
 
 #EXTINF:-1 group-title="Cine",HBO Plus
