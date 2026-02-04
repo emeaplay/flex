@@ -44,11 +44,11 @@ https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="OTIPLAY",TNT
 http://170.244.209.30:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="OTIPLAY",Sony Channel
-
+http://38.52.208.106:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="OTIPLAY",Warner
-
+http://38.52.208.106:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg" group-title="OTIPLAY",STAR Channel
-
+http://38.52.208.106:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="OTIPLAY",AXN
 http://170.244.209.30:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="OTIPLAY",Universal
@@ -64,7 +64,7 @@ http://45.230.199.108:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="OTIPLAY",History
 http://170.244.209.30:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="OTIPLAY",H2
-
+http://38.52.208.106:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
 http://38.52.208.106:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Animal Planet
@@ -188,11 +188,11 @@ http://170.244.209.30:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO 2
 http://170.244.209.30:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Family
-
+http://170.244.209.30:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Plus
-
+http://170.244.209.30:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Xtreme
-
+http://170.244.209.30:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Cine",Multicinema
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Cine",MultiPremier
@@ -224,7 +224,7 @@ http://190.60.42.86:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
-
+http://38.52.208.106:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Cine",SPACE
 http://190.108.83.142:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Cine",TNT Series
@@ -232,21 +232,21 @@ http://45.230.199.108:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Cine",USA networks
 http://190.60.42.86:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Cinema
-
+http://38.52.208.106:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Comedy
-
+http://38.52.208.106:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Crime
-
+http://38.52.208.106:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Premiere
-
+http://38.52.208.106:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Premiere Oeste
-
+http://38.52.208.106:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Reality
-
+http://38.52.208.106:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="Deporte",Claro Sports 1
-
+http://38.52.208.106:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deporte",Claro Sports 2
-
+http://38.52.208.106:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="Deporte",ContactoTV
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 group-title="Deporte",DirecTV Sports
@@ -256,7 +256,7 @@ http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN  4 HD
 http://45.5.116.228:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 1
-
+http://38.52.208.106:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="Deporte",ESPN 2
 http://38.41.8.1:8000/play/a0rp
 #EXTINF:-1 group-title="Deporte",ESPN 2 HD
@@ -307,8 +307,8 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://170.244.209.30:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="Variados",Clic
 http://45.5.116.228:8000/play/a0gz/index.m3u8
-#EXTINF:-1 group-title="Variados",Comedy Central
-
+#EXTINF:-1 group-title="Variados",Comedy Central (P)
+http://170.244.209.30:8000/play/a0gu/index.m3u8
 #EXTINF:-1 group-title="Variados",Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 #EXTINF:-1 group-title="Variados",Discovery SCIENCE
