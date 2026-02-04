@@ -52,9 +52,9 @@ http://170.244.209.30:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="OTIPLAY",AXN
 http://170.244.209.30:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="OTIPLAY",Universal
-
+http://170.244.209.30:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="OTIPLAY",Studio Universal
-
+http://170.244.209.30:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="OTIPLAY",A&E
 http://170.244.209.30:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",FX
@@ -362,7 +362,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Variados",Unicable
 http://45.230.199.108:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Variados",Univision
-
+http://170.244.209.30:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Variados",Univision 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Vision TV Cine
