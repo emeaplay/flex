@@ -42,19 +42,19 @@ https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png" group-title="OTIPLAY",TeleLima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="OTIPLAY",TNT
-http://45.186.105.188:8000/play/a0hu/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="OTIPLAY",Sony Channel
-http://45.186.105.188:8000/play/a0hp/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="OTIPLAY",Warner
-http://45.186.105.188:8000/play/a0ho/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg" group-title="OTIPLAY",STAR Channel
-http://45.186.105.188:8000/play/a0hn/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="OTIPLAY",AXN
-http://45.186.105.188:8000/play/a0iy/index.m3u8
+http://170.244.209.30:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="OTIPLAY",Universal
-http://45.186.105.188:8000/play/a0ih/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="OTIPLAY",Studio Universal
-http://45.186.105.188:8000/play/a04t/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="OTIPLAY",A&E
 http://170.244.209.30:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",FX
@@ -64,7 +64,7 @@ http://45.230.199.108:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="OTIPLAY",History
 http://170.244.209.30:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="OTIPLAY",H2
-http://45.186.105.188:8000/play/a0jp/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
 http://38.52.208.106:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Animal Planet
@@ -72,13 +72,13 @@ http://190.60.42.86:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Horizons Wild
 http://190.60.42.86:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="OTIPLAY",TLC - Travel and Living
-http://45.186.105.188:8000/play/a0hh/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="OTIPLAY",Home & Health
-http://45.186.105.188:8000/play/a0hw/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
 http://170.244.209.30:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png" group-title="OTIPLAY",CNN en espanol
-http://45.186.105.188:8000/play/a058/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",CNN ESP HD
 http://190.60.42.86:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CNN International
@@ -162,13 +162,13 @@ http://170.244.209.30:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="Cine",Cine Premium
 http://160.20.165.246:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinecanal
-http://45.186.105.188:8000/play/a0hq/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Cinemax
-http://45.186.105.188:8000/play/a0il/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Classic Western
 http://200.60.124.25:8000/play/a0mi/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
-http://45.186.105.188:8000/play/a0gy/index.m3u8
+
 #EXTINF:-1 group-title="Cine",EuroChannel
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cine",Film and Arts
@@ -176,7 +176,7 @@ http://170.244.209.30:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
-http://45.186.105.188:8000/play/a0i5/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Golden HD
 http://200.37.241.109:8000/play/a0gq/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden Premier
@@ -184,15 +184,15 @@ http://45.230.199.108:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden Premier 2
 http://170.244.209.30:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
-http://45.186.105.188:8000/play/a0l2/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO 2
-http://45.186.105.188:8000/play/a00c/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO Family
-http://45.186.105.188:8000/play/a0l5/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO Plus
-http://45.186.105.188:8000/play/a0l4/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO Xtreme
-http://45.186.105.188:8000/play/a0l6/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Multicinema
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Cine",MultiPremier
@@ -224,7 +224,7 @@ http://190.60.42.86:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
-http://45.186.105.188:8000/play/a03s/index.m3u8
+
 #EXTINF:-1 group-title="Cine",SPACE
 http://190.108.83.142:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Cine",TNT Series
@@ -232,21 +232,21 @@ http://45.230.199.108:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Cine",USA networks
 http://190.60.42.86:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Cinema
-http://45.186.105.188:8000/play/a0kt/index.m3u8
+
 #EXTINF:-1 group-title="Universal+",Universal Comedy
-http://45.186.105.188:8000/play/a0i5/index.m3u8
+
 #EXTINF:-1 group-title="Universal+",Universal Crime
-http://45.186.105.188:8000/play/a0i4/index.m3u8
+
 #EXTINF:-1 group-title="Universal+",Universal Premiere
-http://45.186.105.188:8000/play/a0i1/index.m3u8
+
 #EXTINF:-1 group-title="Universal+",Universal Premiere Oeste
-http://45.186.105.188:8000/play/a0i2/index.m3u8
+
 #EXTINF:-1 group-title="Universal+",Universal Reality
-http://45.186.105.188:8000/play/a0i3/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",Claro Sports 1
-http://45.186.105.188:8000/play/a07o/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",Claro Sports 2
-http://45.186.105.188:8000/play/a07p/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",ContactoTV
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 group-title="Deporte",DirecTV Sports
@@ -256,7 +256,7 @@ http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN  4 HD
 http://45.5.116.228:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 1
-http://45.186.105.188:8000/play/a05r/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="Deporte",ESPN 2
 http://38.41.8.1:8000/play/a0rp
 #EXTINF:-1 group-title="Deporte",ESPN 2 HD
@@ -294,9 +294,9 @@ http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Deporte",Real Madrid
 http://190.108.89.228:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Deporte",Tigo Sports
-http://45.186.105.188:8000/play/a02v/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",TUDN
-http://45.186.105.188:8000/play/a07v/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",Win Sports CO (P)
 http://179.1.192.227:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
@@ -308,7 +308,7 @@ http://170.244.209.30:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="Variados",Clic
 http://45.5.116.228:8000/play/a0gz/index.m3u8
 #EXTINF:-1 group-title="Variados",Comedy Central
-http://45.186.105.188:8000/play/a0hy/index.m3u8
+
 #EXTINF:-1 group-title="Variados",Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 #EXTINF:-1 group-title="Variados",Discovery SCIENCE
@@ -330,7 +330,7 @@ http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Variados",Hogar TV
 http://138.94.3.106:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Variados",Hola TV
-http://45.186.105.188:8000/play/a0hx/index.m3u8
+
 #EXTINF:-1 group-title="Variados",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Las Estrellas
@@ -340,11 +340,11 @@ http://170.244.209.30:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Variados",NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Pasiones
-http://45.186.105.188:8000/play/a0kq/index.m3u8
+
 #EXTINF:-1 group-title="Variados",RCN Novelas
-http://45.186.105.188:8000/play/a0jn/index.m3u8
+
 #EXTINF:-1 group-title="Variados",Star TVE
-http://45.186.105.188:8000/play/a060/index.m3u8
+
 #EXTINF:-1 group-title="Variados",Sun Channel
 http://45.5.116.228:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="Variados",Tele13
@@ -356,13 +356,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 group-title="Variados",Telemundo USA
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 group-title="Variados",TNT Novelas
-http://45.186.105.188:8000/play/a0g9/index.m3u8
+
 #EXTINF:-1 group-title="Variados",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Variados",Unicable
 http://45.230.199.108:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Variados",Univision
-http://45.186.105.188:8000/play/a0kr/index.m3u8
+
 #EXTINF:-1 group-title="Variados",Univision 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Vision TV Cine
@@ -438,7 +438,7 @@ https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
 #EXTINF:-1 group-title="Infantil",Baby First
-http://45.186.105.188:8000/play/a0jl/index.m3u8
+
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
 #EXTINF:-1 group-title="Infantil",Canal Infantil
@@ -448,7 +448,7 @@ http://45.5.118.152:8000/play/a0c7/index.m3u8
 #EXTINF:-1 group-title="Infantil",Cartoon Network
 http://190.60.42.86:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Infantil",Cartoonito
-http://45.186.105.188:8000/play/a0g0/index.m3u8
+
 #EXTINF:-1 group-title="Infantil",Discovery Kids
 http://45.5.118.152:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Infantil",Funbox
@@ -458,9 +458,9 @@ http://190.234.82.52:8000/play/a0mj/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nickelodeon
 http://190.234.82.52:8000/play/a0m7/index.m3u8
 #EXTINF:-1 group-title="Infantil",Teen Nick
-http://45.186.105.188:8000/play/a03i/index.m3u8
+
 #EXTINF:-1 group-title="Infantil",Tooncast
-http://45.186.105.188:8000/play/a03k/index.m3u8
+
 #EXTINF:-1 group-title="Infantil",ZooMoo
 http://160.20.165.246:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Musica",Concert Channel
@@ -554,7 +554,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
 #EXTINF:-1 group-title="Religion",UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Hot",X-Venus
-http://45.186.105.188:8000/play/a02u/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/381_playboy.jpg" group-title="Hot",X-Playboy Inter
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Hot",Sextreme (P)
