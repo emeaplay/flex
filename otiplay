@@ -42,7 +42,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png" group-title="OTIPLAY",TeleLima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="OTIPLAY",TNT
-
+http://170.244.209.30:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="OTIPLAY",Sony Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="OTIPLAY",Warner
@@ -294,7 +294,7 @@ http://190.234.82.52:8000/play/a0la/index.m3u8
 #EXTINF:-1 group-title="Deporte",Real Madrid
 http://190.108.89.228:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Deporte",Tigo Sports
-
+http://170.244.209.30:8000/play/a0y3/index.m3u8
 #EXTINF:-1 group-title="Deporte",TUDN
 
 #EXTINF:-1 group-title="Deporte",Win Sports CO (P)
@@ -330,7 +330,7 @@ http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Variados",Hogar TV
 http://138.94.3.106:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Variados",Hola TV
-
+http://170.244.209.30:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Variados",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Las Estrellas
@@ -340,7 +340,7 @@ http://170.244.209.30:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Variados",NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Pasiones
-
+http://170.244.209.30:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="Variados",RCN Novelas
 
 #EXTINF:-1 group-title="Variados",Star TVE
