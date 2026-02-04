@@ -36,7 +36,7 @@ https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg" group-title="OTIPLAY",Karibena TV
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png" group-title="OTIPLAY",LaTele
-http://190.238.172.153:8000/play/a0bt
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Doble C
 https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png" group-title="OTIPLAY",TeleLima
