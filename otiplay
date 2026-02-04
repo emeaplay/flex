@@ -296,11 +296,13 @@ http://190.108.89.228:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="Deporte",Tigo Sports
 http://170.244.209.30:8000/play/a0y3/index.m3u8
 #EXTINF:-1 group-title="Deporte",TUDN
-
+http://45.186.105.185:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="Deporte",Win Sports CO (P)
 http://179.1.192.227:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1 group-title="Variados",Canal Claro
@@ -342,9 +344,9 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u
 #EXTINF:-1 group-title="Variados",Pasiones
 http://170.244.209.30:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="Variados",RCN Novelas
-
+http://45.186.105.185:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="Variados",Star TVE
-
+http://45.186.105.185:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="Variados",Sun Channel
 http://45.5.116.228:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="Variados",Tele13
@@ -356,7 +358,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 group-title="Variados",Telemundo USA
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 group-title="Variados",TNT Novelas
-
+http://45.186.105.185:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Variados",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Variados",Unicable
@@ -367,6 +369,8 @@ http://170.244.209.30:8000/play/a04a/index.m3u8
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Vision TV Cine
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="Peru+",ATV Sur
