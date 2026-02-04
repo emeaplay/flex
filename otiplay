@@ -554,7 +554,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
 #EXTINF:-1 group-title="Religion",UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Hot",X-Venus
-
+http://45.5.116.178:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/381_playboy.jpg" group-title="Hot",X-Playboy Inter
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Hot",Sextreme (P)
