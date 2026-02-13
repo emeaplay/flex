@@ -196,7 +196,7 @@ http://170.244.209.30:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Xtreme
 http://170.244.209.30:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="Cine",Multicinema
-http://160.20.165.246:8000/play/a00a/index.m3u8
+http://200.48.64.108:8000/play/a06h
 #EXTINF:-1 group-title="Cine",MultiPremier
 http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Cine",MX Classic
