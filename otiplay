@@ -60,7 +60,7 @@ http://170.244.209.30:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",FX
 http://170.244.209.30:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="OTIPLAY",Discovery
-http://45.230.199.108:8000/play/a020/index.m3u8
+http://45.230.199.108:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="OTIPLAY",History
 http://170.244.209.30:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="OTIPLAY",H2
@@ -125,6 +125,8 @@ https://media.streambrothers.com:19360/8158/8158.m3u8
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="CLASICOS",Retroplus
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
+#EXTINF:-1 group-title="CLASICOS",RetroTV
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 group-title="CLASICOS",RetroX
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 #EXTINF:-1 group-title="CLASICOS",Series Retro Pluto
@@ -133,8 +135,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 http://170.244.209.30:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",TCM
 http://38.52.208.106:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="CLASICOS",Teleclasika
-http://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1 group-title="CLASICOS",Teleclasica
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 group-title="CLASICOS",TeleRED
 https://k20.usastreams.com:8081/teleredcablera/video.m3u8
 #EXTINF:-1 group-title="CLASICOS",TeleSISTEMA
