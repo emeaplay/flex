@@ -397,6 +397,9 @@ http://190.60.42.86:8000/play/a03p/index.m3u8
 http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Musica",Tropi CUmbia
 https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
+
+#EXTINF:-1 group-title="Nuevos",América TV
+http://legazy.club:8880/live/NewPlan25/kZZ6XeCFks/ff68c0a1-87f0-4429-8780-304b61e5d3a7.m3u8
 #EXTINF:-1 group-title="Nuevos",AMC
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Nuevos",Animal Planet
