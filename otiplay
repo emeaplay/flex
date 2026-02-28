@@ -87,6 +87,8 @@ http://170.244.209.30:8000/play/a00e/index.m3u8
 http://170.244.209.30:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",RT Espanol
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CGTN Espanol
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",DW
