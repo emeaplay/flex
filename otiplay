@@ -137,6 +137,8 @@ https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 https://k20.usastreams.com:8081/teleredcablera/video.m3u8
 #EXTINF:-1 group-title="CLASICOS",TeleSISTEMA
 https://k20.usastreams.com:8081/telesistemacablera/video.m3u8
+#EXTINF:-1 group-title="CLASICOS",Tooncast
+http://45.5.118.188:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 group-title="CLASICOS",WEST
