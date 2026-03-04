@@ -10,7 +10,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_72
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png" group-title="OTIPLAY",Panamericana
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png" group-title="OTIPLAY",Exitosa TV
-https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8
+http://190.108.83.142:8000/play/a00h/index.m3u
 #EXTINF:-1 group-title="OTIPLAY",TVPERU
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_480_270.png" group-title="OTIPLAY",ATV+ Noticias
@@ -99,6 +99,10 @@ http://190.60.42.86:8000/play/a03w/index.m3u8
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 group-title="OTIPLAY",SMART Peliculas
+http://190.108.83.142:8000/play/a026/index.m3u8
+
+
 #EXTINF:-1 group-title="CLASICOS",AVI Rewind
 http://190.60.42.86:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",AZ Cinema
@@ -375,6 +379,8 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
 #EXTINF:-1 group-title="Infantil",Canela Kids
@@ -387,6 +393,10 @@ http://45.5.118.152:8000/play/a05f/index.m3u8
 http://200.4.244.29:8000/play/a01k
 #EXTINF:-1 group-title="Infantil",Nick JR
 http://190.234.82.52:8000/play/a0mj/index.m3u8
+#EXTINF:-1 group-title="Infantil",SMART Junior
+http://190.108.83.142:8000/play/a027/index.m3u8
+
+
 #EXTINF:-1 group-title="Musica",Concert Channel
 http://170.244.209.30:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Musica",Mix TV
@@ -399,6 +409,8 @@ http://190.60.42.86:8000/play/a03p/index.m3u8
 http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Musica",Tropi CUmbia
 https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
+#EXTINF:-1 group-title="Musica",ClipsTV
+http://190.108.83.142:8000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="Nuevos",América TV
 http://legazy.club:8880/live/NewPlan25/kZZ6XeCFks/ff68c0a1-87f0-4429-8780-304b61e5d3a7.m3u8
