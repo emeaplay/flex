@@ -291,6 +291,8 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://45.167.2.138:8000/play/a0st/index.m3u8
 #EXTINF:-1 group-title="Variados",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Variados",El Gourmet
+http://45.5.118.188:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="Variados",HGTV
 http://190.60.42.86:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Variados",Hogar TV
