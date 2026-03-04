@@ -335,6 +335,8 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Peru+",Conecta TV Digital
 https://live.obslivestream.com/conecta2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",CTC Cusco
+http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Peru+",DOBLEC
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",FuegoTV
