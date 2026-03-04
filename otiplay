@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="OTIPLAY",DOBLE C TV
-https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835839459/7f9e192ef8c6_480_270.png" group-title="OTIPLAY",Latina
 https://live-evg20.tv360.bitel.com.pe/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="OTIPLAY",PBO
@@ -37,8 +37,6 @@ https://www.chasquirouter.com/salida/sd/trivu.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png" group-title="OTIPLAY",LaTele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Doble C
-https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png" group-title="OTIPLAY",TeleLima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="OTIPLAY",TNT
