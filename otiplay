@@ -6,9 +6,9 @@ https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="OTIPLAY",PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png" group-title="OTIPLAY",America TV
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
+http://190.234.82.52:8000/play/ar1p/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png" group-title="OTIPLAY",Panamericana
-https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+http://190.234.82.52:8000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png" group-title="OTIPLAY",Exitosa TV
 http://190.108.83.142:8000/play/a00h/index.m3u
 #EXTINF:-1 group-title="OTIPLAY",TVPERU
@@ -93,8 +93,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",France24
 http://190.60.42.86:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",AmericaTeVe
-https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 group-title="OTIPLAY",TeVe
+https://live.gideo.video/teve2/master.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",SMART Peliculas
@@ -630,7 +630,7 @@ https://live.mycamtv.com/white.m3u8
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="Hot",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="Hot",Playboy TV Latin America (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="Hot",Playboy TV Latin  (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Hot",Sextreme (P)
 http://200.48.192.118:8000/play/a03d/index.m3u8
