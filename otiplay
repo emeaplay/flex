@@ -282,6 +282,8 @@ http://45.186.105.185:8000/play/a05p/index.m3u8
 http://179.1.192.227:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1 group-title="Variados",Canal Claro
@@ -338,6 +340,8 @@ http://170.244.209.30:8000/play/a04a/index.m3u8
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Vision TV Cine
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="Peru+",ATV Sur
@@ -501,6 +505,10 @@ http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="Nuevos",Warner
 http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
+#EXTINF:-1 group-title="Nuevos",Tele13 Chile
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
+
+
 #EXTINF:-1 group-title="FreeTV",BOX Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/7RB6TWA/47ACBB024F87/m.m3u8
 #EXTINF:-1 group-title="FreeTV",FreeTV ACCION
