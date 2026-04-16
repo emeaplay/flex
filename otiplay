@@ -342,7 +342,8 @@ http://170.244.209.30:8000/play/a04a/index.m3u8
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Vision TV Cine
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
+#EXTINF:-1 group-title="Variados",TV+ Chile
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
@@ -352,6 +353,8 @@ https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8?WebM3UCL
 #EXTINF:-1 group-title="Peru+",CablePeru
 https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 group-title="Peru+",Cadena TV
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 group-title="Peru+",Canal Catacaos
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Peru+",Conecta TV Digital
