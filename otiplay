@@ -368,7 +368,7 @@ http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Peru+",DOBLEC
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",FuegoTV
-http://190.108.83.142:8000/play/a003/index.m3u8
+https://play.agenciastreaming.com:8081/liketv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/bd/ad/e7bdad0daad96021feda64d88000386d.gif" group-title="Peru+",Identidad.tv
 https://stream.mediacorp.pe/srt/2/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Impacto TV
