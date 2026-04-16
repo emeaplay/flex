@@ -399,6 +399,8 @@ https://stream.mediacorp.pe/srt/3/chunks.m3u8
 http://200.37.241.109:8000/play/a0jh/index.m3u8
 #EXTINF:-1 group-title="Peru+",Telecolor
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8?WebM3UCL
+#EXTINF:-1 group-title="Peru+",Television Tarapoto
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 group-title="Peru+",TV Peru Internacional
