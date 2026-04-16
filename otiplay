@@ -10,7 +10,7 @@ http://190.234.82.52:8000/play/ar1p/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png" group-title="OTIPLAY",Panamericana
 http://190.234.82.52:8000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png" group-title="OTIPLAY",Exitosa TV
-http://190.108.83.142:8000/play/a00h/index.m3u
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TVPERU
 http://190.234.82.52:8000/play/a0nr/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_480_270.png" group-title="OTIPLAY",ATV+ Noticias
@@ -27,6 +27,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",L1MAX
 http://190.234.82.52:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Cablevision
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
 #EXTINF:-1 group-title="OTIPLAY",Latina Noticias
