@@ -33,6 +33,8 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
 #EXTINF:-1 group-title="OTIPLAY",Latina Noticias
 https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Latina Podcast
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/plus226/latina4/latina4.smil/latina4/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg" group-title="OTIPLAY",Trivu TV
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg" group-title="OTIPLAY",Karibena TV
