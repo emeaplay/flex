@@ -8,15 +8,15 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png",America TV
 http://190.234.82.52:8000/play/ar1p/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png",Panamericana
-http://190.234.82.52:8000/play/a0nq/index.m3u8
+http://181.64.27.65:8000/play/a0de/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png",Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TVPERU
 http://190.234.82.52:8000/play/a0nr/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_480_270.png",ATV+ Noticias
-https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+http://181.64.27.65:8000/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png",ATV
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
+http://181.64.27.65:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",RPP TV
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nativa
@@ -289,6 +289,8 @@ https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 group-title="Variados",TV+ Chile
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 group-title="Peru+",ATV Sur
@@ -347,6 +349,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
 #EXTINF:-1 group-title="Infantil",Canela Kids
@@ -357,6 +361,8 @@ http://45.5.118.152:8000/play/a05f/index.m3u8
 http://200.4.244.29:8000/play/a01k
 #EXTINF:-1 group-title="Infantil",SMART Junior
 http://190.108.83.142:8000/play/a027/index.m3u8
+
+
 #EXTINF:-1 group-title="Musica",Concert Channel
 http://170.244.209.30:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Musica",Mix TV
@@ -365,6 +371,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Musica",Tropi CUmbia
 https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Nuevos",AMC
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Nuevos",Animal Planet
@@ -435,12 +443,9 @@ http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
 #EXTINF:-1 group-title="Nuevos",Tele13 Chile
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
-#EXTINF:-1 group-title="FreeTV",BOX Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/7RB6TWA/47ACBB024F87/m.m3u8
-#EXTINF:-1 group-title="FreeTV",Negocios TV
+#EXTINF:-1 group-title="Nuevos",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 group-title="FreeTV",Rockola Television
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/4X3LO4Q/6BF095EB3851/m.m3u8
+
 #EXTINF:-1 group-title="Religion",3ABN Latino
 http://45.5.118.152:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="Religion",BETHEL
@@ -457,6 +462,8 @@ https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/pla
 https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
 #EXTINF:-1 group-title="Religion",UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/mono.m3u8
+
+
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Asian (720p)
@@ -575,10 +582,9 @@ http://live.redtraffic.xyz:80/pov.m3u8
 http://cdn.adultiptv.net/blonde.m3u8?streamType=livÐµhls
 #EXTINF:-1 group-title="Hot",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 group-title="WEB",Latina (M)
-http://190.234.82.52:8000/play/a0np/index.m3u8
-#EXTINF:-1 group-title="WEB",ATV (M)
-http://190.234.82.52:8000/play/a0cp/index.m3u8
+
+
+
 #EXTINF:-1 group-title="WEB",Caballeros del Zodiaco
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
 #EXTINF:-1 group-title="WEB",Canal del Congreso
@@ -597,6 +603,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
 #EXTINF:-1 group-title="WEB",Telelima 2
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
+#EXTINF:-1 group-title="WEB",Movistar TV Promo
+http://190.234.82.52:8000/play/a0nt/index.m3u8
+
+
 #EXTINF:-1 group-title="Radio",La Noventera
 https://host.gometri.com/proxy/lanoventera/stream
 #EXTINF:-1 group-title="Radio",Radio Felicidad
