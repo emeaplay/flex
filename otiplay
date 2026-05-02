@@ -35,6 +35,8 @@ https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil
 https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Podcast
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/plus226/latina4/latina4.smil/latina4/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Canal N
+http://181.64.121.27:8000/play/canalnhd/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg",Trivu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg",Karibena TV
@@ -252,8 +254,17 @@ http://45.5.116.228:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 6 US
 http://45.5.116.228:8000/play/a05i/index.m3u8
 
+#EXTINF:-1 group-title="Deporte",FOX Sports AR
+http://181.64.121.27:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="Deporte",FOX Sports 2 AR
+http://181.64.121.27:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="Deporte",FOX Sports 3 AR
+http://181.64.121.27:8000/play/a056/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
+#EXTINF:-1 group-title="Deporte",L1 MAX
+http://181.64.121.27:8000/play/liga1max/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1 MAX (P)
 http://181.66.249.25:8000/play/a0jf/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1 (P)
