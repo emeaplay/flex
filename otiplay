@@ -209,8 +209,11 @@ https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqV
 http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="Deporte",DSports 2
 http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 1 LA
+#EXTINF:-1 group-title="Deporte",ESPN 1 LA (P)
 http://190.234.82.52:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 1 CL (P)
+http://181.66.249.246:8000/play/a0j5/index.m3u8
+http://181.66.249.246:8000/play/a0g3/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 2 LA (P)
 http://190.234.82.52:8000/play/a0ka/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 3 LA (P)
