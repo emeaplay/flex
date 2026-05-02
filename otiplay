@@ -197,6 +197,8 @@ http://38.52.208.106:8000/play/a04i/index.m3u8
 http://38.52.208.106:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Reality
 http://38.52.208.106:8000/play/a04k/index.m3u8
+
+
 #EXTINF:-1 group-title="Deporte",Claro Sports 1
 http://38.52.208.106:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Deporte",Claro Sports 2
@@ -207,20 +209,36 @@ https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqV
 http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="Deporte",DSports 2
 http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN  4 HD
-http://45.5.116.228:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 1
+#EXTINF:-1 group-title="Deporte",ESPN 1 LA
+http://190.234.82.52:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 2 LA (P)
+http://190.234.82.52:8000/play/a0ka/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 3 LA (P)
+http://190.234.82.52:8000/play/a0lm/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 4 LA (P)
+http://190.234.82.52:8000/play/a0lb/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 5 LA (P)
+http://190.234.82.52:8000/play/a0lk/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 6 LA (P)
+http://190.234.82.52:8000/play/a0ig/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 7 LA (P)
+http://190.234.82.52:8000/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN Premium LA (P)
+http://190.234.82.52:8000/play/a0q2/index.m3u8
+
+#EXTINF:-1 group-title="Deporte",ESPN 1 US
 http://38.52.208.106:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 2 HD
+#EXTINF:-1 group-title="Deporte",ESPN 2 US
 http://45.5.116.228:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 3 HD
+#EXTINF:-1 group-title="Deporte",ESPN 3 US
 http://45.5.116.228:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 5  HD
+#EXTINF:-1 group-title="Deporte",ESPN 4 US
+http://45.5.116.228:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Deporte",ESPN 5 US
 http://45.5.116.228:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 6 HD
+#EXTINF:-1 group-title="Deporte",ESPN 6 US
 http://45.5.116.228:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN HD
-http://45.5.116.228:8000/play/a05f/index.m3u8
+
 #EXTINF:-1 group-title="Deporte",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
 #EXTINF:-1 group-title="Deporte",GOLPERU (P)
@@ -231,6 +249,8 @@ http://190.234.82.52:8000/play/ac1q/index.m3u8
 http://170.244.209.30:8000/play/a0y3/index.m3u8
 #EXTINF:-1 group-title="Deporte",TUDN
 http://45.186.105.185:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Deporte",TNT Sports Premium (P)
+http://190.234.82.52:8000/play/a0k9/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Variados",Azteca Internacional
