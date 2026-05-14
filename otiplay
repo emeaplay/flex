@@ -135,6 +135,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 http://45.5.118.188:8000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",WEST
 http://181.64.121.27:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="CLASICOS",OLD Movies
+https://srv1.thinkinternationalchannels.com/oldmovies/index.m3u8?token=yI1sYBii_GTZi0
 
 
 #EXTINF:-1 group-title="Cine",ATRES Series
@@ -193,6 +195,8 @@ http://190.234.82.52:8000/play/a0px/index.m3u8
 http://190.234.82.52:8000/play/a0pz/index.m3u8
 #EXTINF:-1 group-title="Cine",+Cine Classic
 http://190.234.82.52:8000/play/a0py/index.m3u8
+#EXTINF:-1 group-title="Cine",Creo Movie
+https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 
 
 #EXTINF:-1 group-title="Universal+",Universal Cinema
@@ -285,6 +289,8 @@ http://177.53.153.207:8000/play/a005/index.m3u8
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deporte",Win Sports
 http://190.234.82.52:8000/play/a0qd/index.m3u8
+#EXTINF:-1 group-title="Deporte",Creo Deportes
+https://srv1.thinkinternationalchannels.com/creosport/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 
 #EXTINF:-1 group-title="Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
@@ -344,6 +350,8 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Chilevision (P)
 http://190.43.92.11:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Variados",Te Quiero TV
+https://srv1.thinkinternationalchannels.com/tequierotv/index.m3u8?token=yI1sYBii_GTZi0
 
 
 #EXTINF:-1 group-title="Peru+",Asiri TV
@@ -428,6 +436,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 http://45.5.118.152:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Musica",Tropi CUmbia
 https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
+#EXTINF:-1 group-title="Musica",Urbano TV
+https://srv1.thinkinternationalchannels.com/urbanotv/index.m3u8?token=yI1sYBii_GTZi0
 
 
 #EXTINF:-1 group-title="Nuevos",AMC
