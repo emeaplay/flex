@@ -41,6 +41,8 @@ http://190.238.172.153:8000/play/a07w
 https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Canal N (P)
 http://181.64.27.65:8000/play/a0np/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Plus TV Life (P)
+http://190.238.77.59:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg",Trivu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg",Karibena TV
