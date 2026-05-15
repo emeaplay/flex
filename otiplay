@@ -105,6 +105,8 @@ https://live.obslivestream.com/oktv/tracks-v1a1/mono.m3u8?WebM3UCL&token=Bk-DXAX
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Atmosfera TV
 http://190.108.90.142:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Venevision
+http://179.1.85.122:8000/play/a0k0/index.m3u8
 
 
 #EXTINF:-1 group-title="CLASICOS",Claro Cinema
