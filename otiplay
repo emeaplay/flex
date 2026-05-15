@@ -103,6 +103,8 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 https://live.obslivestream.com/oktv/tracks-v1a1/mono.m3u8?WebM3UCL&token=Bk-DXAXulO1OV0
 #EXTINF:-1 group-title="OTIPLAY",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Atmosfera TV
+http://190.108.90.142:8000/play/a020/index.m3u8
 
 
 #EXTINF:-1 group-title="CLASICOS",Claro Cinema
@@ -423,6 +425,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
 https://srv1.thinkinternationalchannels.com/urbanotv/index.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Musica",Stingray Concerts
 http://181.64.27.65:8000/play/a0iz/index.m3u8
+#EXTINF:-1 group-title="Musica",Vevo Latino
+http://190.108.93.180:8000/play/a06k/index.m3u8
 
 
 #EXTINF:-1 group-title="Nuevos",AMC
