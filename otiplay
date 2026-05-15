@@ -8,7 +8,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png",America TV
 http://190.234.82.52:8000/play/ar1p/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png",Panamericana
-https://es1-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8?timestamp=1778833230&wmkid=0&uid=112&token=2cec927af627d329814111e2a7a5519f
+http://190.238.172.153:8000/play/a0bp
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png",Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TVPERU
@@ -27,6 +27,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanotic
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",L1MAX
 http://190.234.82.52:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Bicolor+
+https://live-evg18.tv360.bitel.com.pe/bitel/bicolorSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Cablevision
