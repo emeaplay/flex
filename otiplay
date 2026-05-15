@@ -149,6 +149,8 @@ http://45.5.118.152:8000/play/a03e/index.m3u8
 http://170.244.209.30:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="Cine",FMH Movies
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
 http://170.244.209.30:8000/play/a0jm/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden Premier 2
@@ -375,6 +377,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
 #EXTINF:-1 group-title="Infantil",Canela Kids
@@ -383,6 +387,10 @@ http://45.5.118.152:8000/play/a0c7/index.m3u8
 http://45.5.118.152:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Infantil",Funbox
 http://200.4.244.29:8000/play/a01k
+#EXTINF:-1 group-title="Infantil",FMH Kids
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Musica",Concert Channel
 http://170.244.209.30:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Musica",Mix TV
