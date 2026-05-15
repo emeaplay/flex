@@ -89,6 +89,8 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="OTIPLAY",RT en espanol
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/chunks.m3u8?uid=112
 #EXTINF:-1 group-title="OTIPLAY",Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",OKTEVE
