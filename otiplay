@@ -194,6 +194,8 @@ http://190.234.82.52:8000/play/a0pz/index.m3u8
 http://190.234.82.52:8000/play/a0py/index.m3u8
 #EXTINF:-1 group-title="Cine",Creo Movie
 https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
+#EXTINF:-1 group-title="Cine",TNT +1 (P)
+http://181.65.207.62:8000/play/a006
 
 
 #EXTINF:-1 group-title="Universal+",Universal Cinema
