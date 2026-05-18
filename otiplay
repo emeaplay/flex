@@ -77,6 +77,8 @@ http://170.244.209.30:8000/play/a03e/index.m3u8
 http://38.52.208.106:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
 http://38.52.208.106:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Odisea
+https://tinyurl.com/odiseatv
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png",TLC - Travel and Living
 http://170.244.209.30:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",Home & Health
@@ -694,3 +696,341 @@ https://sonic.dattassd.com/8100/stream
 https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?uid=112
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif",Radio RTL
 https://stream-152.zeno.fm/ewrvx3k6u68uv
+
+
+#EXTINF:-1 group-title="CABLEMAX",13 C
+http://cablemaxsigloxxi.com:8000/play/a0u5/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",24 Horas TVN
+http://cablemaxsigloxxi.com:8000/play/a04a/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",A&E
+http://cablemaxsigloxxi.com:8000/play/a06g/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Adult Swim
+http://cablemaxsigloxxi.com:8000/play/a03e/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",AMC
+http://cablemaxsigloxxi.com:8000/play/a06k/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",AMC Series
+http://cablemaxsigloxxi.com:8000/play/a03p/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Animal Planet HD
+http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",AXN HD
+http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",AZ CORAZON
+http://cablemaxsigloxxi.com:8000/play/a0ki/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Baby TV
+http://cablemaxsigloxxi.com:8000/play/a0u3/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Canal 24 Horas
+http://cablemaxsigloxxi.com:8000/play/a02w/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Cartoon Network HD
+http://cablemaxsigloxxi.com:8000/play/a07j/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Cartoonito
+http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",CGNT ESPA
+http://cablemaxsigloxxi.com:8000/play/a05q/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",CHV HD
+http://cablemaxsigloxxi.com:8000/play/a0sa/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",CHV HD
+http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",CINECANAL
+http://cablemaxsigloxxi.com:8000/play/a0t0/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Cinemax
+http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",CNN Chile
+http://cablemaxsigloxxi.com:8000/play/a02u/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",CNN Espaæol
+http://cablemaxsigloxxi.com:8000/play/a0u7/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",CNN International
+http://cablemaxsigloxxi.com:8000/play/a034/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Comedy Central HD
+http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",De Pelicula
+http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="CABLEMAX",DHE HD
+http://cablemaxsigloxxi.com:8000/play/a05h/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Discovery Channel  HD
+http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Discovery H&H
+http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Discovery Kids HD
+http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Discovery Science
+http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Discovery Theater HD
+http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Discovery Turbo
+http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Discovery World HD
+http://cablemaxsigloxxi.com:8000/play/a086/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",DISNEY CHANNEL
+http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Disney Jr. R
+http://cablemaxsigloxxi.com:8000/play/a028/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",DISNEY JUNIOR
+http://cablemaxsigloxxi.com:8000/play/a0tg/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Distrito Comedia
+http://cablemaxsigloxxi.com:8000/play/a03y/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",E! Entertainment TV
+http://cablemaxsigloxxi.com:8000/play/a039/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",El Gourmet
+http://cablemaxsigloxxi.com:8000/play/a07u/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Enlace
+http://cablemaxsigloxxi.com:8000/play/a00h/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 1
+http://cablemaxsigloxxi.com:8000/play/a0t6/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 2
+http://cablemaxsigloxxi.com:8000/play/a0t5/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 2 HD R
+http://cablemaxsigloxxi.com:8000/play/a02a/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 3
+http://cablemaxsigloxxi.com:8000/play/a0t4/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 3 HD
+http://cablemaxsigloxxi.com:8000/play/a07p/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 4
+http://cablemaxsigloxxi.com:8000/play/a0t3/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 4 R
+http://cablemaxsigloxxi.com:8000/play/a075/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 5
+http://cablemaxsigloxxi.com:8000/play/a0t2/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 6
+http://cablemaxsigloxxi.com:8000/play/a0t1/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 6 R
+http://cablemaxsigloxxi.com:8000/play/a07m/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN 7
+http://cablemaxsigloxxi.com:8000/play/a0l5/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN HD R
+http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ESPN Premium HD
+http://cablemaxsigloxxi.com:8000/play/a05g/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",EWTN
+http://cablemaxsigloxxi.com:8000/play/a0u4/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Film&Arts
+http://cablemaxsigloxxi.com:8000/play/a03n/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Food Network HD
+http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",FX 
+http://cablemaxsigloxxi.com:8000/play/a0sz/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",FX HD
+http://cablemaxsigloxxi.com:8000/play/a02i/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Golden Edge
+http://cablemaxsigloxxi.com:8000/play/a03v/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Golden HD R
+http://cablemaxsigloxxi.com:8000/play/a027/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Golf Channel
+http://cablemaxsigloxxi.com:8000/play/a03s/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO
+http://cablemaxsigloxxi.com:8000/play/a0tr/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO 2 R
+http://cablemaxsigloxxi.com:8000/play/a026/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO Family HD
+http://cablemaxsigloxxi.com:8000/play/a07x/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO Mundi
+http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO Plus
+http://cablemaxsigloxxi.com:8000/play/a00s/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO POP HD
+http://cablemaxsigloxxi.com:8000/play/a0ts/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO Signature
+http://cablemaxsigloxxi.com:8000/play/a082/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HBO Xtreme HD
+http://cablemaxsigloxxi.com:8000/play/a00p/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HEI HD
+http://cablemaxsigloxxi.com:8000/play/a0t7/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HGTV
+http://cablemaxsigloxxi.com:8000/play/a03b/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",History 2
+http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",History Channel
+http://cablemaxsigloxxi.com:8000/play/a068/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HOLA TV
+http://cablemaxsigloxxi.com:8000/play/a062/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Home & Health HD
+http://cablemaxsigloxxi.com:8000/play/a07q/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",HTV
+http://cablemaxsigloxxi.com:8000/play/a03q/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ID - Investigation Discovery
+http://cablemaxsigloxxi.com:8000/play/a067/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",ID HD
+http://cablemaxsigloxxi.com:8000/play/a08a/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",KANAL D DRAMA
+http://cablemaxsigloxxi.com:8000/play/a0sq/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",La Red
+http://cablemaxsigloxxi.com:8000/play/a02v/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Las Estrellas HD
+http://cablemaxsigloxxi.com:8000/play/a06x/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Las Estrellas HD R
+http://cablemaxsigloxxi.com:8000/play/a02e/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Lifetime
+http://cablemaxsigloxxi.com:8000/play/a03d/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",MAYA TV 
+http://cablemaxsigloxxi.com:8000/play/a010/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",MEGA HD
+http://cablemaxsigloxxi.com:8000/play/a02t/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",MEGA TV PASCO
+http://cablemaxsigloxxi.com:8000/play/a00z/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Milenial TV
+http://cablemaxsigloxxi.com:8000/play/a0l0/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",MTV HD
+http://cablemaxsigloxxi.com:8000/play/a087/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",NAT GEO
+http://cablemaxsigloxxi.com:8000/play/a0su/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",National Geographic
+http://cablemaxsigloxxi.com:8000/play/a0td/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Nativa tv
+http://cablemaxsigloxxi.com:8000/play/a08x/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Nick HD
+http://cablemaxsigloxxi.com:8000/play/a0tt/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Nick Jr.
+http://cablemaxsigloxxi.com:8000/play/a081/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Nick Music
+http://cablemaxsigloxxi.com:8000/play/a03l/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Nickelodeon HD
+http://cablemaxsigloxxi.com:8000/play/a02s/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",NTN24
+http://cablemaxsigloxxi.com:8000/play/a03r/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Nuestra Tele
+http://cablemaxsigloxxi.com:8000/play/a03k/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",OROMAR TV
+http://cablemaxsigloxxi.com:8000/play/a040/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PANAO TV
+http://cablemaxsigloxxi.com:8000/play/a01h/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Pasiones HD
+http://cablemaxsigloxxi.com:8000/play/a0st/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE AMAZONICA TV
+http://cablemaxsigloxxi.com:8000/play/a0m4/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE AMERICA
+http://cablemaxsigloxxi.com:8000/play/a05m/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE ARTEMISA TV
+http://cablemaxsigloxxi.com:8000/play/a017/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE ATV
+http://cablemaxsigloxxi.com:8000/play/a08f/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE ATV+
+http://cablemaxsigloxxi.com:8000/play/a0nm/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE Bethel One Second
+http://cablemaxsigloxxi.com:8000/play/a02n/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE BETHEL TV
+http://cablemaxsigloxxi.com:8000/play/a02h/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE BH TV
+http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE BNB DIGITAL
+http://cablemaxsigloxxi.com:8000/play/a0f2/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE CANAL LUZ
+http://cablemaxsigloxxi.com:8000/play/a0nl/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE Canal N
+http://cablemaxsigloxxi.com:8000/play/a08r/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE CanalB
+http://cablemaxsigloxxi.com:8000/play/a0b1/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE CONECTA2 TV
+http://cablemaxsigloxxi.com:8000/play/a0a5/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE CORPORACION TV 
+http://cablemaxsigloxxi.com:8000/play/a01p/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE DSPORTS 1
+http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE EXITOSA
+http://cablemaxsigloxxi.com:8000/play/a0a4/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE Global
+http://cablemaxsigloxxi.com:8000/play/a08g/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE JN19
+http://cablemaxsigloxxi.com:8000/play/a07i/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE KARIBENA
+http://cablemaxsigloxxi.com:8000/play/a0hw/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE L1 MAX
+http://cablemaxsigloxxi.com:8000/play/a07e/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE Latina HD
+http://cablemaxsigloxxi.com:8000/play/a07c/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE LIGA 1
+http://cablemaxsigloxxi.com:8000/play/a07s/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE Movistar Deportes
+http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE Panamericana
+http://cablemaxsigloxxi.com:8000/play/a08e/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE PLUS TV LIFE
+http://cablemaxsigloxxi.com:8000/play/a04h/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE POPU TV
+http://cablemaxsigloxxi.com:8000/play/a048/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE SANJUANERA TV
+http://cablemaxsigloxxi.com:8000/play/a0kj/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE SELVA TV
+http://cablemaxsigloxxi.com:8000/play/a0m5/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE SUMAC TV
+http://cablemaxsigloxxi.com:8000/play/a0od/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE TV PERU
+http://cablemaxsigloxxi.com:8000/play/a0dt/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE URANIO
+http://cablemaxsigloxxi.com:8000/play/a0kn/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",PE Willax
+http://cablemaxsigloxxi.com:8000/play/a08c/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",RADIO ORIENTE 
+http://cablemaxsigloxxi.com:8000/play/a06n/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",RCN Novelas HD
+http://cablemaxsigloxxi.com:8000/play/a042/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",REAL MADRID
+http://cablemaxsigloxxi.com:8000/play/a00x/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",REC TV
+http://cablemaxsigloxxi.com:8000/play/a02q/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",RT Noticias
+http://cablemaxsigloxxi.com:8000/play/a083/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",RTU
+http://cablemaxsigloxxi.com:8000/play/a03z/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",RUMBO MINERO
+http://cablemaxsigloxxi.com:8000/play/a0no/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Sony HD
+http://cablemaxsigloxxi.com:8000/play/a00q/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Sony Movies
+http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Space HD
+http://cablemaxsigloxxi.com:8000/play/a0u2/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",STAR CHANNEL
+http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Stingray Concerts HD
+http://cablemaxsigloxxi.com:8000/play/a0qx/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Studio Universal HD
+http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Sun Channel
+http://cablemaxsigloxxi.com:8000/play/a0pd/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",SUYAI TV 
+http://cablemaxsigloxxi.com:8000/play/a05s/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TCM
+http://cablemaxsigloxxi.com:8000/play/a03w/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Teen Nick
+http://cablemaxsigloxxi.com:8000/play/a03m/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Telefe
+http://cablemaxsigloxxi.com:8000/play/a03c/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Telemundo
+http://cablemaxsigloxxi.com:8000/play/a01w/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TELEMUNDO NOTICIAS
+http://cablemaxsigloxxi.com:8000/play/a05t/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Telenovelas
+http://cablemaxsigloxxi.com:8000/play/a04o/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Televicentro
+http://cablemaxsigloxxi.com:8000/play/a032/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TLC
+http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TNT HD
+http://cablemaxsigloxxi.com:8000/play/a06y/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TNT Novelas HD
+http://cablemaxsigloxxi.com:8000/play/a08p/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TNT Series HD
+http://cablemaxsigloxxi.com:8000/play/a071/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TNT SPORTS
+http://cablemaxsigloxxi.com:8000/play/a08j/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TNT Sports Premiun HD
+http://cablemaxsigloxxi.com:8000/play/a0rb/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Tooncast
+http://cablemaxsigloxxi.com:8000/play/a03a/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TOP TV
+http://cablemaxsigloxxi.com:8000/play/a01q/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TV+
+http://cablemaxsigloxxi.com:8000/play/a020/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TVE
+http://cablemaxsigloxxi.com:8000/play/a00k/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",TVN HD
+http://cablemaxsigloxxi.com:8000/play/a02r/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",UNIVERSAL CHANNEL HD
+http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Via X Esports
+http://cablemaxsigloxxi.com:8000/play/a03t/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Warner Channel
+http://cablemaxsigloxxi.com:8000/play/a08b/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Warner TV HD
+http://cablemaxsigloxxi.com:8000/play/a02p/index.m3u8?hls
+#EXTINF:-1 group-title="CABLEMAX",Win Sports+ HD
+http://cablemaxsigloxxi.com:8000/play/a07n/index.m3u8?hls
