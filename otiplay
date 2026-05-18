@@ -207,6 +207,20 @@ https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?t
 #EXTINF:-1 group-title="Cine",TNT +1 (P)
 http://181.65.207.62:8000/play/a006
 
+#EXTINF:-1 group-title="Mundial",Mundial 1
+
+#EXTINF:-1 group-title="Mundial",Mundial 2
+
+#EXTINF:-1 group-title="Mundial",Mundial 3
+
+#EXTINF:-1 group-title="Mundial",Mundial 4
+
+#EXTINF:-1 group-title="Mundial",Mundial 5
+
+#EXTINF:-1 group-title="Mundial",Mundial 6
+
+#EXTINF:-1 group-title="Mundial",Mundial 7
+
 
 #EXTINF:-1 group-title="Universal+",Universal Cinema
 http://38.52.208.106:8000/play/a050/index.m3u8
@@ -440,6 +454,8 @@ https://srv1.thinkinternationalchannels.com/urbanotv/index.m3u8?token=yI1sYBii_G
 http://181.64.27.65:8000/play/a0iz/index.m3u8
 #EXTINF:-1 group-title="Musica",Vevo Latino
 http://190.108.93.180:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="Musica",Digital Music DO
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 
 
 #EXTINF:-1 group-title="Nuevos",AMC
