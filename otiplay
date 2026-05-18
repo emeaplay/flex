@@ -16,7 +16,7 @@ http://190.234.82.52:8000/play/a0nr/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_480_270.png",ATV+ Noticias
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png",ATV
-http://190.238.172.153:8000/play/a07b
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:-1 group-title="OTIPLAY",RPP TV
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Viva TV
@@ -354,6 +354,8 @@ https://srv1.thinkinternationalchannels.com/tequierotv/index.m3u8?token=yI1sYBii
 
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 group-title="Peru+ tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png",ATV
+http://190.238.172.153:8000/play/a07b
 #EXTINF:-1 group-title="Peru+",ATV Sur
 https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_4276517416086298479_hls.m3u8
 #EXTINF:-1 group-title="Peru+",BHTV
