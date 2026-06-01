@@ -235,9 +235,9 @@ http://38.52.208.106:8000/play/a04k/index.m3u8
 
 
 #EXTINF:-1 group-title="Deporte",Claro Sports 1
-http://38.52.208.106:8000/play/a064/index.m3u8
+http://38.224.22.252:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Deporte",Claro Sports 2
-http://38.52.208.106:8000/play/a065/index.m3u8
+http://38.224.22.252:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="Deporte",ContactoTV
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 group-title="Deporte",DSports
