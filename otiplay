@@ -206,7 +206,7 @@ https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?t
 http://181.65.207.62:8000/play/a006
 
 #EXTINF:-1 group-title="Mundial",Mundial 1
-
+http://177.53.153.207:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 2
 
 #EXTINF:-1 group-title="Mundial",Mundial 3
@@ -276,6 +276,12 @@ http://45.5.116.228:8000/play/a05e/index.m3u8
 http://45.5.116.228:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 6 US
 http://45.5.116.228:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Deporte",Fox Sports AR
+http://177.53.153.207:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Deporte",Fox Sports 2 AR
+http://177.53.153.207:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Deporte",Fox Sports 3 AR
+http://177.53.153.207:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Deporte",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1 MAX (P)
