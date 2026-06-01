@@ -80,7 +80,7 @@ https://tinyurl.com/odiseatv
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png",TLC - Travel and Living
 
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",Home & Health
-
+http://45.5.118.152:8000/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
 
 #EXTINF:-1 group-title="OTIPLAY",NTN 24 (P)
@@ -198,8 +198,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 http://45.5.116.228:8000/play/a0kl/index.m3u8
 #EXTINF:-1 group-title="Cine",Paramount(P)
 http://45.5.118.152:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Cine",Sony Movies
-
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",+Cine
