@@ -54,31 +54,31 @@ http://181.66.249.25:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
 http://45.5.118.152:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
-
+http://38.224.22.252:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-
+http://38.224.22.252:8000/play/a0av/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
 http://45.5.118.152:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 http://45.5.118.152:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal
-
+http://38.224.22.252:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
 http://45.5.118.152:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png",A&E
-
+http://38.224.22.252:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",FX
-
+http://38.224.22.252:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png",History
 http://45.5.118.152:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png",H2
-
-#EXTINF:-1 group-title="OTIPLAY",Nat GEO
-
+http://38.224.22.252:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Nat GEO (P)
+http://38.224.22.252:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Odisea
 https://tinyurl.com/odiseatv
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png",TLC - Travel and Living
-
+http://38.224.22.252:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",Home & Health
 http://45.5.118.152:8000/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
@@ -92,9 +92,7 @@ http://45.5.118.152:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",N+ 24/7
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CNN International
-
-#EXTINF:-1 group-title="OTIPLAY",BBC international
-
+http://38.224.22.252:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CGTN Espanol
@@ -149,15 +147,15 @@ https://srv1.thinkinternationalchannels.com/oldmovies/index.m3u8?token=yI1sYBii_
 http://181.64.27.65:8000/play/a0lr/index.m3u8
 
 #EXTINF:-1 group-title="Cine",ATRES Series
-
+http://38.224.22.252:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="Cine",Canela Cinema
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Latino
 http://45.5.118.152:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Cine",Cinecanal
-
+#EXTINF:-1 group-title="Cine",Cinecanal (P)
+http://38.224.22.252:8000/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinemax
 http://45.5.118.152:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
@@ -185,9 +183,9 @@ http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Family
 
 #EXTINF:-1 group-title="Cine",HBO Plus
-
-#EXTINF:-1 group-title="Cine",HBO Xtreme
-
+http://38.224.22.252:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Xtreme (P)
+http://38.224.22.252:8000/play/a0bs/index.m3u8
 #EXTINF:-1 group-title="Cine",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
@@ -352,11 +350,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 group-title="Variados",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Variados",Lifetime
-
+http://38.224.22.252:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Variados",NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Pasiones
-
+http://38.224.22.252:8000/play/a0be/index.m3u8
 #EXTINF:-1 group-title="Variados",RCN Novelas
 http://45.186.105.185:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="Variados",Star TVE
