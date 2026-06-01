@@ -214,9 +214,9 @@ http://181.65.207.62:8000/play/a006
 #EXTINF:-1 group-title="Mundial",Mundial 1
 http://177.53.153.207:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 2
-
+http://190.238.77.59:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 3
-
+http://190.238.77.59:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 4
 
 #EXTINF:-1 group-title="Mundial",Mundial 5
@@ -296,6 +296,8 @@ http://181.66.249.25:8000/play/a0jf/index.m3u8
 http://181.64.27.65:8000/play/a0nj/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1 (P)
 http://181.66.249.25:8000/play/a0jz/index.m3u8
+#EXTINF:-1 group-title="Deporte",L1 (P) extra
+http://190.238.77.59:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
 #EXTINF:-1 group-title="Deporte",Tigo Sports
