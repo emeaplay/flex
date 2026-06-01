@@ -58,19 +58,19 @@ http://45.5.118.152:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
 
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
-
+http://45.5.118.152:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-
+http://45.5.118.152:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal
 
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
-
+http://45.5.118.152:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png",A&E
 
 #EXTINF:-1 group-title="OTIPLAY",FX
 
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png",History
-
+http://45.5.118.152:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png",H2
 
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
@@ -82,13 +82,13 @@ https://tinyurl.com/odiseatv
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",Home & Health
 http://45.5.118.152:8000/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
-
+http://45.5.118.152:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",NTN 24 (P)
 http://190.60.37.118:4000/play/a0a6
 #EXTINF:-1 group-title="OTIPLAY",Noticias Caracol
 http://190.60.37.118:4000/play/a0ca
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png",CNN en espanol
-
+http://45.5.118.152:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",N+ 24/7
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CNN International
@@ -129,8 +129,6 @@ https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/p
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
 #EXTINF:-1 group-title="CLASICOS",RetroTV
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
-#EXTINF:-1 group-title="CLASICOS",STAR tve
-
 #EXTINF:-1 group-title="CLASICOS",TCM
 http://45.5.118.152:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",Teleclasica
@@ -157,13 +155,13 @@ https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/pl
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Latino
-
+http://45.5.118.152:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinecanal
 
 #EXTINF:-1 group-title="Cine",Cinemax
 http://45.5.118.152:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
-
+http://45.5.118.152:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Cine",Dreamworks
 http://181.78.211.244:8000/play/a0bd/index.m3u8
 #EXTINF:-1 group-title="Cine",EuroChannel
@@ -174,12 +172,14 @@ http://45.5.118.152:8000/play/a03e/index.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",FMH Movies
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
+#EXTINF:-1 group-title="Cine",Golden
+http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
 
 #EXTINF:-1 group-title="Cine",Golden Premier 2
 
 #EXTINF:-1 group-title="Cine",HBO
-
+http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO 2
 
 #EXTINF:-1 group-title="Cine",HBO Family
@@ -194,12 +194,16 @@ http://45.5.118.188:8000/play/a06g/index.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie MX
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cine",Multipremier
+http://45.5.118.152:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="Cine",Paramount
 http://45.5.116.228:8000/play/a0kl/index.m3u8
 #EXTINF:-1 group-title="Cine",Paramount(P)
 http://45.5.118.152:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://200.4.195.66:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Cine",Space
+http://45.5.118.152:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Cine",+Cine
 http://190.234.82.52:8000/play/a0px/index.m3u8
 #EXTINF:-1 group-title="Cine",+Cine Terror
@@ -220,7 +224,7 @@ http://190.238.77.59:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 4
 http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 5
-
+http://45.5.118.152:8000/play/a0dg/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 6
 http://190.60.37.118:4000/play/a0b2
 #EXTINF:-1 group-title="Mundial",Mundial 7
