@@ -41,6 +41,8 @@ https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
 http://181.64.27.65:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Plus TV Life (P)
 http://190.238.77.59:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",USMPTV
+https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg",Trivu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg",Karibena TV
@@ -81,6 +83,10 @@ http://170.244.209.30:8000/play/a063/index.m3u8
 http://170.244.209.30:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
 http://170.244.209.30:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",NTN 24 (P)
+http://190.60.37.118:4000/play/a0a6
+#EXTINF:-1 group-title="OTIPLAY",Noticias Caracol
+http://190.60.37.118:4000/play/a0ca
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png",CNN en espanol
 http://170.244.209.30:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",N+ 24/7
@@ -101,8 +107,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/rt/chunks.m3u8?uid=112
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",OKTEVE
 https://live.obslivestream.com/oktv/tracks-v1a1/mono.m3u8?WebM3UCL&token=Bk-DXAXulO1OV0
-#EXTINF:-1 group-title="OTIPLAY",USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Telemundo Intenacional
+http://190.108.90.142:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Atmosfera TV
 http://190.108.90.142:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Venevision
@@ -216,9 +222,9 @@ http://177.53.153.207:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 5
 
 #EXTINF:-1 group-title="Mundial",Mundial 6
-
+http://190.60.37.118:4000/play/a0b2
 #EXTINF:-1 group-title="Mundial",Mundial 7
-
+http://190.60.37.118:4000/play/a0bw
 
 #EXTINF:-1 group-title="Universal+",Universal Cinema
 http://38.52.208.106:8000/play/a050/index.m3u8
