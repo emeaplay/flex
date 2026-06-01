@@ -52,7 +52,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png",TeleLima
 http://181.66.249.25:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
-http://170.244.209.30:8000/play/a037/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 http://38.52.208.106:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
@@ -60,17 +60,17 @@ http://38.52.208.106:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
 http://38.52.208.106:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://170.244.209.30:8000/play/a05b/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal
-http://170.244.209.30:8000/play/a052/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
-http://170.244.209.30:8000/play/a03k/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png",A&E
-http://170.244.209.30:8000/play/a03o/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",FX
-http://170.244.209.30:8000/play/a03r/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png",History
-http://170.244.209.30:8000/play/a03e/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png",H2
 http://38.52.208.106:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nat GEO
@@ -78,23 +78,23 @@ http://38.52.208.106:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Odisea
 https://tinyurl.com/odiseatv
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png",TLC - Travel and Living
-http://170.244.209.30:8000/play/a063/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",Home & Health
-http://170.244.209.30:8000/play/a04v/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
-http://170.244.209.30:8000/play/a04b/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",NTN 24 (P)
 http://190.60.37.118:4000/play/a0a6
 #EXTINF:-1 group-title="OTIPLAY",Noticias Caracol
 http://190.60.37.118:4000/play/a0ca
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png",CNN en espanol
-http://170.244.209.30:8000/play/a039/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",N+ 24/7
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CNN International
-http://170.244.209.30:8000/play/a00e/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",BBC international
-http://170.244.209.30:8000/play/a03a/index.m3u8
+
 #EXTINF:-1 group-title="OTIPLAY",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CGTN Espanol
@@ -116,7 +116,7 @@ http://179.1.85.122:8000/play/a0k0/index.m3u8
 
 
 #EXTINF:-1 group-title="CLASICOS",Claro Cinema
-http://170.244.209.30:8000/play/a067/index.m3u8
+
 #EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="CLASICOS" tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg",Mi TV
@@ -130,7 +130,7 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1469656937.m3u8
 #EXTINF:-1 group-title="CLASICOS",RetroTV
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 group-title="CLASICOS",STAR tve
-http://170.244.209.30:8000/play/a03w/index.m3u8
+
 #EXTINF:-1 group-title="CLASICOS",TCM
 http://38.52.208.106:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="CLASICOS",Teleclasica
@@ -151,41 +151,41 @@ https://srv1.thinkinternationalchannels.com/oldmovies/index.m3u8?token=yI1sYBii_
 http://181.64.27.65:8000/play/a0lr/index.m3u8
 
 #EXTINF:-1 group-title="Cine",ATRES Series
-http://170.244.209.30:8000/play/a00c/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Canela Cinema
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Latino
-http://170.244.209.30:8000/play/a054/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Cinecanal
-http://170.244.209.30:8000/play/a057/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Cinemax
-http://170.244.209.30:8000/play/a055/index.m3u8
+
 #EXTINF:-1 group-title="Cine",DHE
-http://170.244.209.30:8000/play/a03u/index.m3u8
+
 #EXTINF:-1 group-title="Cine",EuroChannel
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cine",Film and Arts
-http://170.244.209.30:8000/play/a03n/index.m3u8
+
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",FMH Movies
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF:-1 group-title="Cine",Golden Edge
-http://170.244.209.30:8000/play/a0jm/index.m3u8
+
 #EXTINF:-1 group-title="Cine",Golden Premier 2
-http://170.244.209.30:8000/play/a0jn/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO
-http://170.244.209.30:8000/play/a028/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO 2
-http://170.244.209.30:8000/play/a029/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO Family
-http://170.244.209.30:8000/play/a02b/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO Plus
-http://170.244.209.30:8000/play/a02a/index.m3u8
+
 #EXTINF:-1 group-title="Cine",HBO Xtreme
-http://170.244.209.30:8000/play/a02c/index.m3u8
+
 #EXTINF:-1 group-title="Cine",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
@@ -340,17 +340,17 @@ http://45.5.118.188:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="Variados",Hogar TV
 http://138.94.3.106:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Variados",Hola TV
-http://170.244.209.30:8000/play/a00a/index.m3u8
+
 #EXTINF:-1 group-title="Variados",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Variados",Lifetime
-http://170.244.209.30:8000/play/a032/index.m3u8
+
 #EXTINF:-1 group-title="Variados",NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Pasiones
-http://170.244.209.30:8000/play/a049/index.m3u8
+
 #EXTINF:-1 group-title="Variados",RCN Novelas
 http://45.186.105.185:8000/play/a0jn/index.m3u8
 #EXTINF:-1 group-title="Variados",Star TVE
@@ -368,7 +368,7 @@ http://45.186.105.185:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Variados",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Variados",Univision
-http://170.244.209.30:8000/play/a04a/index.m3u8
+
 #EXTINF:-1 group-title="Variados",Univision 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Vision TV Cine
@@ -455,7 +455,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunk
 
 
 #EXTINF:-1 group-title="Musica",Concert Channel
-http://170.244.209.30:8000/play/a051/index.m3u8
+
 #EXTINF:-1 group-title="Musica",Mix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 group-title="Musica",Trace Latina
