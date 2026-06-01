@@ -164,6 +164,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 #EXTINF:-1 group-title="Cine",DHE
 
+#EXTINF:-1 group-title="Cine",Dreamworks
+http://181.78.211.244:8000/play/a0bd/index.m3u8
 #EXTINF:-1 group-title="Cine",EuroChannel
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cine",Film and Arts
@@ -282,6 +284,8 @@ http://45.5.116.228:8000/play/a05e/index.m3u8
 http://45.5.116.228:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 6 US
 http://45.5.116.228:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Deporte",FOX One
+http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="Deporte",Fox Sports AR
 http://177.53.153.207:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="Deporte",Fox Sports 2 AR
