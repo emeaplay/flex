@@ -125,6 +125,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 http://45.5.118.152:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinemax
 http://45.5.118.152:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Cine",CINECANAL (P)
+http://190.234.82.52:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
 http://45.5.118.152:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Cine",Dreamworks
