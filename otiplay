@@ -89,6 +89,10 @@ https://live.obslivestream.com/oktv/tracks-v1a1/mono.m3u8?WebM3UCL&token=Bk-DXAX
 http://190.108.90.142:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Atmosfera TV
 http://190.108.90.142:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Azteca GO
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+
 #EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="CLASICOS" tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg",Mi TV
