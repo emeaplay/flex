@@ -29,26 +29,16 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 http://190.234.82.52:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Contacto Digital
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
-#EXTINF:-1 group-title="OTIPLAY",Bicolor+
-https://live-evg18.tv360.bitel.com.pe/bitel/bicolorSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
-#EXTINF:-1 group-title="OTIPLAY",Latina Podcast
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/plus226/latina4/latina4.smil/latina4/livestream2/chunks.m3u8
-#EXTINF:-1 group-title="OTIPLAY",DOBLE C TV
-https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/doblecSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Canal N (P)
 http://181.64.27.65:8000/play/a0np/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Plus TV Life (P)
-http://190.238.77.59:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg",Trivu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_480_270.jpg",Karibena TV
-https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png",LaTele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png",TeleLima
@@ -57,30 +47,16 @@ https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 http://190.234.82.52:8000/play/a0l1/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 http://190.234.82.52:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-http://38.224.22.252:8000/play/a0av/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
 http://45.5.118.152:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 http://45.5.118.152:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal
-http://38.224.22.252:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
 http://45.5.118.152:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png",A&E
-http://38.224.22.252:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",FX
-http://38.224.22.252:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png",History
 http://45.5.118.152:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png",H2
-http://38.224.22.252:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Nat GEO (P)
-http://38.224.22.252:8000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Odisea
 https://tinyurl.com/odiseatv
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png",TLC - Travel and Living
-http://38.224.22.252:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",Home & Health
 http://45.5.118.152:8000/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
@@ -93,16 +69,12 @@ http://190.60.37.118:4000/play/a0ca
 http://45.5.118.152:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",N+ 24/7
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 group-title="OTIPLAY",CNN International
-http://38.224.22.252:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CGTN Espanol
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",RT en espanol
-https://live-evg10.tv360.bitel.com.pe/bitel/rt/chunks.m3u8?uid=112
 #EXTINF:-1 group-title="OTIPLAY",Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",OKTEVE
@@ -111,12 +83,6 @@ https://live.obslivestream.com/oktv/tracks-v1a1/mono.m3u8?WebM3UCL&token=Bk-DXAX
 http://190.108.90.142:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Atmosfera TV
 http://190.108.90.142:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Venevision
-http://179.1.85.122:8000/play/a0k0/index.m3u8
-
-
-#EXTINF:-1 group-title="CLASICOS",Claro Cinema
-
 #EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="CLASICOS" tvg-logo="https://images.mi.tv/blog/2017/01/19051138/mitv_logo_aboutus.jpg",Mi TV
@@ -147,17 +113,12 @@ http://45.5.118.188:8000/play/a06o/index.m3u8
 https://srv1.thinkinternationalchannels.com/oldmovies/index.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="CLASICOS",Video Classic
 http://181.64.27.65:8000/play/a0lr/index.m3u8
-
-#EXTINF:-1 group-title="Cine",ATRES Series
-http://38.224.22.252:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="Cine",Canela Cinema
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Latino
 http://45.5.118.152:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Cine",Cinecanal (P)
-http://38.224.22.252:8000/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinemax
 http://45.5.118.152:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
@@ -170,26 +131,10 @@ http://45.5.118.152:8000/play/a03e/index.m3u8
 http://45.5.118.152:8000/play/a09n/index.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 group-title="Cine",FMH Movies
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF:-1 group-title="Cine",Golden
 http://45.5.118.152:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Cine",Golden Premier
-http://38.224.22.252:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Cine",Golden Premier2
-http://38.224.22.252:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
 http://45.5.118.152:8000/play/a0bm/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO 2
-http://38.224.22.252:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Family (P)
-http://38.224.22.252:8000/play/a0br/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Plus
-http://38.224.22.252:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Xtreme (P)
-http://38.224.22.252:8000/play/a0bs/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO POP (P)
-http://38.224.22.252:8000/play/a0bh/index.m3u8
 #EXTINF:-1 group-title="Cine",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
@@ -206,23 +151,12 @@ http://45.5.118.152:8000/play/a01w/index.m3u8
 http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",Space
 http://45.5.118.152:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Cine",+Cine
-http://190.234.82.52:8000/play/a0px/index.m3u8
-#EXTINF:-1 group-title="Cine",+Cine Terror
-http://190.234.82.52:8000/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="Cine",+Cine Classic
-http://190.234.82.52:8000/play/a0py/index.m3u8
 #EXTINF:-1 group-title="Cine",Creo Movie
 https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Cine",TNT +1 (P)
 http://181.65.207.62:8000/play/a006
-
 #EXTINF:-1 group-title="Mundial",Mundial 1
 http://177.53.153.207:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Mundial",Mundial 2
-http://190.238.77.59:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="Mundial",Mundial 3
-http://190.238.77.59:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 4
 http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 5
@@ -231,27 +165,14 @@ http://45.5.118.152:8000/play/a0dg/index.m3u8
 http://190.60.37.118:4000/play/a0b2
 #EXTINF:-1 group-title="Mundial",Mundial 7
 http://190.60.37.118:4000/play/a0bw
-
-#EXTINF:-1 group-title="Universal+",Universal Cinema
-
 #EXTINF:-1 group-title="Universal+",Universal Comedy
 http://45.5.118.152:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Crime
 http://45.5.118.152:8000/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="Universal+",Universal Premiere
 http://45.5.118.152:8000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="Universal+",Universal Premiere Oeste
-
 #EXTINF:-1 group-title="Universal+",Universal Reality
 http://45.5.118.152:8000/play/a0do/index.m3u8
-
-
-#EXTINF:-1 group-title="Deporte",Claro Sports 1
-http://38.224.22.252:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Deporte",Claro Sports 2
-http://38.224.22.252:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="Deporte",ContactoTV
-https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 group-title="Deporte",DSports
 http://181.66.249.25:8000/play/a0d1/index.m3u8
 #EXTINF:-1 group-title="Deporte",DSports 2
@@ -304,37 +225,20 @@ http://181.66.249.25:8000/play/a0jf/index.m3u8
 http://181.64.27.65:8000/play/a0nj/index.m3u8
 #EXTINF:-1 group-title="Deporte",L1 (P)
 http://181.66.249.25:8000/play/a0jz/index.m3u8
-#EXTINF:-1 group-title="Deporte",L1 (P) extra
-http://190.238.77.59:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
-#EXTINF:-1 group-title="Deporte",Tigo Sports
-http://170.244.209.30:8000/play/a0y3/index.m3u8
-#EXTINF:-1 group-title="Deporte",TUDN
-http://45.186.105.185:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="Deporte",TNT Sports Premium (P)
 http://190.234.82.52:8000/play/a0k9/index.m3u8
-#EXTINF:-1 group-title="Deporte",TV Azteca Sports
-http://38.224.22.252:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Deporte",TyC Sports
-http://177.53.153.207:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deporte",Creo Deportes
 https://srv1.thinkinternationalchannels.com/creosport/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Deporte",Moyo Deportes
 http://190.108.90.142:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Deporte",Peacock
-http://179.1.85.122:8000/play/a0ra/index.m3u8
-
 #EXTINF:-1 group-title="Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-#EXTINF:-1 group-title="Variados",Canal Claro
-http://170.244.209.30:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="Variados",Clic
 http://45.5.116.228:8000/play/a0gz/index.m3u8
-#EXTINF:-1 group-title="Variados",Comedy Central (P)
-http://170.244.209.30:8000/play/a0gu/index.m3u8
 #EXTINF:-1 group-title="Variados",Corazon ON Prem
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 #EXTINF:-1 group-title="Variados",Corazon
@@ -353,16 +257,8 @@ http://45.5.118.152:8000/play/a0dl/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="Variados",Lifetime
-http://38.224.22.252:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Variados",NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Variados",Pasiones
-http://38.224.22.252:8000/play/a0be/index.m3u8
-#EXTINF:-1 group-title="Variados",RCN Novelas
-http://45.186.105.185:8000/play/a0jn/index.m3u8
-#EXTINF:-1 group-title="Variados",Star TVE
-http://45.186.105.185:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="Variados",Sun Channel
 http://45.5.116.228:8000/play/a052/index.m3u8
 #EXTINF:-1 group-title="Variados",Tele13
@@ -371,12 +267,8 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Variados",Telemundo USA
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 group-title="Variados",TNT Novelas
-http://45.186.105.185:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Variados",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
-#EXTINF:-1 group-title="Variados",Univision
-
 #EXTINF:-1 group-title="Variados",Univision 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Vision TV Cine
@@ -385,15 +277,8 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Te Quiero TV
 https://srv1.thinkinternationalchannels.com/tequierotv/index.m3u8?token=yI1sYBii_GTZi0
-
-
-
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 group-title="Peru+" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png",ATV
-http://190.238.172.153:8000/play/a07b
-#EXTINF:-1 group-title="Peru+",ATV Sur
-https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_4276517416086298479_hls.m3u8
 #EXTINF:-1 group-title="Peru+",BHTV
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8?WebM3UCL
 #EXTINF:-1 group-title="Peru+",CablePeru
@@ -416,8 +301,6 @@ https://sc1.wasidata.com/Genios/tracks-a1/index.fmp4.m3u8
 https://stream.mediacorp.pe/srt/2/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Impacto TV
 https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Peru+",JNETV
-https://live20.bozztv.com/akamaissh101/ssh101/jnetv/chunks.m3u8
 #EXTINF:-1 group-title="Peru+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png",Justicia TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
 #EXTINF:-1 group-title="Peru+",Latina (W)
@@ -434,12 +317,8 @@ https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/cosmotelevisionSRT/chunks.m3u8
 #EXTINF:-1 group-title="Peru+",Radio San Borja TV
 https://stream.mediacorp.pe/srt/3/chunks.m3u8
-#EXTINF:-1 group-title="Peru+",SOLtv
-https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:-1 group-title="Peru+",Telecolor
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Peru+",TeleLima HD
-http://190.234.82.52:8000/play/a0pu/index.m3u8
 #EXTINF:-1 group-title="Peru+",Television Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Tropical
@@ -448,8 +327,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
-
-
 #EXTINF:-1 group-title="Infantil",BitMe
 http://181.65.207.62:8000/play/a00g
 #EXTINF:-1 group-title="Infantil",Canela Kids
@@ -458,12 +335,6 @@ http://45.5.118.152:8000/play/a0c7/index.m3u8
 http://45.5.118.152:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Infantil",Funbox
 http://200.4.244.29:8000/play/a01k
-#EXTINF:-1 group-title="Infantil",FMH Kids
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
-
-
-#EXTINF:-1 group-title="Musica",Concert Channel
-
 #EXTINF:-1 group-title="Musica",Mix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 group-title="Musica",Trace Latina
@@ -478,8 +349,6 @@ http://181.64.27.65:8000/play/a0iz/index.m3u8
 http://190.108.93.180:8000/play/a06k/index.m3u8
 #EXTINF:-1 group-title="Musica",Digital Music DO
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
-
-
 #EXTINF:-1 group-title="Nuevos",AMC
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Nuevos",Animal Planet
@@ -550,8 +419,6 @@ http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
 #EXTINF:-1 group-title="Nuevos",Tele13 Chile
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
-#EXTINF:-1 group-title="Nuevos",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 group-title="Religion",3ABN Latino
 http://45.5.118.152:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="Religion",BETHEL
@@ -656,28 +523,28 @@ http://live.mycamtv.com/young.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin  (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="Hot",Ã¤Â¸â‚¬Ã¦Å“Â¬00
+#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚Â¸Ã¢â€šÂ¬ÃƒÂ¦Ã…â€œÃ‚Â¬00
 https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1 group-title="Hot",Ã¤Â¸â‚¬Ã¦Å“Â¬03
+#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚Â¸Ã¢â€šÂ¬ÃƒÂ¦Ã…â€œÃ‚Â¬03
 http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1 group-title="Hot",Ã¤Â¸â€°Ã¦Å“Â¬02
+#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚Â¸Ã¢â‚¬Â°ÃƒÂ¦Ã…â€œÃ‚Â¬02
 https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
-#EXTINF:-1 group-title="Hot",Ã¤ÂºÅ’Ã¦Å“Â¬01
+#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚ÂºÃ…â€™ÃƒÂ¦Ã…â€œÃ‚Â¬01
 https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-#EXTINF:-1 group-title="Hot",Ã¤ÂºÅ’Ã¦Å“Â¬04
+#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚ÂºÃ…â€™ÃƒÂ¦Ã…â€œÃ‚Â¬04
 http://live.redtraffic.xyz:80/blowjob.m3u8
-#EXTINF:-1 group-title="Hot",Ã¦ÂÂ¾Ã¨Â§â€ 1
+#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚ÂÃ‚Â¾ÃƒÂ¨Ã‚Â§Ã¢â‚¬ 1
 http://live.redtraffic.xyz:80/fetish.m3u8
-#EXTINF:-1 group-title="Hot",Ã¦ÂÂ¾Ã¨Â§â€ 2
+#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚ÂÃ‚Â¾ÃƒÂ¨Ã‚Â§Ã¢â‚¬ 2
 http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 group-title="Hot",Ã¦Â¬Â§Ã§Â¾Å½01
+#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚Â¬Ã‚Â§ÃƒÂ§Ã‚Â¾Ã…Â½01
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="Hot",Ã¦Â¬Â§Ã§Â¾Å½02
+#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚Â¬Ã‚Â§ÃƒÂ§Ã‚Â¾Ã…Â½02
 http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="Hot",Ã§Å½Â©Ã§Â¾Å½Ã¥ÂÂ°
+#EXTINF:-1 group-title="Hot",ÃƒÂ§Ã…Â½Ã‚Â©ÃƒÂ§Ã‚Â¾Ã…Â½ÃƒÂ¥Ã‚ÂÃ‚Â°
 http://live.redtraffic.xyz:80/pov.m3u8
-#EXTINF:-1 group-title="Hot",Ã©â„¢ÂÃ¥Ë†Â¶Ã§ÂºÂ§
-http://cdn.adultiptv.net/blonde.m3u8?streamType=livÃÂµhls
+#EXTINF:-1 group-title="Hot",ÃƒÂ©Ã¢â€žÂ¢Ã‚ÂÃƒÂ¥Ã‹â€ Ã‚Â¶ÃƒÂ§Ã‚ÂºÃ‚Â§
+http://cdn.adultiptv.net/blonde.m3u8?streamType=livÃƒÂÃ‚Âµhls
 #EXTINF:-1 group-title="Hot",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="WEB",Caballeros del Zodiaco
@@ -716,341 +583,3 @@ https://sonic.dattassd.com/8100/stream
 https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?uid=112
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif",Radio RTL
 https://stream-152.zeno.fm/ewrvx3k6u68uv
-
-
-#EXTINF:-1 group-title="CABLEMAX",13 C
-http://cablemaxsigloxxi.com:8000/play/a0u5/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",24 Horas TVN
-http://cablemaxsigloxxi.com:8000/play/a04a/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",A&E
-http://cablemaxsigloxxi.com:8000/play/a06g/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Adult Swim
-http://cablemaxsigloxxi.com:8000/play/a03e/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",AMC
-http://cablemaxsigloxxi.com:8000/play/a06k/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",AMC Series
-http://cablemaxsigloxxi.com:8000/play/a03p/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Animal Planet HD
-http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",AXN HD
-http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",AZ CORAZON
-http://cablemaxsigloxxi.com:8000/play/a0ki/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Baby TV
-http://cablemaxsigloxxi.com:8000/play/a0u3/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Canal 24 Horas
-http://cablemaxsigloxxi.com:8000/play/a02w/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Cartoon Network HD
-http://cablemaxsigloxxi.com:8000/play/a07j/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Cartoonito
-http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",CGNT ESPA
-http://cablemaxsigloxxi.com:8000/play/a05q/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",CHV HD
-http://cablemaxsigloxxi.com:8000/play/a0sa/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",CHV HD
-http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",CINECANAL
-http://cablemaxsigloxxi.com:8000/play/a0t0/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Cinemax
-http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",CNN Chile
-http://cablemaxsigloxxi.com:8000/play/a02u/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",CNN Espaæol
-http://cablemaxsigloxxi.com:8000/play/a0u7/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",CNN International
-http://cablemaxsigloxxi.com:8000/play/a034/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Comedy Central HD
-http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",De Pelicula
-http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="CABLEMAX",DHE HD
-http://cablemaxsigloxxi.com:8000/play/a05h/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Discovery Channel  HD
-http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Discovery H&H
-http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Discovery Kids HD
-http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Discovery Science
-http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Discovery Theater HD
-http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Discovery Turbo
-http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Discovery World HD
-http://cablemaxsigloxxi.com:8000/play/a086/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",DISNEY CHANNEL
-http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Disney Jr. R
-http://cablemaxsigloxxi.com:8000/play/a028/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",DISNEY JUNIOR
-http://cablemaxsigloxxi.com:8000/play/a0tg/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Distrito Comedia
-http://cablemaxsigloxxi.com:8000/play/a03y/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",E! Entertainment TV
-http://cablemaxsigloxxi.com:8000/play/a039/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",El Gourmet
-http://cablemaxsigloxxi.com:8000/play/a07u/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Enlace
-http://cablemaxsigloxxi.com:8000/play/a00h/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 1
-http://cablemaxsigloxxi.com:8000/play/a0t6/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 2
-http://cablemaxsigloxxi.com:8000/play/a0t5/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 2 HD R
-http://cablemaxsigloxxi.com:8000/play/a02a/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 3
-http://cablemaxsigloxxi.com:8000/play/a0t4/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 3 HD
-http://cablemaxsigloxxi.com:8000/play/a07p/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 4
-http://cablemaxsigloxxi.com:8000/play/a0t3/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 4 R
-http://cablemaxsigloxxi.com:8000/play/a075/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 5
-http://cablemaxsigloxxi.com:8000/play/a0t2/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 6
-http://cablemaxsigloxxi.com:8000/play/a0t1/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 6 R
-http://cablemaxsigloxxi.com:8000/play/a07m/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN 7
-http://cablemaxsigloxxi.com:8000/play/a0l5/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN HD R
-http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ESPN Premium HD
-http://cablemaxsigloxxi.com:8000/play/a05g/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",EWTN
-http://cablemaxsigloxxi.com:8000/play/a0u4/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Film&Arts
-http://cablemaxsigloxxi.com:8000/play/a03n/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Food Network HD
-http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",FX 
-http://cablemaxsigloxxi.com:8000/play/a0sz/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",FX HD
-http://cablemaxsigloxxi.com:8000/play/a02i/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Golden Edge
-http://cablemaxsigloxxi.com:8000/play/a03v/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Golden HD R
-http://cablemaxsigloxxi.com:8000/play/a027/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Golf Channel
-http://cablemaxsigloxxi.com:8000/play/a03s/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO
-http://cablemaxsigloxxi.com:8000/play/a0tr/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO 2 R
-http://cablemaxsigloxxi.com:8000/play/a026/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO Family HD
-http://cablemaxsigloxxi.com:8000/play/a07x/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO Mundi
-http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO Plus
-http://cablemaxsigloxxi.com:8000/play/a00s/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO POP HD
-http://cablemaxsigloxxi.com:8000/play/a0ts/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO Signature
-http://cablemaxsigloxxi.com:8000/play/a082/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HBO Xtreme HD
-http://cablemaxsigloxxi.com:8000/play/a00p/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HEI HD
-http://cablemaxsigloxxi.com:8000/play/a0t7/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HGTV
-http://cablemaxsigloxxi.com:8000/play/a03b/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",History 2
-http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",History Channel
-http://cablemaxsigloxxi.com:8000/play/a068/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HOLA TV
-http://cablemaxsigloxxi.com:8000/play/a062/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Home & Health HD
-http://cablemaxsigloxxi.com:8000/play/a07q/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",HTV
-http://cablemaxsigloxxi.com:8000/play/a03q/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ID - Investigation Discovery
-http://cablemaxsigloxxi.com:8000/play/a067/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",ID HD
-http://cablemaxsigloxxi.com:8000/play/a08a/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",KANAL D DRAMA
-http://cablemaxsigloxxi.com:8000/play/a0sq/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",La Red
-http://cablemaxsigloxxi.com:8000/play/a02v/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Las Estrellas HD
-http://cablemaxsigloxxi.com:8000/play/a06x/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Las Estrellas HD R
-http://cablemaxsigloxxi.com:8000/play/a02e/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Lifetime
-http://cablemaxsigloxxi.com:8000/play/a03d/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",MAYA TV 
-http://cablemaxsigloxxi.com:8000/play/a010/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",MEGA HD
-http://cablemaxsigloxxi.com:8000/play/a02t/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",MEGA TV PASCO
-http://cablemaxsigloxxi.com:8000/play/a00z/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Milenial TV
-http://cablemaxsigloxxi.com:8000/play/a0l0/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",MTV HD
-http://cablemaxsigloxxi.com:8000/play/a087/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",NAT GEO
-http://cablemaxsigloxxi.com:8000/play/a0su/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",National Geographic
-http://cablemaxsigloxxi.com:8000/play/a0td/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Nativa tv
-http://cablemaxsigloxxi.com:8000/play/a08x/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Nick HD
-http://cablemaxsigloxxi.com:8000/play/a0tt/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Nick Jr.
-http://cablemaxsigloxxi.com:8000/play/a081/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Nick Music
-http://cablemaxsigloxxi.com:8000/play/a03l/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Nickelodeon HD
-http://cablemaxsigloxxi.com:8000/play/a02s/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",NTN24
-http://cablemaxsigloxxi.com:8000/play/a03r/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Nuestra Tele
-http://cablemaxsigloxxi.com:8000/play/a03k/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",OROMAR TV
-http://cablemaxsigloxxi.com:8000/play/a040/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PANAO TV
-http://cablemaxsigloxxi.com:8000/play/a01h/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Pasiones HD
-http://cablemaxsigloxxi.com:8000/play/a0st/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE AMAZONICA TV
-http://cablemaxsigloxxi.com:8000/play/a0m4/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE AMERICA
-http://cablemaxsigloxxi.com:8000/play/a05m/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE ARTEMISA TV
-http://cablemaxsigloxxi.com:8000/play/a017/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE ATV
-http://cablemaxsigloxxi.com:8000/play/a08f/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE ATV+
-http://cablemaxsigloxxi.com:8000/play/a0nm/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE Bethel One Second
-http://cablemaxsigloxxi.com:8000/play/a02n/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE BETHEL TV
-http://cablemaxsigloxxi.com:8000/play/a02h/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE BH TV
-http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE BNB DIGITAL
-http://cablemaxsigloxxi.com:8000/play/a0f2/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE CANAL LUZ
-http://cablemaxsigloxxi.com:8000/play/a0nl/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE Canal N
-http://cablemaxsigloxxi.com:8000/play/a08r/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE CanalB
-http://cablemaxsigloxxi.com:8000/play/a0b1/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE CONECTA2 TV
-http://cablemaxsigloxxi.com:8000/play/a0a5/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE CORPORACION TV 
-http://cablemaxsigloxxi.com:8000/play/a01p/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE DSPORTS 1
-http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE EXITOSA
-http://cablemaxsigloxxi.com:8000/play/a0a4/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE Global
-http://cablemaxsigloxxi.com:8000/play/a08g/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE JN19
-http://cablemaxsigloxxi.com:8000/play/a07i/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE KARIBENA
-http://cablemaxsigloxxi.com:8000/play/a0hw/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE L1 MAX
-http://cablemaxsigloxxi.com:8000/play/a07e/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE Latina HD
-http://cablemaxsigloxxi.com:8000/play/a07c/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE LIGA 1
-http://cablemaxsigloxxi.com:8000/play/a07s/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE Movistar Deportes
-http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE Panamericana
-http://cablemaxsigloxxi.com:8000/play/a08e/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE PLUS TV LIFE
-http://cablemaxsigloxxi.com:8000/play/a04h/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE POPU TV
-http://cablemaxsigloxxi.com:8000/play/a048/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE SANJUANERA TV
-http://cablemaxsigloxxi.com:8000/play/a0kj/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE SELVA TV
-http://cablemaxsigloxxi.com:8000/play/a0m5/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE SUMAC TV
-http://cablemaxsigloxxi.com:8000/play/a0od/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE TV PERU
-http://cablemaxsigloxxi.com:8000/play/a0dt/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE URANIO
-http://cablemaxsigloxxi.com:8000/play/a0kn/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",PE Willax
-http://cablemaxsigloxxi.com:8000/play/a08c/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",RADIO ORIENTE 
-http://cablemaxsigloxxi.com:8000/play/a06n/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",RCN Novelas HD
-http://cablemaxsigloxxi.com:8000/play/a042/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",REAL MADRID
-http://cablemaxsigloxxi.com:8000/play/a00x/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",REC TV
-http://cablemaxsigloxxi.com:8000/play/a02q/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",RT Noticias
-http://cablemaxsigloxxi.com:8000/play/a083/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",RTU
-http://cablemaxsigloxxi.com:8000/play/a03z/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",RUMBO MINERO
-http://cablemaxsigloxxi.com:8000/play/a0no/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Sony HD
-http://cablemaxsigloxxi.com:8000/play/a00q/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Sony Movies
-http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Space HD
-http://cablemaxsigloxxi.com:8000/play/a0u2/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",STAR CHANNEL
-http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Stingray Concerts HD
-http://cablemaxsigloxxi.com:8000/play/a0qx/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Studio Universal HD
-http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Sun Channel
-http://cablemaxsigloxxi.com:8000/play/a0pd/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",SUYAI TV 
-http://cablemaxsigloxxi.com:8000/play/a05s/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TCM
-http://cablemaxsigloxxi.com:8000/play/a03w/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Teen Nick
-http://cablemaxsigloxxi.com:8000/play/a03m/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Telefe
-http://cablemaxsigloxxi.com:8000/play/a03c/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Telemundo
-http://cablemaxsigloxxi.com:8000/play/a01w/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TELEMUNDO NOTICIAS
-http://cablemaxsigloxxi.com:8000/play/a05t/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Telenovelas
-http://cablemaxsigloxxi.com:8000/play/a04o/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Televicentro
-http://cablemaxsigloxxi.com:8000/play/a032/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TLC
-http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TNT HD
-http://cablemaxsigloxxi.com:8000/play/a06y/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TNT Novelas HD
-http://cablemaxsigloxxi.com:8000/play/a08p/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TNT Series HD
-http://cablemaxsigloxxi.com:8000/play/a071/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TNT SPORTS
-http://cablemaxsigloxxi.com:8000/play/a08j/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TNT Sports Premiun HD
-http://cablemaxsigloxxi.com:8000/play/a0rb/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Tooncast
-http://cablemaxsigloxxi.com:8000/play/a03a/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TOP TV
-http://cablemaxsigloxxi.com:8000/play/a01q/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TV+
-http://cablemaxsigloxxi.com:8000/play/a020/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TVE
-http://cablemaxsigloxxi.com:8000/play/a00k/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",TVN HD
-http://cablemaxsigloxxi.com:8000/play/a02r/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",UNIVERSAL CHANNEL HD
-http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Via X Esports
-http://cablemaxsigloxxi.com:8000/play/a03t/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Warner Channel
-http://cablemaxsigloxxi.com:8000/play/a08b/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Warner TV HD
-http://cablemaxsigloxxi.com:8000/play/a02p/index.m3u8?hls
-#EXTINF:-1 group-title="CABLEMAX",Win Sports+ HD
-http://cablemaxsigloxxi.com:8000/play/a07n/index.m3u8?hls
