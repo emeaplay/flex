@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png",Willax
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835839459/7f9e192ef8c6_480_270.png",Latina
+#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835839459/7f9e192ef8c6_480_270.png",LATINA TV
 http://190.234.82.52:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg",PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png",America TV
+#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835681860/c6e8bd31225d_480_270.png",AMERICA TV
 http://190.234.82.52:8000/play/ar1p/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png",Panamericana
+#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835848842/7f999c8b6374_480_270.png",PANAMERICANA
 http://190.234.82.52:8000/play/a0nq/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png",Exitosa TV
+#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835719280/34cd78cef450_480_270.png",EXITOSA NOTICIAS
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OTIPLAY",TVPERU
 http://190.234.82.52:8000/play/a0nr/index.m3u8
@@ -27,16 +27,18 @@ https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanotic
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",L1MAX
 http://190.234.82.52:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Contacto Digital
+#EXTINF:-1 group-title="OTIPLAY",CONTACTO DIGITAL
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
-#EXTINF:-1 group-title="OTIPLAY",Nativa
+#EXTINF:-1 group-title="OTIPLAY",NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
-#EXTINF:-1 group-title="OTIPLAY",Canal N (P)
+#EXTINF:-1 group-title="OTIPLAY",CANAL N (P)
 http://181.64.27.65:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 group-title="OTIPLAY",DOBLE C
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg",Trivu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png",LaTele
@@ -45,8 +47,10 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
 http://190.234.82.52:8000/play/a0l1/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
+#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
 http://190.234.82.52:8000/play/a0l4/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",WARNER (P)
+http://190.234.82.52:8000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
 http://45.5.118.152:8000/play/a0a2/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
