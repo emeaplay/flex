@@ -29,6 +29,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 http://190.234.82.52:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CONTACTO DIGITAL
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
+#EXTINF:-1 group-title="OTIPLAY",MATICES TV
+http://38.187.12.139:8000/play/a0cx/index.m3u8?hls
 #EXTINF:-1 group-title="OTIPLAY",NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
