@@ -293,8 +293,19 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Te Quiero TV
 https://srv1.thinkinternationalchannels.com/tequierotv/index.m3u8?token=yI1sYBii_GTZi0
+
+#EXTINF:-1 group-title="Peru+",36 TV 
+https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
+#EXTINF:-1 group-title="Peru+",AMERICA TV IPTV
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+#EXTINF:-1 group-title="Peru+",ANTARES
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Asiri TV
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 group-title="Peru+",ATV SUR
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Peru+",AUTENTICA
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="Peru+",BHTV
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8?WebM3UCL
 #EXTINF:-1 group-title="Peru+",CablePeru
@@ -317,6 +328,8 @@ https://sc1.wasidata.com/Genios/tracks-a1/index.fmp4.m3u8
 https://stream.mediacorp.pe/srt/2/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Impacto TV
 https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",INKAVISION
+https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
 #EXTINF:-1 group-title="Peru+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png",Justicia TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
 #EXTINF:-1 group-title="Peru+",Latina (W)
@@ -327,8 +340,12 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?WebM3UCL
 #EXTINF:-1 group-title="Peru+",Onda Digital
 https://tv.ondadigital.pe/ondadigital/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",OndaTV
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",OtiPlay Media
 https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Peru+",OZONO TV
+http://vps.chasquirouter.com/salida/ozono.m3u8
 #EXTINF:-1 group-title="Peru+",QOSMO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/cosmotelevisionSRT/chunks.m3u8
 #EXTINF:-1 group-title="Peru+",Radio San Borja TV
@@ -339,6 +356,10 @@ https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8?WebM3UCL
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 group-title="Peru+",TV COSMOS
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:-1 group-title="Peru+",TV Norte
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 group-title="Peru+",Vision TV Musica
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Peru+",VITAL TV
