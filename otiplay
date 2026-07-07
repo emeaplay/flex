@@ -336,6 +336,8 @@ https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="Variados",Telemundo USA
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 group-title="Variados",TL Novelas
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variados",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Variados",Univision 24/7
@@ -506,42 +508,29 @@ https://live.redtraffic.net/woman.m3u8
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/MpQtdTb.png",Miami TV Mexico (1080p)
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Anal (720p)
-https://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Arab (720p)
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/FBSodo6.png",MyCamTV Asian (720p)
-https://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Big Ass (720p)
-https://live.mycamtv.com/defstream.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Big Tits (720p)
-https://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Blonde (720p)
-https://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Blowjob (720p)
-http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Brunette (720p)
-https://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Latina (720p)
-https://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Medium (720p)
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV MILF (720p)
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Skinny (720p)
-https://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV Squirt (720p)
-https://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Teen (720p)
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png",MyCamTV White (720p)
-https://live.mycamtv.com/white.m3u8
-#EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/sli5irt.png",MyCamTV Young (720p)
-http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/6aOmZs4.png",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin  (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="Hot",Penthouse Gold
+http://ru.iptv.monster/play/6880/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",Eromania 4k
+http://ru.iptv.monster/play/1703/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",DITV
+http://ru.iptv.monster/play/2065/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",SXTV
+http://ru.iptv.monster/play/13021/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",Penthouse Gold
+http://ru.iptv.monster/play/8074/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",Penthouse Reality
+http://ru.iptv.monster/play/8074/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",RedLight
+http://ru.iptv.monster/play/594/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",Babes Olero
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
+#EXTINF:-1 group-title="Hot",Margarita
+http://ru.iptv.monster/play/132/manifest.m3u8?token=75BA4FC1CA5013E
+
 
 #EXTINF:-1 group-title="WEB",Caballeros del Zodiaco
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
