@@ -58,7 +58,7 @@ http://190.234.82.52:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",WARNER (P)
 http://190.234.82.52:8000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
-http://45.5.118.152:8000/play/a0a2/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
 http://45.5.118.152:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
@@ -95,6 +95,28 @@ http://190.108.90.142:8000/play/a01i/index.m3u8
 http://190.108.90.142:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Azteca GO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+
+#EXTINF:-1 group-title="TVPE",Latina Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",America Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",Panamericana Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",TV Peru Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",RPP Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
+#EXTINF:-1 group-title="TVPE",VIVA TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",Telelima Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
+#EXTINF:-1 group-title="TVPE",Global Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",Canal del Congreso Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
+#EXTINF:-1 group-title="TVPE",Justicia TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
@@ -171,6 +193,10 @@ http://45.5.118.152:8000/play/a01t/index.m3u8
 https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Cine",TNT +1 (P)
 http://181.65.207.62:8000/play/a006
+#EXTINF:-1 group-title="Cine",Pluto Estrellas de accion
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+
+
 #EXTINF:-1 group-title="Mundial",Mundial 1
 http://177.53.153.207:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 4
@@ -468,6 +494,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 group-title="Religion",Presencia TV
 https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
+
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Asian (720p)
@@ -560,34 +587,9 @@ http://live.mycamtv.com/young.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/B3DMUM9.png",Playboy TV Latin  (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚Â¸Ã¢â€šÂ¬ÃƒÂ¦Ã…â€œÃ‚Â¬00
-https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚Â¸Ã¢â€šÂ¬ÃƒÂ¦Ã…â€œÃ‚Â¬03
-http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚Â¸Ã¢â‚¬Â°ÃƒÂ¦Ã…â€œÃ‚Â¬02
-https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚ÂºÃ…â€™ÃƒÂ¦Ã…â€œÃ‚Â¬01
-https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¤Ã‚ÂºÃ…â€™ÃƒÂ¦Ã…â€œÃ‚Â¬04
-http://live.redtraffic.xyz:80/blowjob.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚ÂÃ‚Â¾ÃƒÂ¨Ã‚Â§Ã¢â‚¬ 1
-http://live.redtraffic.xyz:80/fetish.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚ÂÃ‚Â¾ÃƒÂ¨Ã‚Â§Ã¢â‚¬ 2
-http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚Â¬Ã‚Â§ÃƒÂ§Ã‚Â¾Ã…Â½01
-http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ¦Ã‚Â¬Ã‚Â§ÃƒÂ§Ã‚Â¾Ã…Â½02
-http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ§Ã…Â½Ã‚Â©ÃƒÂ§Ã‚Â¾Ã…Â½ÃƒÂ¥Ã‚ÂÃ‚Â°
-http://live.redtraffic.xyz:80/pov.m3u8
-#EXTINF:-1 group-title="Hot",ÃƒÂ©Ã¢â€žÂ¢Ã‚ÂÃƒÂ¥Ã‹â€ Ã‚Â¶ÃƒÂ§Ã‚ÂºÃ‚Â§
-http://cdn.adultiptv.net/blonde.m3u8?streamType=livÃƒÂÃ‚Âµhls
-#EXTINF:-1 group-title="Hot",Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+
 #EXTINF:-1 group-title="WEB",Caballeros del Zodiaco
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
-#EXTINF:-1 group-title="WEB",Canal del Congreso
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
 #EXTINF:-1 group-title="WEB",Dragon Ball Classic
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse1/chunks.m3u8
 #EXTINF:-1 group-title="WEB",Dragon Ball GT
@@ -598,12 +600,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse4/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse3/chunks.m3u8
 #EXTINF:-1 group-title="WEB",El Chavo del 8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
-#EXTINF:-1 group-title="WEB",RPP Stream
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
-#EXTINF:-1 group-title="WEB",Telelima 2
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
-#EXTINF:-1 group-title="WEB",Movistar TV Promo
-http://190.234.82.52:8000/play/a0nt/index.m3u8
+
+
 #EXTINF:-1 group-title="Radio",La Noventera
 https://host.gometri.com/proxy/lanoventera/stream
 #EXTINF:-1 group-title="Radio",Radio MEGAMix
@@ -617,7 +615,6 @@ https://n08.radiojar.com/2fse67zuv8hvv?rj-ttl=5&rj-tok=AAABhiWMKwIABjORIJPbXUJ4k
 #EXTINF:-1 group-title="Radio" tvg-logo="https://media.tenor.com/Tz7otXQbdbkAAAAj/cuddle-cuddles.gif",Radio RBC
 https://sonic.dattassd.com/8100/stream
 
-#EXTM3U
 #EXTINF:-1 group-title="PELICULAS",12 HORAS PARA SOBREVIVIR
 http://archive.org/download/0_20200403/2.mp4
 #EXTINF:-1 group-title="PELICULAS",12 HORAS PARA SOBREVIVIR EL INICIO
