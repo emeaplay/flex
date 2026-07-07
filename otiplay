@@ -166,6 +166,8 @@ http://45.5.118.188:8000/play/a06o/index.m3u8
 https://srv1.thinkinternationalchannels.com/oldmovies/index.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="CLASICOS",Video Classic
 http://181.64.27.65:8000/play/a0lr/index.m3u8
+
+
 #EXTINF:-1 group-title="Cine",Canela Cinema
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
@@ -300,6 +302,8 @@ https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 https://srv1.thinkinternationalchannels.com/creosport/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Deporte",Moyo Deportes
 http://190.108.90.142:8000/play/a01x/index.m3u8
+
+
 #EXTINF:-1 group-title="Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1 group-title="Variados",Clic
@@ -413,110 +417,38 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
-#EXTINF:-1 group-title="Infantil",BitMe
-http://181.65.207.62:8000/play/a00g
-#EXTINF:-1 group-title="Infantil",Canela Kids
-http://45.5.118.152:8000/play/a0c7/index.m3u8
-#EXTINF:-1 group-title="Infantil",Discovery Kids
-http://45.5.118.152:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="Infantil",Funbox
-http://200.4.244.29:8000/play/a01k
-#EXTINF:-1 group-title="Musica",Mix TV
-https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
-#EXTINF:-1 group-title="Musica",Trace Latina
-http://45.5.118.152:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Musica",Tropi CUmbia
-https://live-evg7.tv360.bitel.com.pe/bitel/cumbiatv/chunks.m3u8
-#EXTINF:-1 group-title="Musica",Urbano TV
-https://srv1.thinkinternationalchannels.com/urbanotv/index.m3u8?token=yI1sYBii_GTZi0
-#EXTINF:-1 group-title="Musica",Stingray Concerts
-http://181.64.27.65:8000/play/a0iz/index.m3u8
-#EXTINF:-1 group-title="Musica",Vevo Latino
-http://190.108.93.180:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="Musica",Digital Music DO
-https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
-#EXTINF:-1 group-title="Nuevos",AMC
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Animal Planet
-http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",AXN
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Az Cinema
-http://190.11.225.124:5000/live/azcinema_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Azteca7
-http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Baby TV
-http://190.11.225.124:5000/live/baby_tv/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Bandamax
-http://190.11.225.124:5000/live/bandamax/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Canal 5
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Las Estrellas
-http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Cartoonito
-http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Comedy Central
-http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",D Pelicula
-http://190.11.225.124:5000/live/depelicula/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",DHE
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Disney Channel
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",ESPN2
-http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",ESPN3
-http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",FX
-http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Golden
-http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",HBO Family
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",HBO Plus
-http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",HBO Signature
-http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",HBO Xtreme
-http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Lifetime
-http://190.11.225.124:5000/live/lifetime/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Nat Geo
-http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Nick JR
-http://190.11.225.124:5000/live/nickjr/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Paramount
-http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Sony
-http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Space
-http://190.11.225.124:5000/live/space_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Telehit
-http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Telemundo
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",TL Novelas
-http://190.11.225.124:5000/live/tlnovelas/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",TNT
-http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Universal
-http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Warner
-http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
-#EXTINF:-1 group-title="Nuevos",Tele13 Chile
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
-#EXTINF:-1 group-title="Religion",3ABN Latino
-http://45.5.118.152:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="Religion",BETHEL
-https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8
-#EXTINF:-1 group-title="Religion",ENLACE
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:-1 group-title="Religion",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="Religion",JN19
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 group-title="Religion",Presencia TV
-https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
+
+#EXTINF:-1 group-title="PLUTO TV",MTV Pluto
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Paramount Pluto
+https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Mexicanas Pluto
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Amor y Mentiras Pluto
+https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Animales Pluto
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Aventura Pluto
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Catastrofes Pluto
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Cine Accion Pluto
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Cine Clasico Pluto
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Cine Comedia Pluto
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Cocina Pluto
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Cine Estelar Pluto
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Cine Romantico Pluto
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Deportes Pluto
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Hot" tvg-logo="https://i.imgur.com/cqKFF8A.png",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
