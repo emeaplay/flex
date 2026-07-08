@@ -52,19 +52,23 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png",TeleLima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
-http://190.234.82.52:8000/play/a0l1/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
-http://190.234.82.52:8000/play/a0l4/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",WARNER (P)
 http://190.234.82.52:8000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://45.5.118.152:8000/play/a020/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/studiouniversal/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",UNIVERSAL
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
+#EXTINF:-1 group-title="OTIPLAY",A&E
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/aye.stream/playlist.m3u8
+#EXTINF:-1 group-title="OTIPLAY",USA NETWORK
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ESPN5.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png",History
 http://45.5.118.152:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Odisea
@@ -196,6 +200,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 http://45.5.118.152:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinemax
 http://45.5.118.152:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Cine",CINECANAL
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINECANAL (P)
 http://190.234.82.52:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
@@ -206,12 +212,26 @@ http://181.78.211.244:8000/play/a0bd/index.m3u8
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cine",Film and Arts
 http://45.5.118.152:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="Cine",FMH Movies
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/FMH_Movies.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",Golden
 http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
 http://45.5.118.152:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Plus
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8
+#EXTINF:-1 group-title="Cine",HBO Xtreme
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Xtreme/playlist.m3u8
+#EXTINF:-1 group-title="Cine",HBO Signature
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbosignature.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine",HBO Mundi
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine",HBO Family
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Family/playlist.m3u8
+#EXTINF:-1 group-title="Cine",HBO Oeste
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 #EXTINF:-1 group-title="Cine",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
@@ -227,7 +247,7 @@ http://45.5.118.152:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://200.4.195.66:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Cine",Space
-http://45.5.118.152:8000/play/a01t/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Creo Movie
 https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Cine",TNT +1 (P)
