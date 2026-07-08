@@ -104,8 +104,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="TVPE",Matices TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/MaticesTV.stream/playlist.m3u8
 #EXTINF:-1 group-title="TVPE",Latina Bantel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",Karibena TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/karibena.stream/playlist.m3u8
 #EXTINF:-1 group-title="TVPE",America Bantel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
 #EXTINF:-1 group-title="TVPE",Panamericana Bantel
@@ -132,6 +136,16 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 #EXTINF:-1 group-title="TVPE",la voz TV Bantel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",Willax Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
+#EXTINF:-1 group-title="TVPE",la voz TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
+
+
+
+
+
+
 
 
 
