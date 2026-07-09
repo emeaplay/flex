@@ -43,8 +43,8 @@ http://177.53.154.191:8000/play/a1hs/index.m3u8
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="OTIPLAY",DOBLE C
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",ON.TV
-http://38.187.12.139:8000/play/a0nx/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",Karibena TV
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg",Trivu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png",LaTele
