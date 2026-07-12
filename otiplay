@@ -22,7 +22,7 @@ https://cdn-ssai.smartbit.co/rpp/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Cablevision
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Noticias
-https://live-evg11.tv360.bitel.com.pe/bitel/latinanoticias_abr/bitel/latinanoticias_720p/chunks.m3u8
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png",Global
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",L1MAX
