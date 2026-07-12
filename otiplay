@@ -34,7 +34,7 @@ http://38.187.12.139:8000/play/a0cx/index.m3u8?hls
 #EXTINF:-1 group-title="OTIPLAY",NATIVA
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Latina Clasicos
-https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY",CANAL N (P)
 http://181.64.27.65:8000/play/a0np/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",PLUSTV LIFE (P)
