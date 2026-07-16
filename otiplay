@@ -54,27 +54,29 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png",TeleLima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
+http://45.5.118.152:8000/play/a0di/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL (P)
+http://190.234.82.52:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",WARNER (P)
 http://190.234.82.52:8000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
+http://45.5.118.152:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN (P)
+http://190.234.82.52:8000/play/a0l6/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/studiouniversal/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",UNIVERSAL
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
+http://45.5.118.152:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",A&E
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/aye.stream/playlist.m3u8
 #EXTINF:-1 group-title="OTIPLAY",USA NETWORK
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ESPN5.stream/playlist.m3u8
+#EXTINF:-1 group-title="OTIPLAY",FX
+http://45.5.118.152:8000/play/a0c8/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png",History
 http://45.5.118.152:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="OTIPLAY",Odisea
-https://tinyurl.com/odiseatv
+#EXTINF:-1 group-title="OTIPLAY",H2 (P)
+http://190.234.82.52:8000/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",Home & Health
 http://45.5.118.152:8000/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Investigation Discovery
@@ -236,6 +238,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO
 http://45.5.118.152:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Centro
+http://190.234.82.52:8000/play/a0q4/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Plus
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8
 #EXTINF:-1 group-title="Cine",HBO Xtreme
@@ -268,18 +272,14 @@ http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Cine",TNT +1 (P)
 http://181.65.207.62:8000/play/a006
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT Centro
+http://190.234.82.52:8000/play/a0l1/index.m3u8
 #EXTINF:-1 group-title="Cine",Pluto Estrellas de accion
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 
 
 #EXTINF:-1 group-title="Mundial",Mundial 1
 http://177.53.153.207:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Mundial",Mundial 2
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="Mundial",Mundial 4
-http://45.5.118.152:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Mundial",Mundial 5
-http://45.5.118.152:8000/play/a0dg/index.m3u8
 #EXTINF:-1 group-title="Mundial",Mundial 6
 http://190.60.37.118:4000/play/a0b2
 #EXTINF:-1 group-title="Mundial",Mundial 7
@@ -334,7 +334,9 @@ http://45.5.116.228:8000/play/a05e/index.m3u8
 http://45.5.116.228:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Deporte",ESPN 6 US
 http://45.5.116.228:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Deporte",FOX One
+#EXTINF:-1 group-title="Deporte",ESPN Premium 
+http://190.234.82.52:8000/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="Deporte",FOX Centro
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="Deporte",Fox Sports AR
 http://177.53.153.207:8000/play/a008/index.m3u8
@@ -352,6 +354,8 @@ http://181.64.27.65:8000/play/a0nj/index.m3u8
 http://181.66.249.25:8000/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
+#EXTINF:-1 group-title="Deporte",TIGO Sports
+http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 group-title="Deporte",TNT Sports Premium (P)
 http://190.234.82.52:8000/play/a0k9/index.m3u8
 #EXTINF:-1 group-title="Deporte",YuriTV
@@ -360,6 +364,8 @@ https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
 https://srv1.thinkinternationalchannels.com/creosport/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Deporte",Moyo Deportes
 http://190.108.90.142:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Deporte",WIN SPORTS +
+http://190.60.37.118:4000/play/a0bw
 
 
 #EXTINF:-1 group-title="Variados",Azteca Internacional
