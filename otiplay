@@ -107,9 +107,6 @@ http://190.108.90.142:8000/play/a01i/index.m3u8
 http://190.108.90.142:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Azteca GO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-#EXTINF:-1 group-title="OTIPLAY",E! Entertainment
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="Bantel",Matices TV Bantel
@@ -134,8 +131,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bantel",Canal del Congreso Bantel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",Justicia TV Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png",Justicia TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bantel",ATV Sur Bantel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bantel",TV Peru Noticias Bantel
@@ -148,7 +145,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bantel",la voz TV Bantel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
 #EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
@@ -169,7 +165,36 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ESPN5.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bantel",E! Entertainment
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="Bantel",TL Novelas
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Las Estrellas
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Cine Familiar
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Cine Hispano
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Cine Premium
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",CINECANAL
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",E! Entertainment
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",FMH Movies
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/FMH_Movies.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Plus
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Xtreme
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Xtreme/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Signature
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbosignature.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Mundi
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Family
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Family/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Oeste
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Space
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
@@ -208,18 +233,10 @@ http://181.64.27.65:8000/play/a0lr/index.m3u8
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINE Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1 group-title="Cine",Cine Familiar
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cine",Cine Hispano
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cine",Cine Premium
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Cine Latino
 http://45.5.118.152:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Cine",Cinemax
 http://45.5.118.152:8000/play/a07a/index.m3u8
-#EXTINF:-1 group-title="Cine",CINECANAL
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cine",CINECANAL (P)
 http://190.234.82.52:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="Cine",DHE
@@ -230,8 +247,7 @@ http://181.78.211.244:8000/play/a0bd/index.m3u8
 http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cine",Film and Arts
 http://45.5.118.152:8000/play/a09n/index.m3u8
-#EXTINF:-1 group-title="Cine",FMH Movies
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/FMH_Movies.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Cine",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="Cine",Golden
@@ -240,18 +256,6 @@ http://45.5.118.152:8000/play/a03p/index.m3u8
 http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Centro
 http://190.234.82.52:8000/play/a0q4/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Plus
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8
-#EXTINF:-1 group-title="Cine",HBO Xtreme
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Xtreme/playlist.m3u8
-#EXTINF:-1 group-title="Cine",HBO Signature
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbosignature.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cine",HBO Mundi
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cine",HBO Family
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Family/playlist.m3u8
-#EXTINF:-1 group-title="Cine",HBO Oeste
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 #EXTINF:-1 group-title="Cine",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
@@ -266,16 +270,14 @@ http://45.5.116.228:8000/play/a0kl/index.m3u8
 http://45.5.118.152:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Cine",Sony Movies
 http://200.4.195.66:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Cine",Space
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cine",Creo Movie
 https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="Cine",TNT +1 (P)
 http://181.65.207.62:8000/play/a006
 #EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT Centro
 http://190.234.82.52:8000/play/a0l1/index.m3u8
-#EXTINF:-1 group-title="Cine",Pluto Estrellas de accion
-https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 group-title="Cine",TNT Series
+http://45.5.118.152:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Cine",Universal Comedy
 http://45.5.118.152:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="Cine",Universal Crime
@@ -380,8 +382,6 @@ http://45.5.118.152:8000/play/a0dl/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Variados",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="Variados",Las Estrellas Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variados",NET TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="Variados",Sun Channel
@@ -394,6 +394,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 group-title="Variados",TL Novelas
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variados",TNT Novelas
+http://45.5.118.152:8000/play/a01v/index.m3u8
 #EXTINF:-1 group-title="Variados",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="Variados",Univision 24/7
@@ -441,8 +443,6 @@ https://stream.mediacorp.pe/srt/2/playlist.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Peru+",INKAVISION
 https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8
-#EXTINF:-1 group-title="Peru+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png",Justicia TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
 #EXTINF:-1 group-title="Peru+",Latina (W)
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2139264184066cfcc646e972&ndvc=0&sid=ba5t1l1xb2178480501966cfcc6658b39
 #EXTINF:-1 group-title="Peru+",Latina Noticias(W)
@@ -504,8 +504,10 @@ https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
 #EXTINF:-1 group-title="PLUTO TV",Cine Romantico Pluto
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
-#EXTINF:-1 group-title="PLUTO TV",Deportes Pluto
+#EXTINF:-1 group-title="",Deportes Pluto
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 group-title="PLUTO TV",Pluto Estrellas de accion
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 
 
 
