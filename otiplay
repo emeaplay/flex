@@ -98,8 +98,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 http://45.5.118.152:8000/play/a08w/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="OTIPLAY",OKTEVE
-https://live.obslivestream.com/oktv/tracks-v1a1/mono.m3u8?WebM3UCL&token=Bk-DXAXulO1OV0
 #EXTINF:-1 group-title="OTIPLAY",Telemundo Intenacional
 http://190.108.90.142:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Atmosfera TV
@@ -110,7 +108,15 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://45.5.118.152:8000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Canal 5 MX (P)
 http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="OTIPLAY",UNIVERSO
+http://tecnotv.club/31dq/phpcode/lista3.php?c=68&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="OTIPLAY",UNIVISION
+http://tecnotv.club/31dq/phpcode/lista3.php?c=3&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="OTIPLAY",LIFETIME
+http://tecnotv.club/31dq/phpcode/lista3.php?c=33&token=tecnotokenplustv230516F&f=.m3u8
 
+#EXTINF:-1 group-title="CLASICOS",AZ CINEMA
+http://tecnotv.club/31dq/phpcode/lista3.php?c=85&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="CLASICOS",D PELICULA (P)
@@ -182,6 +188,14 @@ http://45.5.118.152:8000/play/a03p/index.m3u8
 http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:-1 group-title="Cine",HBO Centro
 http://190.234.82.52:8000/play/a0q4/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO FAMILY
+http://tecnotv.club/31dq/phpcode/lista3.php?c=21&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="Cine",HBO FAMILY
+http://tecnotv.club/31dq/phpcode/lista3.php?c=22&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="Cine",HBO SIGNATURE
+http://tecnotv.club/31dq/phpcode/lista3.php?c=20&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="Cine",HBO XTREME
+http://tecnotv.club/31dq/phpcode/lista3.php?c=16&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="Cine",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Cine",MyTime Movie ES
@@ -218,6 +232,8 @@ http://45.5.118.152:8000/play/a0dn/index.m3u8
 http://45.5.118.152:8000/play/a0do/index.m3u8
 
 
+#EXTINF:-1 group-title="⚽ Deporte",DAZN
+http://tecnotv.club/31dq/phpcode/lista3.php?c=64&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",DSports
 http://181.66.249.25:8000/play/a0d1/index.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",DSports 2
@@ -258,6 +274,8 @@ http://45.5.116.228:8000/play/a05m/index.m3u8
 http://45.5.116.228:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",ESPN Premium 
 http://190.234.82.52:8000/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="⚽ Deporte",FORMULA 1
+http://tecnotv.club/31dq/phpcode/lista3.php?c=81&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",FOX Centro
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",FOX Salvador
@@ -268,6 +286,8 @@ http://177.53.153.207:8000/play/a008/index.m3u8
 http://177.53.153.207:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",Fox Sports 3 AR
 http://177.53.153.207:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="⚽ Deporte",Fox Sports 3 MX
+http://tecnotv.club/31dq/phpcode/lista3.php?c=28&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
 #EXTINF:-1 group-title="⚽ Deporte",L1 MAX (P)
@@ -425,6 +445,16 @@ http://45.5.118.152:8000/play/a03h/index.m3u8
 http://45.5.118.152:8000/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="Musica",HTV
 http://200.35.176.154:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Musica",LATINOS
+ttps://v4.tustreaming.cl/latinostv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Musica",RECUERDOS RETRO
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w2003342905.m3u8
+#EXTINF:-1 group-title="Musica",RETROPLUS 2 MUSICA
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w2132100554.m3u8
+#EXTINF:-1 group-title="Musica",VM LATINO
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w397294148.m3u8
+
+
 
 #EXTINF:-1 group-title="PLUTO TV",MTV Pluto
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
