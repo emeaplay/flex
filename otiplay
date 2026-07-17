@@ -110,107 +110,6 @@ http://45.5.118.152:8000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="OTIPLAY",Canal 5 MX (P)
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
-
-#EXTINF:-1 group-title="Bantel",Matices TV Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/MaticesTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Latina Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Karibena TV Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/karibena.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",America Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Panamericana Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",TV Peru Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",RPP Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",VIVA TV Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Telelima Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",Global Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Canal del Congreso Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png",Justicia TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",ATV Sur Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",TV Peru Noticias Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Canal Infantil Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",la voz TV Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Willax Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",la voz TV Bantel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
-#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/studiouniversal/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",UNIVERSAL
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",A&E
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/aye.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",USA NETWORK
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ESPN5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Telesur
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",E! Entertainment
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",TL Novelas
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Las Estrellas
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Cine Familiar
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Cine Hispano
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Cine Premium
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",CINECANAL
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",E! Entertainment
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",FMH Movies
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/FMH_Movies.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",HBO Plus
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",HBO Xtreme
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Xtreme/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",HBO Signature
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbosignature.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",HBO Mundi
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",HBO Family
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Family/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",HBO Oeste
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Space
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bantel",Caballeros del Zodiaco
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",Dragon Ball Classic
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse1/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",Dragon Ball GT
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse5/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",Dragon Ball Plus
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse4/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",Dragon Ball Z
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse3/chunks.m3u8
-#EXTINF:-1 group-title="Bantel",El Chavo del 8
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
-
-
 #EXTINF:-1 group-title="CLASICOS",Dreiko TV Retro
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="CLASICOS",D PELICULA (P)
@@ -307,75 +206,75 @@ http://45.5.118.152:8000/play/a0dn/index.m3u8
 http://45.5.118.152:8000/play/a0do/index.m3u8
 
 
-#EXTINF:-1 group-title="Deporte",DSports
+#EXTINF:-1 group-title="⚽ Deporte",DSports
 http://181.66.249.25:8000/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="Deporte",DSports 2
+#EXTINF:-1 group-title="⚽ Deporte",DSports 2
 http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="Deporte",DSports +
+#EXTINF:-1 group-title="⚽ Deporte",DSports +
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Deporte",DSports Plus (P)
+#EXTINF:-1 group-title="⚽ Deporte",DSports Plus (P)
 http://181.66.249.25:8000/play/a0gq/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 1 LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 1 LA (P)
 http://181.66.249.25:8000/play/a0k0/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 1 LA
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 1 LA
 http://190.234.82.52:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 2 LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 2 LA (P)
 http://190.234.82.52:8000/play/a0ka/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 3 LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 3 LA (P)
 http://190.234.82.52:8000/play/a0lm/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 4 LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 4 LA (P)
 http://190.234.82.52:8000/play/a0lb/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 5 LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 5 LA (P)
 http://190.234.82.52:8000/play/a0lk/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 6 LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 6 LA (P)
 http://190.234.82.52:8000/play/a0ig/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 7 LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 7 LA (P)
 http://190.234.82.52:8000/play/a0jd/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN Premium LA (P)
+#EXTINF:-1 group-title="⚽ Deporte",ESPN Premium LA (P)
 http://190.234.82.52:8000/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 1 US
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 1 US
 http://45.5.118.152:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 2 US
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 2 US
 http://45.5.116.228:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 3 US
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 3 US
 http://45.5.116.228:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 4 US
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 4 US
 http://45.5.116.228:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 5 US
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 5 US
 http://45.5.116.228:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN 6 US
+#EXTINF:-1 group-title="⚽ Deporte",ESPN 6 US
 http://45.5.116.228:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Deporte",ESPN Premium 
+#EXTINF:-1 group-title="⚽ Deporte",ESPN Premium 
 http://190.234.82.52:8000/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="Deporte",FOX Centro
+#EXTINF:-1 group-title="⚽ Deporte",FOX Centro
 http://45.5.118.152:8000/play/a0dh/index.m3u8
-#EXTINF:-1 group-title="Deporte",Fox Sports AR
+#EXTINF:-1 group-title="⚽ Deporte",Fox Sports AR
 http://177.53.153.207:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Deporte",Fox Sports 2 AR
+#EXTINF:-1 group-title="⚽ Deporte",Fox Sports 2 AR
 http://177.53.153.207:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Deporte",Fox Sports 3 AR
+#EXTINF:-1 group-title="⚽ Deporte",Fox Sports 3 AR
 http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Deporte",GOLF Channel
+#EXTINF:-1 group-title="⚽ Deporte",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
-#EXTINF:-1 group-title="Deporte",L1 MAX (P)
+#EXTINF:-1 group-title="⚽ Deporte",L1 MAX (P)
 http://181.66.249.25:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="Deporte",L1 MAX (P) 2
+#EXTINF:-1 group-title="⚽ Deporte",L1 MAX (P) 2
 http://181.64.27.65:8000/play/a0nj/index.m3u8
-#EXTINF:-1 group-title="Deporte",L1 (P)
+#EXTINF:-1 group-title="⚽ Deporte",L1 (P)
 http://181.66.249.25:8000/play/a0jz/index.m3u8
-#EXTINF:-1 group-title="Deporte",Movistar Deportes
+#EXTINF:-1 group-title="⚽ Deporte",Movistar Deportes
 http://190.234.82.52:8000/play/ac1q/index.m3u8
-#EXTINF:-1 group-title="Deporte",TIGO Sports
+#EXTINF:-1 group-title="⚽ Deporte",TIGO Sports
 http://45.5.118.152:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Deporte",TNT Sports Premium (P)
+#EXTINF:-1 group-title="⚽ Deporte",TNT Sports Premium (P)
 http://190.234.82.52:8000/play/a0k9/index.m3u8
-#EXTINF:-1 group-title="Deporte",YuriTV
+#EXTINF:-1 group-title="⚽ Deporte",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Deporte",Creo Deportes
+#EXTINF:-1 group-title="⚽ Deporte",Creo Deportes
 https://srv1.thinkinternationalchannels.com/creosport/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
-#EXTINF:-1 group-title="Deporte",Moyo Deportes
+#EXTINF:-1 group-title="⚽ Deporte",Moyo Deportes
 http://190.108.90.142:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Deporte",WIN SPORTS +
+#EXTINF:-1 group-title="⚽ Deporte",WIN SPORTS +
 http://190.60.37.118:4000/play/a0bw
 
 
@@ -1807,6 +1706,106 @@ https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
 http://archive.org/download/00_20200826/CutscenesFullHD%20_.mp4
 #EXTINF:-1 group-title="PELICULAS",Mision De Rescate de la Princesa Peach!! 1986
 http://archive.org/download/witflix_20200820/YA7ANA01.mp4
+
+#EXTINF:-1 group-title="Bantel",Matices TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/MaticesTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Latina Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/latina.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Karibena TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/karibena.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",America Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Panamericana Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",TV Peru Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",RPP Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",VIVA TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Telelima Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",Global Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Canal del Congreso Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png",Justicia TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",ATV Sur Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",TV Peru Noticias Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Canal Infantil Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",la voz TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fierrofondo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Willax Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/willax.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",la voz TV Bantel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png",TNT
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tnt/playlist.m3u8
+#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/sonychannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel" tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg",STAR Channel
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio Universal
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/studiouniversal/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",UNIVERSAL
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universal/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",A&E
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/aye.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",USA NETWORK
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ESPN5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Telesur
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",E! Entertainment
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",TL Novelas
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Las Estrellas
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Cine Familiar
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Cine Hispano
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Cine Premium
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",CINECANAL
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",E! Entertainment
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",FMH Movies
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/FMH_Movies.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Plus
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hboplus/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Xtreme
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Xtreme/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Signature
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbosignature.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Mundi
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Family
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Family/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",HBO Oeste
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Space
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bantel",Caballeros del Zodiaco
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse6/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",Dragon Ball Classic
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse1/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",Dragon Ball GT
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse5/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",Dragon Ball Plus
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse4/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",Dragon Ball Z
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse3/chunks.m3u8
+#EXTINF:-1 group-title="Bantel",El Chavo del 8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/animeverse2/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Radio",Radio RPP
 https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?uid=112
