@@ -125,6 +125,8 @@ http://177.53.152.117:8000/play/a0gi/index.m3u8
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",REPRETEL ESA
 http://38.52.208.106:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",TELEMUNDO USA
+http://200.37.201.35:8000/play/a0cu/index.m3u8
 
 
 #EXTINF:-1 group-title="🕰️ CLASICOS",AZ CINEMA
@@ -1769,6 +1771,9 @@ https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
 http://archive.org/download/00_20200826/CutscenesFullHD%20_.mp4
 #EXTINF:-1 group-title="🎞️ PELICULAS",Mision De Rescate de la Princesa Peach!! 1986
 http://archive.org/download/witflix_20200820/YA7ANA01.mp4
+
+
+
 #EXTINF:-1 group-title="🅱️ Bantel",Matices TV Bantel
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/MaticesTV.stream/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",Latina Bantel
