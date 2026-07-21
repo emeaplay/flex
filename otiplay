@@ -130,7 +130,7 @@ http://200.37.201.35:8000/play/a0cu/index.m3u8
 
 
 #EXTINF:-1 group-title="🕰️ CLASICOS",AZ CINEMA
-
+http://181.65.207.62:8000/play/a008
 #EXTINF:-1 group-title="🕰️ CLASICOS",Dreiko TV Retro
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="🕰️ CLASICOS",D PELICULA *
@@ -344,9 +344,11 @@ http://181.64.27.65:8000/play/a0k7/index.m3u8
 http://45.167.2.138:8000/play/a0st/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🔮 Variados",El Gourmet
+#EXTINF:-1 group-title="🔮 Variados",EL GOURMET
 http://45.5.118.188:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="🔮 Variados",Hogar TV
+#EXTINF:-1 group-title="🔮 Variados",FOOD NETWORK
+http://181.65.207.62:8000/play/a00i
+#EXTINF:-1 group-title="🔮 Variados",HOGAR
 http://138.94.3.106:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Hola TV
 http://45.5.118.152:8000/play/a0dl/index.m3u8
