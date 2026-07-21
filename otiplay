@@ -113,7 +113,13 @@ http://45.5.118.152:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 group-title="📺 OTIPLAY",UNIVISION
 
-#EXTINF:-1 group-title="📺 OTIPLAY",LIFETIME
+#EXTINF:-1 group-title="📺 OTIPLAY",LIFETIME *
+http://177.53.152.117:8000/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",CANAL 13 CL *
+http://177.53.152.117:8000/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",TELEAMAZONAS EC *
+http://177.53.152.117:8000/play/a0gi/index.m3u8
+
 
 #EXTINF:-1 group-title="🕰️ CLASICOS",AZ CINEMA
 
@@ -189,10 +195,14 @@ http://45.5.118.152:8000/play/a0bm/index.m3u8
 http://190.234.82.52:8000/play/a0q4/index.m3u8
 #EXTINF:-1 group-title="🎬 Cine",HBO FAMILY
 http://200.35.176.154:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO SIGNATURE
-
+#EXTINF:-1 group-title="🎬 Cine",HBO SIGNATURE *
+http://177.53.152.117:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="🎬 Cine",HBO POP *
+http://177.53.152.117:8000/play/a08q/index.m3u8
 #EXTINF:-1 group-title="🎬 Cine",HBO XTREME
 http://200.35.176.154:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="🎬 Cine",HBO MUNDI *
+http://177.53.152.117:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="🎬 Cine",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="🎬 Cine",MyTime Movie ES
@@ -227,80 +237,85 @@ http://45.5.118.152:8000/play/a0dn/index.m3u8
 http://45.5.118.152:8000/play/a0do/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="🎬 Cine",TNT Centro
 http://190.234.82.52:8000/play/a0l1/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",DAZN
+#EXTINF:-1 group-title="🎬 Cine",USA
+http://177.53.152.117:8000/play/a06y/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Deporte",DSports
+#EXTINF:-1 group-title="⚽ DEPORTE",DAZN
+
+#EXTINF:-1 group-title="⚽ DEPORTE",DSports
 http://190.234.82.52:8000/play/ac5p/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",DSports 2
+#EXTINF:-1 group-title="⚽ DEPORTE",DSports 2
 http://190.234.82.52:8000/play/c4pn/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",DSports +
+#EXTINF:-1 group-title="⚽ DEPORTE",DSports +
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 1 LA
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 1 LA
 http://190.234.82.52:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 2 LA *
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 2 LA *
 http://190.234.82.52:8000/play/a0ka/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 3 LA *
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 3 LA *
 http://190.234.82.52:8000/play/a0lm/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 4 LA *
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 4 LA *
 http://190.234.82.52:8000/play/a0lb/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 5 LA *
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 5 LA *
 http://190.234.82.52:8000/play/a0lk/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 6 LA *
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 6 LA *
 http://190.234.82.52:8000/play/a0ig/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 7 LA *
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 7 LA *
 http://190.234.82.52:8000/play/a0jd/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN Premium LA *
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN Premium LA *
 http://190.234.82.52:8000/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 1 US
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 1 US
 http://45.5.118.152:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 2 US
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 2 US
 http://45.5.116.228:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 3 US
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 3 US
 http://45.5.116.228:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 4 US
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 4 US
 http://45.5.116.228:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 5 US
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 5 US
 http://45.5.116.228:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN 6 US
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN 6 US
 http://45.5.116.228:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",ESPN Premium 
+#EXTINF:-1 group-title="⚽ DEPORTE",ESPN Premium 
 http://190.234.82.52:8000/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",FORMULA 1
-
-#EXTINF:-1 group-title="⚽ Deporte",FOX Centro
+#EXTINF:-1 group-title="⚽ DEPORTE",Discovery Turbo
+http://38.187.2.124:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTE",FOX Centro
 http://45.5.118.152:8000/play/a0dh/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",FOX Salvador
+#EXTINF:-1 group-title="⚽ DEPORTE",FOX Salvador
 http://200.35.176.154:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",Fox Sports AR
+#EXTINF:-1 group-title="⚽ DEPORTE",Fox Sports AR
 http://177.53.153.207:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",Fox Sports 2 AR
+#EXTINF:-1 group-title="⚽ DEPORTE",Fox Sports 2 AR
 http://177.53.153.207:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",Fox Sports 3 AR
+#EXTINF:-1 group-title="⚽ DEPORTE",Fox Sports 3 AR
 http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",Fox Sports 3 MX
-
-#EXTINF:-1 group-title="⚽ Deporte",GOLF Channel
+#EXTINF:-1 group-title="⚽ DEPORTE",TNT SPORTS
+http://38.187.2.124:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTE",GOLF Channel
 http://45.5.116.228:8000/play/a0h1/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",L1 MAX *
-http://181.66.249.25:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",L1 MAX * 2
-http://181.64.27.65:8000/play/a0nj/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",L1 *
+#EXTINF:-1 group-title="⚽ DEPORTE",L1 MAX *
+http://38.187.2.124:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTE",TyC SPORTS *
+http://38.187.2.124:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTE",L1 *
 http://181.66.249.25:8000/play/a0jz/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",Movistar Deportes
+#EXTINF:-1 group-title="⚽ DEPORTE",Movistar DEPORTES
 http://190.234.82.52:8000/play/ac1q/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",TIGO Sports
+#EXTINF:-1 group-title="⚽ DEPORTE",FOX (ex TIGO)
 http://45.5.118.152:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",TNT Sports Premium *
+#EXTINF:-1 group-title="⚽ DEPORTE",TNT Sports Premium *
 http://190.234.82.52:8000/play/a0k9/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",YuriTV
+#EXTINF:-1 group-title="⚽ DEPORTE",YuriTV
 https://live.obslivestream.com/yurimaguastelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",Creo Deportes
+#EXTINF:-1 group-title="⚽ DEPORTE",Creo DEPORTEs
 https://srv1.thinkinternationalchannels.com/creosport/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
-#EXTINF:-1 group-title="⚽ Deporte",Moyo Deportes
+#EXTINF:-1 group-title="⚽ DEPORTE",Moyo DEPORTEs
 http://190.108.90.142:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="⚽ Deporte",WIN SPORTS +
+#EXTINF:-1 group-title="⚽ DEPORTE",WIN SPORTS +
 http://190.60.37.118:4000/play/a0bw
+
+
 #EXTINF:-1 group-title="🔮 Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Clic
@@ -465,7 +480,7 @@ https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",Cine Romantico Pluto
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
-#EXTINF:-1 group-title="📡 PLUTO TV",Deportes Pluto
+#EXTINF:-1 group-title="📡 PLUTO TV",DEPORTEs Pluto
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",Pluto Estrellas de accion
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
