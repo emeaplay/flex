@@ -449,6 +449,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 group-title="🇵🇪 Peru+",TV Norte
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇪 Peru+",TV ONE
+http://191.97.61.32:8000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="🇵🇪 Peru+",Vision TV MUSICA
 https://videoserver.tmcreativos.com:19360/visionMUSICA/visionMUSICA.m3u8
 #EXTINF:-1 group-title="🇵🇪 Peru+",VITAL TV
