@@ -41,8 +41,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina4/latina4.smil
 http://177.53.152.117:8000/play/a0g0/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",PLUSTV LIFE *
 http://177.53.152.117:8000/play/a0fy/index.m3u8
-#EXTINF:-1 group-title="📺 OTIPLAY",USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",JUNTOS TV
+https://live-evg13.tv360.bitel.com.pe/bitel/juntostvSRT/chunks.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",DOBLE C
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",Karibena TV
@@ -99,6 +99,8 @@ http://45.5.118.152:8000/play/a08w/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",COMERCIO
+https://live-evg10.tv360.bitel.com.pe/bitel/comerciotv/chunks.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",Telemundo Intenacional
 http://200.35.176.154:8000/play/a0qy/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",Atmosfera TV
@@ -109,8 +111,8 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://200.35.176.154:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",Canal 5 MX *
 http://45.5.118.152:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="📺 OTIPLAY",UNIVERSO
-
+#EXTINF:-1 group-title="📺 OTIPLAY",ON.TV
+http://38.187.12.139:8000/play/a0aw/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",UNIVISION
 
 #EXTINF:-1 group-title="📺 OTIPLAY",LIFETIME *
@@ -119,6 +121,8 @@ http://177.53.152.117:8000/play/a0gc/index.m3u8
 http://177.53.152.117:8000/play/a0gf/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",TELEAMAZONAS EC *
 http://177.53.152.117:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",USMPTV
+https://streamusmptv.ddns.net/live/stream.m3u8
 
 
 #EXTINF:-1 group-title="🕰️ CLASICOS",AZ CINEMA
