@@ -435,31 +435,33 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 group-title="🇵🇪 Peru+",TV Norte
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇪 Peru+",Vision TV Musica
-https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+#EXTINF:-1 group-title="🇵🇪 Peru+",Vision TV MUSICA
+https://videoserver.tmcreativos.com:19360/visionMUSICA/visionMUSICA.m3u8
 #EXTINF:-1 group-title="🇵🇪 Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
 
-#EXTINF:-1 group-title="🎵 Musica",TELEHIT *
+#EXTINF:-1 group-title="🎵 MUSICA",TELEHIT *
 http://45.5.118.152:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="🎵 Musica",BandaMAX *
+#EXTINF:-1 group-title="🎵 MUSICA",BandaMAX *
 http://45.5.118.152:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="🎵 Musica",ROCKAS
+#EXTINF:-1 group-title="🎵 MUSICA",ROCKAS
 http://45.5.118.152:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="🎵 Musica",INOLVIDABLES
+#EXTINF:-1 group-title="🎵 MUSICA",INOLVIDABLES
 http://45.5.118.152:8000/play/a0a6/index.m3u8
-#EXTINF:-1 group-title="🎵 Musica",HTV
+#EXTINF:-1 group-title="🎵 MUSICA",HTV
 http://200.35.176.154:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="🎵 Musica",LATINOS
+#EXTINF:-1 group-title="🎵 MUSICA",LATINOS
 https://v4.tustreaming.cl/latinostv/index.m3u8
-#EXTINF:-1 group-title="🎵 Musica",RECUERDOS RETRO
+#EXTINF:-1 group-title="🎵 MUSICA",RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w2003342905.m3u8
-#EXTINF:-1 group-title="🎵 Musica",RETROPLUS 2 MUSICA
+#EXTINF:-1 group-title="🎵 MUSICA",RETROPLUS 2 MUSICA
 https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w2132100554.m3u8
-#EXTINF:-1 group-title="🎵 Musica",VM LATINO
+#EXTINF:-1 group-title="🎵 MUSICA",VM LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w397294148.m3u8
-#EXTINF:-1 group-title="🎵 Musica",MTV LATINO
+#EXTINF:-1 group-title="🎵 MUSICA",MTV LATINO
 http://38.187.12.139:8000/play/a0i2/index.m3u8
+#EXTINF:-1 group-title="🎵 MUSICA",STINGRAY CONCERTS
+http://38.187.12.139:8000/play/a0iv/index.m3u8
 
 #EXTINF:-1 group-title="📡 PLUTO TV",MTV Pluto
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
