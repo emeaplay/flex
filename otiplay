@@ -114,7 +114,7 @@ http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",ON.TV
 http://38.187.12.139:8000/play/a0aw/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",UNIVISION
-
+http://38.52.208.106:8000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",LIFETIME *
 http://177.53.152.117:8000/play/a0gc/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",CANAL 13 CL *
