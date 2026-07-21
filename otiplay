@@ -121,6 +121,8 @@ http://177.53.152.117:8000/play/a0gc/index.m3u8
 http://177.53.152.117:8000/play/a0gf/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",TELEAMAZONAS EC *
 http://177.53.152.117:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",TVC EC *
+http://190.235.207.217:8000/play/a0ks/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",REPRETEL ESA
