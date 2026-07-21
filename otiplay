@@ -157,6 +157,8 @@ http://45.5.118.188:8000/play/a06o/index.m3u8
 https://srv1.thinkinternationalchannels.com/oldmovies/index.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:-1 group-title="🕰️ CLASICOS",Video Classic
 http://181.64.27.65:8000/play/a0lr/index.m3u8
+
+
 #EXTINF:-1 group-title="🎬 Cine",AE
 http://200.35.176.154:8000/play/a0qw/index.m3u8
 #EXTINF:-1 group-title="🎬 Cine",AMC
@@ -298,8 +300,8 @@ http://45.5.116.228:8000/play/a0h1/index.m3u8
 http://38.187.2.124:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="⚽ DEPORTE",TyC SPORTS *
 http://38.187.2.124:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="⚽ DEPORTE",L1 *
-http://181.66.249.25:8000/play/a0jz/index.m3u8
+#EXTINF:-1 group-title="⚽ DEPORTE",L1-MAX*
+http://38.187.12.139:8000/play/a0ge/index.m3u8
 #EXTINF:-1 group-title="⚽ DEPORTE",Movistar DEPORTES
 http://190.234.82.52:8000/play/ac1q/index.m3u8
 #EXTINF:-1 group-title="⚽ DEPORTE",FOX (ex TIGO)
@@ -366,6 +368,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Te Quiero TV
 https://srv1.thinkinternationalchannels.com/tequierotv/index.m3u8?token=yI1sYBii_GTZi0
+
 #EXTINF:-1 group-title="🇵🇪 Peru+",36 TV 
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇪 Peru+",AMERICA TV IPTV
@@ -436,6 +439,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:-1 group-title="🇵🇪 Peru+",VITAL TV
 https://stream.mediacorp.pe/srt/1/chunks.m3u8
+
 #EXTINF:-1 group-title="🎵 Musica",TELEHIT *
 http://45.5.118.152:8000/play/a08r/index.m3u8
 #EXTINF:-1 group-title="🎵 Musica",BandaMAX *
@@ -447,13 +451,16 @@ http://45.5.118.152:8000/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="🎵 Musica",HTV
 http://200.35.176.154:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="🎵 Musica",LATINOS
-
+https://v4.tustreaming.cl/latinostv/index.m3u8
 #EXTINF:-1 group-title="🎵 Musica",RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w2003342905.m3u8
 #EXTINF:-1 group-title="🎵 Musica",RETROPLUS 2 MUSICA
 https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w2132100554.m3u8
 #EXTINF:-1 group-title="🎵 Musica",VM LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w397294148.m3u8
+#EXTINF:-1 group-title="🎵 Musica",MTV LATINO
+http://38.187.12.139:8000/play/a0i2/index.m3u8
+
 #EXTINF:-1 group-title="📡 PLUTO TV",MTV Pluto
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",Paramount Pluto
