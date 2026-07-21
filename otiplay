@@ -169,89 +169,89 @@ https://srv1.thinkinternationalchannels.com/oldmovies/index.m3u8?token=yI1sYBii_
 http://181.64.27.65:8000/play/a0lr/index.m3u8
 
 
-#EXTINF:-1 group-title="🎬 Cine",AE
+#EXTINF:-1 group-title="🎬 CINE",AE
 http://200.35.176.154:8000/play/a0qw/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",AMC
+#EXTINF:-1 group-title="🎬 CINE",AMC
 http://200.35.176.154:8000/play/a0qx/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",AMC SERIES
+#EXTINF:-1 group-title="🎬 CINE",AMC SERIES
 http://177.53.152.117:8000/play/a06s/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Canela Cinema
-https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Cine",CINE Estrella TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Cine",CINDIE TV
+#EXTINF:-1 group-title="🎬 CINE",Canela CINEma
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-CINEmalt-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="🎬 CINE",CINE Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-CINEestrella-lgus/playlist.m3u8
+#EXTINF:-1 group-title="🎬 CINE",CINDIE TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?
-#EXTINF:-1 group-title="🎬 Cine",Cine Latino
+#EXTINF:-1 group-title="🎬 CINE",CINE Latino
 http://45.5.118.152:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Cinemax
+#EXTINF:-1 group-title="🎬 CINE",CINEmax
 http://45.5.118.152:8000/play/a07a/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",CINECANAL *
+#EXTINF:-1 group-title="🎬 CINE",CINECANAL *
 http://190.234.82.52:8000/play/a0l2/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",CINECANAL
+#EXTINF:-1 group-title="🎬 CINE",CINECANAL
 http://45.5.118.152:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",DHE
+#EXTINF:-1 group-title="🎬 CINE",DHE
 http://45.5.118.152:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Dreamworks
+#EXTINF:-1 group-title="🎬 CINE",Dreamworks
 http://181.78.211.244:8000/play/a0bd/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",EuroChannel
+#EXTINF:-1 group-title="🎬 CINE",EuroChannel
 http://45.5.118.152:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Film and Arts
+#EXTINF:-1 group-title="🎬 CINE",Film and Arts
 http://45.5.118.152:8000/play/a09n/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",FMTV
+#EXTINF:-1 group-title="🎬 CINE",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Golden
+#EXTINF:-1 group-title="🎬 CINE",Golden
 http://45.5.118.152:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO
+#EXTINF:-1 group-title="🎬 CINE",HBO
 http://45.5.118.152:8000/play/a0bm/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO Centro
+#EXTINF:-1 group-title="🎬 CINE",HBO Centro
 http://190.234.82.52:8000/play/a0q4/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO FAMILY
+#EXTINF:-1 group-title="🎬 CINE",HBO FAMILY
 http://200.35.176.154:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO SIGNATURE *
+#EXTINF:-1 group-title="🎬 CINE",HBO SIGNATURE *
 http://177.53.152.117:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO POP *
+#EXTINF:-1 group-title="🎬 CINE",HBO POP *
 http://177.53.152.117:8000/play/a08q/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO XTREME
+#EXTINF:-1 group-title="🎬 CINE",HBO XTREME
 http://200.35.176.154:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",HBO MUNDI *
+#EXTINF:-1 group-title="🎬 CINE",HBO MUNDI *
 http://177.53.152.117:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",MovieAccess
+#EXTINF:-1 group-title="🎬 CINE",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",MyTime Movie ES
+#EXTINF:-1 group-title="🎬 CINE",MyTime Movie ES
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Cine",MyTime Movie MX
+#EXTINF:-1 group-title="🎬 CINE",MyTime Movie MX
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Multipremier
+#EXTINF:-1 group-title="🎬 CINE",Multipremier
 http://45.5.118.152:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Paramount
+#EXTINF:-1 group-title="🎬 CINE",Paramount
 http://45.5.116.228:8000/play/a0kl/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Paramount*
+#EXTINF:-1 group-title="🎬 CINE",Paramount*
 http://45.5.118.152:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Sony Movies
+#EXTINF:-1 group-title="🎬 CINE",Sony Movies
 http://200.4.195.66:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Sony Movies *
+#EXTINF:-1 group-title="🎬 CINE",Sony Movies *
 http://45.5.118.152:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Creo Movie
+#EXTINF:-1 group-title="🎬 CINE",Creo Movie
 https://srv1.thinkinternationalchannels.com/creomovie/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
-#EXTINF:-1 group-title="🎬 Cine",TeleFLIX
+#EXTINF:-1 group-title="🎬 CINE",TeleFLIX
 http://200.35.176.154:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",TNT +1 *
+#EXTINF:-1 group-title="🎬 CINE",TNT +1 *
 http://181.65.207.62:8000/play/a006
-#EXTINF:-1 group-title="🎬 Cine",TNT CENTRO
+#EXTINF:-1 group-title="🎬 CINE",TNT CENTRO
 http://38.52.208.106:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",TNT Series
+#EXTINF:-1 group-title="🎬 CINE",TNT Series
 http://45.5.118.152:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Universal Comedy
+#EXTINF:-1 group-title="🎬 CINE",Universal Comedy
 http://45.5.118.152:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Universal Crime
+#EXTINF:-1 group-title="🎬 CINE",Universal Crime
 http://45.5.118.152:8000/play/a0dp/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Universal Premiere
+#EXTINF:-1 group-title="🎬 CINE",Universal Premiere
 http://45.5.118.152:8000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",Universal Reality
+#EXTINF:-1 group-title="🎬 CINE",Universal Reality
 http://45.5.118.152:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="🎬 Cine",TNT Centro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="🎬 CINE",TNT Centro
 http://190.234.82.52:8000/play/a0l1/index.m3u8
-#EXTINF:-1 group-title="🎬 Cine",USA
+#EXTINF:-1 group-title="🎬 CINE",USA
 http://177.53.152.117:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 group-title="⚽ DEPORTE",DAZN
@@ -380,7 +380,7 @@ http://45.5.118.152:8000/play/a08p/index.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Univision 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="🔮 Variados",Vision TV Cine
+#EXTINF:-1 group-title="🔮 Variados",Vision TV CINE
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 group-title="🔮 Variados",TV+ Chile
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
@@ -497,17 +497,17 @@ https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",Catastrofes Pluto
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
-#EXTINF:-1 group-title="📡 PLUTO TV",Cine Accion Pluto
+#EXTINF:-1 group-title="📡 PLUTO TV",CINE Accion Pluto
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
-#EXTINF:-1 group-title="📡 PLUTO TV",Cine Clasico Pluto
+#EXTINF:-1 group-title="📡 PLUTO TV",CINE Clasico Pluto
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-#EXTINF:-1 group-title="📡 PLUTO TV",Cine Comedia Pluto
+#EXTINF:-1 group-title="📡 PLUTO TV",CINE Comedia Pluto
 https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",Cocina Pluto
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
-#EXTINF:-1 group-title="📡 PLUTO TV",Cine Estelar Pluto
+#EXTINF:-1 group-title="📡 PLUTO TV",CINE Estelar Pluto
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-#EXTINF:-1 group-title="📡 PLUTO TV",Cine Romantico Pluto
+#EXTINF:-1 group-title="📡 PLUTO TV",CINE Romantico Pluto
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",DEPORTEs Pluto
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
@@ -1840,14 +1840,14 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",Las Estrellas
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
-#EXTINF:-1 group-title="🅱️ Bantel",Cine Familiar
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
-#EXTINF:-1 group-title="🅱️ Bantel",Cine Hispano
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
-#EXTINF:-1 group-title="🅱️ Bantel",Cine Premium
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="🅱️ Bantel",CINE Familiar
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/CINEfamiliar.stream/playlist.m3u8
+#EXTINF:-1 group-title="🅱️ Bantel",CINE Hispano
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/CINEhispano.stream/playlist.m3u8
+#EXTINF:-1 group-title="🅱️ Bantel",CINE Premium
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/CINEpremium.stream/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",CINECANAL
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/CINEcanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",E! Entertainment
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",FMH Movies
@@ -1859,7 +1859,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Xtreme/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",HBO Signature
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbosignature.stream/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",HBO Mundi
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/CINEmax.stream/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",HBO Family
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO_Family/playlist.m3u8
 #EXTINF:-1 group-title="🅱️ Bantel",HBO Oeste
