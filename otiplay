@@ -18,7 +18,7 @@ https://d2b5h5wyivfnfl.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png" group-title="📺 OTIPLAY",ATV
 https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",RPP TV
-https://cdn-ssai.smartbit.co/rpp/index.m3u8
+https://cdn-origin.smartplay.pe/rpp/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",CABLE VISION
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",Latina Noticias
