@@ -258,8 +258,6 @@ http://190.234.82.52:8000/play/a0l1/index.m3u8
 #EXTINF:-1 group-title="🎬 CINE",USA
 http://177.53.152.117:8000/play/a06y/index.m3u8
 
-#EXTINF:-1 group-title="⚽ DEPORTE",DAZN
-
 #EXTINF:-1 group-title="⚽ DEPORTE",DSports
 http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="⚽ DEPORTE",DSports 2
@@ -517,6 +515,7 @@ https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",Pluto Estrellas de accion
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="🔥 Hot",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="🔥 Hot",AdultIPTV.net Asian (720p)
@@ -583,24 +582,8 @@ http://177.53.152.117:8000/play/a03s/index.m3u8
 http://200.35.176.154:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="🔥 Hot",SEXTREME
 http://177.53.152.117:8000/play/a0fi/index.m3u8
-#EXTINF:-1 group-title="🔥 Hot",Penthouse Gold
-http://ru.iptv.monster/play/6880/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",Eromania 4k
-http://ru.iptv.monster/play/1703/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",DITV
-http://ru.iptv.monster/play/2065/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",SXTV
-http://ru.iptv.monster/play/13021/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",Penthouse Gold
-http://ru.iptv.monster/play/8074/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",Penthouse Reality
-http://ru.iptv.monster/play/8074/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",RedLight
-http://ru.iptv.monster/play/594/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",Babes Olero
-http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="🔥 Hot",Margarita
-http://ru.iptv.monster/play/132/manifest.m3u8?token=75BA4FC1CA5013E
+
+
 #EXTINF:-1 group-title="🕖 24/7",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 group-title="🕖 24/7",Los Pitufos
