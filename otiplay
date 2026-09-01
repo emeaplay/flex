@@ -18,7 +18,7 @@ https://d26l0c7cli5gzs.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png" group-title="📺 OTIPLAY",ATV
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",RPP TV
-https://dai.google.com/linear/hls/pa/event/LIxDWCRXQWiMvDmmq8_zgw/stream/fa444e26-40b1-41b8-a50b-2588c61c8815:SCL2/variant/101dd745a4282953d1cafac1e0e1f571/bandwidth/2530745.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",CABLE VISION
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",Latina Noticias
