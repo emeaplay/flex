@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="📺 OTIPLAY",WILLAX
-http://190.234.82.52:8000/play/a0ns/index.m3u8
+http://187.102.210.46/WILLAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835839459/7f9e192ef8c6_480_270.png" group-title="📺 OTIPLAY",LATINA
 http://190.234.82.52:8000/play/a0np/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="📺 OTIPLAY",PBO
@@ -27,6 +27,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",L1MAX
 http://190.234.82.52:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",Cable Magico Deportes
+http://38.187.12.139:8000/play/a0ln/index.m3u8?hls
 #EXTINF:-1 group-title="📺 OTIPLAY",CONTACTO DIGITAL
 https://live.obslivestream.com/contactotv/index.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
 #EXTINF:-1 group-title="📺 OTIPLAY",MATICES TV
@@ -51,10 +53,10 @@ https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/in
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png" group-title="📺 OTIPLAY",LaTele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png" group-title="📺 OTIPLAY",TeleLima
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/173582963845/ffd887d9b98f_480_270.png" group-title="📺 OTIPLAY",TELELIMA
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="📺 OTIPLAY",TNT
-http://45.5.118.152:8000/play/a0di/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" group-title="📺 OTIPLAY",TNT *
+http://38.187.12.139:8000/play/a0nw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="📺 OTIPLAY",SONY CHANNEL *
 http://190.234.82.52:8000/play/a0l4/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",WARNER *
@@ -69,8 +71,8 @@ http://45.5.118.152:8000/play/a02d/index.m3u8
 http://190.234.82.52:8000/play/a0lj/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",A&E
 http://190.234.82.52:8000/play/a0of/index.m3u8
-#EXTINF:-1 group-title="📺 OTIPLAY",USA NETWORK
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ESPN5.stream/playlist.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",DISCOVERY *
+http://38.187.12.139:8000/play/a0i5/index.m3u8?hls
 #EXTINF:-1 group-title="📺 OTIPLAY",FX
 http://45.5.118.152:8000/play/a0c8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="📺 OTIPLAY",History
@@ -129,6 +131,8 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 http://38.52.208.106:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",TELEMUNDO USA
 http://200.37.201.35:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",ANTENA 3 *
+http://38.187.12.139:8000/play/a0kb/index.m3u8?hls
 
 
 #EXTINF:-1 group-title="🕰️ CLASICOS",AZ CINEMA
