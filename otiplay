@@ -227,6 +227,8 @@ http://200.35.176.154:8000/play/a00p/index.m3u8
 http://177.53.152.117:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="🎬 CINE",MovieAccess
 http://45.5.118.188:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="🎬 CINE",Nuestro Canal
+https://es3-p2-netcdn.bitel.com.pe/netcdn-live-5/bitel/ncanalSRT/chunks.m3u8
 #EXTINF:-1 group-title="🎬 CINE",MyTime Movie ES
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎬 CINE",MyTime Movie MX
