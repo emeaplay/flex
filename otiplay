@@ -14,9 +14,9 @@ https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index
 #EXTINF:-1 group-title="📺 OTIPLAY",TVPERU
 http://190.234.82.52:8000/play/a0nr/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_480_270.png" group-title="📺 OTIPLAY",ATV+ Noticias
-https://d26l0c7cli5gzs.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+https://d2h2wh04y3aqtb.cloudfront.net/hls/32nynqn38go4/6_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_480_270.png" group-title="📺 OTIPLAY",ATV
-https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+https://d1m6mvk6qg7xle.cloudfront.net/2_3/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",RPP TV
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/rpptv/livestream0/chunks.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",CABLE VISION
