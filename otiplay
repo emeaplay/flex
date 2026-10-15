@@ -40,7 +40,7 @@ https://jireh-6-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil
 #EXTINF:-1 group-title="📺 OTIPLAY",Latina Podcast
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina4/latina4.smil/latina4/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",CANAL N *
-http://177.53.152.117:8000/play/a0g0/index.m3u8
+http://177.53.152.117:8000/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",PLUSTV LIFE *
 http://177.53.152.117:8000/play/a0fy/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",TV LIBERTAD
@@ -135,6 +135,10 @@ http://38.52.208.106:8000/play/a02q/index.m3u8
 http://200.37.201.35:8000/play/a0cu/index.m3u8
 #EXTINF:-1 group-title="📺 OTIPLAY",ANTENA 3 *
 http://38.187.12.139:8000/play/a0kb/index.m3u8?hls
+#EXTINF:-1 group-title="📺 OTIPLAY",MOYO TV
+http://190.108.90.142:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="📺 OTIPLAY",RPP
+http://190.108.90.142:8000/play/a03a/index.m3u8
 
 
 #EXTINF:-1 group-title="🕰️ CLASICOS",AZ CINEMA
@@ -181,6 +185,8 @@ http://200.35.176.154:8000/play/a0qw/index.m3u8
 http://200.35.176.154:8000/play/a0qx/index.m3u8
 #EXTINF:-1 group-title="🎬 CINE",AMC SERIES
 http://177.53.152.117:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="🎬 CINE",AXN HD
+http://190.108.90.142:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="🎬 CINE",Canela CINEma
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-CINEmalt-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="🎬 CINE",CINE Estrella TV
@@ -233,6 +239,8 @@ https://es3-p2-netcdn.bitel.com.pe/netcdn-live-5/bitel/ncanalSRT/chunks.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎬 CINE",MyTime Movie MX
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎬 CINE",Multicinema *
+http://190.108.90.142:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="🎬 CINE",Multipremier
 http://45.5.118.152:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="🎬 CINE",Paramount
@@ -347,7 +355,7 @@ http://38.52.208.106:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Clic
-http://45.5.116.228:8000/play/a0gz/index.m3u8
+http://190.108.90.142:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Corazon ON Prem
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Corazon
@@ -361,7 +369,7 @@ http://45.5.118.188:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",FOOD NETWORK
 http://181.65.207.62:8000/play/a00i
 #EXTINF:-1 group-title="🔮 Variados",HOGAR
-http://138.94.3.106:8000/play/a04t/index.m3u8
+http://190.108.90.142:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Hola TV
 http://45.5.118.152:8000/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Kanal D Drama
