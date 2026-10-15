@@ -384,8 +384,6 @@ http://45.5.118.152:8000/play/a06d/index.m3u8
 http://45.5.118.152:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Sun Channel
 http://45.5.116.228:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="🔮 Variados",Tele13
-https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Telemundo USA
@@ -400,10 +398,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_3.m3u8
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🔮 Variados",Vision TV CINE
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 group-title="🔮 Variados",TV+ Chile
-https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="🔮 Variados",Te Quiero TV
-https://srv1.thinkinternationalchannels.com/tequierotv/index.m3u8?token=yI1sYBii_GTZi0
+
 
 #EXTINF:-1 group-title="🇵🇪 Peru+",36 TV 
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
@@ -531,6 +526,35 @@ https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:-1 group-title="📡 PLUTO TV",Pluto Estrellas de accion
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Teleamazonas *
+http://181.78.211.244:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="LATINOS",RTS *
+http://181.78.211.244:8000/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="LATINOS",Televicentro *
+http://181.78.211.244:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="LATINOS",Caracol TV
+http://181.78.211.244:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="LATINOS",City TV
+http://181.78.211.244:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="LATINOS",NTN
+http://181.78.211.244:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="LATINOS",Nuestra Tele
+http://181.78.211.244:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="LATINOS",RCN
+http://181.78.211.244:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="LATINOS",TRECE *
+http://181.78.211.244:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="LATINOS",TV+ Chile
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="LATINOS",Te Quiero TV
+https://srv1.thinkinternationalchannels.com/tequierotv/index.m3u8?token=yI1sYBii_GTZi0
+#EXTINF:-1 group-title="LATINOS",Tele13
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
+#EXTINF:-1 group-title="LATINOS",La Red
+http://181.78.211.244:8000/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="LATINOS",Ve Plus
+http://181.78.211.244:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="🔥 Hot",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
