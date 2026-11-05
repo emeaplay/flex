@@ -29,6 +29,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m
 http://38.187.12.139:8000/play/a0ln/index.m3u8?hls
 #EXTINF:-1 group-title="ðŸ“º OTIPLAY",CONTACTO DIGITAL
 https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ðŸ“º OTIPLAY",L1
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 group-title="ðŸ“º OTIPLAY",L1 MAX
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 #EXTINF:-1 group-title="ðŸ“º OTIPLAY",BICOLOR+
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_720p/chunks.m3u8
 #EXTINF:-1 group-title="ðŸ“º OTIPLAY",NATIVA
@@ -43,6 +47,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/chunks.m3u8
 https://live-evg13.tv360.bitel.com.pe/bitel/juntostvSRT/chunks.m3u8
 #EXTINF:-1 group-title="ðŸ“º OTIPLAY",DOBLE C
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+#EXTINF:-1 group-title="ðŸ“º OTIPLAY",BHTV
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w710404978.m3u8
 #EXTINF:-1 group-title="ðŸ“º OTIPLAY",Karibena TV
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1 group-title="ðŸ“º OTIPLAY" tvg-logo="https://www.trivutv.com/assets/images/header/logo2025b.svg",TRIVU
